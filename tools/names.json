@@ -1,0 +1,1381 @@
+{
+"zeus": {
+"en": [
+"Zeus",
+"Jupiter",
+"Jove"
+],
+"zh": [
+"宙斯",
+"朱比特"
+]
+},
+"hera": {
+"en": [
+"Hera",
+"Juno"
+],
+"zh": [
+"赫拉",
+"朱諾"
+]
+},
+"poseidon": {
+"en": [
+"Poseidon",
+"Neptune"
+],
+"zh": [
+"波塞頓",
+"海神尼普頓",
+"涅普頓"
+]
+},
+"hades": {
+"en": [
+"Hades",
+"Pluto"
+],
+"zh": [
+"黑帝斯",
+"冥王",
+"普魯托"
+]
+},
+"demeter": {
+"en": [
+"Demeter",
+"Ceres"
+],
+"zh": [
+"狄蜜特",
+"穀神"
+]
+},
+"hestia": {
+"en": [
+"Hestia",
+"Vesta"
+],
+"zh": [
+"赫斯提亞",
+"維斯塔"
+]
+},
+"athena": {
+"en": [
+"Athena",
+"Athene",
+"Minerva",
+"Pallas"
+],
+"zh": [
+"雅典娜",
+"密涅瓦"
+]
+},
+"apollo": {
+"en": [
+"Apollo",
+"Phoebus"
+],
+"zh": [
+"阿波羅"
+]
+},
+"artemis": {
+"en": [
+"Artemis",
+"Diana"
+],
+"zh": [
+"阿蒂蜜絲",
+"阿提米絲",
+"黛安娜",
+"月神"
+]
+},
+"aphrodite": {
+"en": [
+"Aphrodite",
+"Venus"
+],
+"zh": [
+"阿芙蘿黛蒂",
+"阿芙洛狄忒",
+"維納斯"
+]
+},
+"ares": {
+"en": [
+"Ares",
+"Mars"
+],
+"zh": [
+"阿瑞斯",
+"戰神",
+"馬爾斯"
+]
+},
+"hephaestus": {
+"en": [
+"Hephaestus",
+"Hephaistos",
+"Vulcan"
+],
+"zh": [
+"赫菲斯托斯",
+"伏爾甘",
+"火神"
+]
+},
+"hermes": {
+"en": [
+"Hermes",
+"Mercury"
+],
+"zh": [
+"赫密士",
+"荷米斯",
+"墨丘利"
+]
+},
+"dionysus": {
+"en": [
+"Dionysus",
+"Dionysos",
+"Bacchus"
+],
+"zh": [
+"戴奧尼索斯",
+"酒神",
+"巴克斯"
+]
+},
+"persephone": {
+"en": [
+"Persephone",
+"Proserpina",
+"Proserpine"
+],
+"zh": [
+"波瑟芬妮",
+"普洛塞庇娜"
+]
+},
+"eros": {
+"en": [
+"Eros",
+"Cupid",
+"Amor"
+],
+"zh": [
+"厄洛斯",
+"邱比特",
+"愛神"
+]
+},
+"psyche": {
+"en": [
+"Psyche"
+],
+"zh": [
+"賽姬",
+"普緒刻"
+]
+},
+"cronus": {
+"en": [
+"Cronus",
+"Kronos",
+"Saturn"
+],
+"zh": [
+"克洛諾斯",
+"薩圖恩",
+"農神"
+]
+},
+"rhea": {
+"en": [
+"Rhea"
+],
+"zh": [
+"瑞亞"
+]
+},
+"gaia": {
+"en": [
+"Gaia",
+"Gaea"
+],
+"zh": [
+"蓋亞"
+]
+},
+"uranus": {
+"en": [
+"Uranus",
+"Ouranos"
+],
+"zh": [
+"烏拉諾斯"
+]
+},
+"prometheus": {
+"en": [
+"Prometheus"
+],
+"zh": [
+"普羅米修斯"
+]
+},
+"pandora": {
+"en": [
+"Pandora"
+],
+"zh": [
+"潘朵拉"
+]
+},
+"atlas": {
+"en": [
+"Atlas"
+],
+"zh": [
+"阿特拉斯"
+]
+},
+"helios": {
+"en": [
+"Helios",
+"Sol"
+],
+"zh": [
+"赫利俄斯",
+"太陽神"
+]
+},
+"selene": {
+"en": [
+"Selene",
+"Luna"
+],
+"zh": [
+"瑟琳娜",
+"塞勒涅"
+]
+},
+"eos": {
+"en": [
+"Eos",
+"Aurora"
+],
+"zh": [
+"厄俄斯",
+"奧羅拉",
+"黎明女神",
+"曙光女神"
+]
+},
+"leto": {
+"en": [
+"Leto",
+"Latona"
+],
+"zh": [
+"勒托"
+]
+},
+"hecate": {
+"en": [
+"Hecate"
+],
+"zh": [
+"黑卡蒂"
+]
+},
+"nemesis": {
+"en": [
+"Nemesis"
+],
+"zh": [
+"涅墨西斯"
+]
+},
+"nyx": {
+"en": [
+"Nyx"
+],
+"zh": [
+"倪克斯",
+"夜之女神"
+]
+},
+"typhon": {
+"en": [
+"Typhon"
+],
+"zh": [
+"泰豐"
+]
+},
+"muses": {
+"en": [
+"Muses",
+"Muse",
+"Calliope",
+"Clio",
+"Erato",
+"Euterpe",
+"Melpomene",
+"Polyhymnia",
+"Terpsichore",
+"Thalia",
+"Urania"
+],
+"zh": [
+"繆思",
+"繆斯"
+]
+},
+"graces": {
+"en": [
+"Three Graces",
+"Graces",
+"Charites"
+],
+"zh": [
+"美惠三女神",
+"三美神"
+]
+},
+"pan": {
+"en": [
+"Pan"
+],
+"zh": [
+"潘神",
+"牧神"
+]
+},
+"syrinx": {
+"en": [
+"Syrinx"
+],
+"zh": [
+"席琳克絲"
+]
+},
+"daphne": {
+"en": [
+"Daphne"
+],
+"zh": [
+"達芙妮"
+]
+},
+"marsyas": {
+"en": [
+"Marsyas"
+],
+"zh": [
+"馬敘亞斯",
+"馬爾敘阿斯"
+]
+},
+"hyacinthus": {
+"en": [
+"Hyacinthus",
+"Hyacinth"
+],
+"zh": [
+"雅辛托斯",
+"海辛瑟斯"
+]
+},
+"actaeon": {
+"en": [
+"Actaeon"
+],
+"zh": [
+"阿克泰翁"
+]
+},
+"callisto": {
+"en": [
+"Callisto"
+],
+"zh": [
+"卡利斯托"
+]
+},
+"adonis": {
+"en": [
+"Adonis"
+],
+"zh": [
+"阿多尼斯"
+]
+},
+"arachne": {
+"en": [
+"Arachne"
+],
+"zh": [
+"阿拉克妮"
+]
+},
+"midas": {
+"en": [
+"Midas"
+],
+"zh": [
+"邁達斯",
+"米達斯"
+]
+},
+"silenus": {
+"en": [
+"Silenus"
+],
+"zh": [
+"西勒諾斯"
+]
+},
+"narcissus": {
+"en": [
+"Narcissus"
+],
+"zh": [
+"納西瑟斯",
+"納西色斯"
+]
+},
+"echo": {
+"en": [
+"Echo"
+],
+"zh": [
+"回聲女神",
+"艾可"
+]
+},
+"pygmalion": {
+"en": [
+"Pygmalion"
+],
+"zh": [
+"皮格馬利翁"
+]
+},
+"galatea": {
+"en": [
+"Galatea"
+],
+"zh": [
+"加拉泰亞",
+"葛拉蒂"
+]
+},
+"europa": {
+"en": [
+"Europa"
+],
+"zh": [
+"歐羅巴"
+]
+},
+"leda": {
+"en": [
+"Leda"
+],
+"zh": [
+"麗達"
+]
+},
+"danae": {
+"en": [
+"Danaë",
+"Danae"
+],
+"zh": [
+"達娜厄",
+"達那厄"
+]
+},
+"io": {
+"en": [
+"Io"
+],
+"zh": [
+"伊俄"
+]
+},
+"argus": {
+"en": [
+"Argus"
+],
+"zh": [
+"阿爾戈斯"
+]
+},
+"ganymede": {
+"en": [
+"Ganymede",
+"Ganymed"
+],
+"zh": [
+"加尼米德",
+"蓋尼米德"
+]
+},
+"phaethon": {
+"en": [
+"Phaethon",
+"Phaeton"
+],
+"zh": [
+"法厄同"
+]
+},
+"orpheus": {
+"en": [
+"Orpheus"
+],
+"zh": [
+"俄耳甫斯",
+"奧菲斯"
+]
+},
+"eurydice": {
+"en": [
+"Eurydice"
+],
+"zh": [
+"尤麗狄絲",
+"歐律狄刻"
+]
+},
+"pyramus": {
+"en": [
+"Pyramus"
+],
+"zh": [
+"皮拉穆斯"
+]
+},
+"thisbe": {
+"en": [
+"Thisbe"
+],
+"zh": [
+"提斯柏"
+]
+},
+"philemon": {
+"en": [
+"Philemon",
+"Baucis"
+],
+"zh": [
+"菲利蒙",
+"鮑西絲"
+]
+},
+"atalanta": {
+"en": [
+"Atalanta"
+],
+"zh": [
+"阿塔蘭塔"
+]
+},
+"hippomenes": {
+"en": [
+"Hippomenes"
+],
+"zh": [
+"希波墨涅斯"
+]
+},
+"niobe": {
+"en": [
+"Niobe",
+"Niobid"
+],
+"zh": [
+"尼俄柏"
+]
+},
+"endymion": {
+"en": [
+"Endymion"
+],
+"zh": [
+"恩底彌翁"
+]
+},
+"leander": {
+"en": [
+"Leander",
+"Hero and Leander"
+],
+"zh": [
+"利安德",
+"希羅與利安德"
+]
+},
+"perseus": {
+"en": [
+"Perseus"
+],
+"zh": [
+"柏修斯",
+"珀耳修斯"
+]
+},
+"medusa": {
+"en": [
+"Medusa",
+"Gorgon"
+],
+"zh": [
+"梅杜莎",
+"美杜莎",
+"蛇髮女妖"
+]
+},
+"andromeda": {
+"en": [
+"Andromeda"
+],
+"zh": [
+"安朵美達",
+"安德洛墨達"
+]
+},
+"pegasus": {
+"en": [
+"Pegasus"
+],
+"zh": [
+"飛馬",
+"佩加索斯"
+]
+},
+"heracles": {
+"en": [
+"Heracles",
+"Herakles",
+"Hercules"
+],
+"zh": [
+"海克力斯",
+"海格力斯",
+"赫拉克勒斯"
+]
+},
+"omphale": {
+"en": [
+"Omphale"
+],
+"zh": [
+"翁法勒"
+]
+},
+"nessus": {
+"en": [
+"Nessus"
+],
+"zh": [
+"涅索斯"
+]
+},
+"deianira": {
+"en": [
+"Deianira",
+"Dejanira"
+],
+"zh": [
+"得伊阿尼拉"
+]
+},
+"hydra": {
+"en": [
+"Hydra"
+],
+"zh": [
+"九頭蛇",
+"海德拉"
+]
+},
+"nemean_lion": {
+"en": [
+"Nemean Lion"
+],
+"zh": [
+"涅墨亞獅"
+]
+},
+"cerberus": {
+"en": [
+"Cerberus"
+],
+"zh": [
+"刻耳柏洛斯",
+"地獄犬"
+]
+},
+"hebe": {
+"en": [
+"Hebe"
+],
+"zh": [
+"赫柏"
+]
+},
+"theseus": {
+"en": [
+"Theseus"
+],
+"zh": [
+"翟修斯",
+"忒修斯"
+]
+},
+"minotaur": {
+"en": [
+"Minotaur"
+],
+"zh": [
+"米諾陶",
+"牛頭人"
+]
+},
+"ariadne": {
+"en": [
+"Ariadne"
+],
+"zh": [
+"阿麗雅德妮",
+"阿里阿德涅"
+]
+},
+"minos": {
+"en": [
+"Minos"
+],
+"zh": [
+"米諾斯"
+]
+},
+"daedalus": {
+"en": [
+"Daedalus"
+],
+"zh": [
+"代達洛斯"
+]
+},
+"icarus": {
+"en": [
+"Icarus"
+],
+"zh": [
+"伊卡洛斯"
+]
+},
+"jason": {
+"en": [
+"Jason",
+"Argonauts",
+"Golden Fleece"
+],
+"zh": [
+"傑森",
+"伊阿宋",
+"金羊毛"
+]
+},
+"medea": {
+"en": [
+"Medea"
+],
+"zh": [
+"美狄亞"
+]
+},
+"bellerophon": {
+"en": [
+"Bellerophon"
+],
+"zh": [
+"貝勒羅豐"
+]
+},
+"chimera": {
+"en": [
+"Chimera",
+"Chimaera"
+],
+"zh": [
+"奇美拉",
+"喀邁拉"
+]
+},
+"oedipus": {
+"en": [
+"Oedipus"
+],
+"zh": [
+"伊底帕斯"
+]
+},
+"sphinx": {
+"en": [
+"Sphinx"
+],
+"zh": [
+"史芬克斯",
+"斯芬克斯",
+"人面獅身"
+]
+},
+"cadmus": {
+"en": [
+"Cadmus"
+],
+"zh": [
+"卡德摩斯"
+]
+},
+"meleager": {
+"en": [
+"Meleager",
+"Calydonian"
+],
+"zh": [
+"墨勒阿革洛斯",
+"卡呂冬"
+]
+},
+"sisyphus": {
+"en": [
+"Sisyphus"
+],
+"zh": [
+"西西弗斯",
+"薛西弗斯"
+]
+},
+"tantalus": {
+"en": [
+"Tantalus"
+],
+"zh": [
+"坦塔羅斯"
+]
+},
+"ixion": {
+"en": [
+"Ixion"
+],
+"zh": [
+"伊克西翁"
+]
+},
+"paris": {
+"en": [
+"Judgement of Paris",
+"Judgment of Paris",
+"Paris and Helen",
+"Helen and Paris",
+"Paris and Oenone",
+"Prince Paris"
+],
+"zh": [
+"帕里斯"
+]
+},
+"helen": {
+"en": [
+"Helen of Troy",
+"Rape of Helen",
+"Abduction of Helen",
+"Helen and Paris",
+"Paris and Helen"
+],
+"zh": [
+"海倫"
+]
+},
+"achilles": {
+"en": [
+"Achilles"
+],
+"zh": [
+"阿基里斯",
+"阿喀琉斯"
+]
+},
+"hector": {
+"en": [
+"Hector"
+],
+"zh": [
+"赫克托耳",
+"赫克托"
+]
+},
+"andromache": {
+"en": [
+"Andromache"
+],
+"zh": [
+"安德洛瑪刻"
+]
+},
+"priam": {
+"en": [
+"Priam"
+],
+"zh": [
+"普里阿摩斯"
+]
+},
+"agamemnon": {
+"en": [
+"Agamemnon"
+],
+"zh": [
+"阿伽門農"
+]
+},
+"iphigenia": {
+"en": [
+"Iphigenia",
+"Iphigeneia"
+],
+"zh": [
+"伊菲革涅亞"
+]
+},
+"clytemnestra": {
+"en": [
+"Clytemnestra"
+],
+"zh": [
+"克呂泰涅斯特拉"
+]
+},
+"patroclus": {
+"en": [
+"Patroclus"
+],
+"zh": [
+"帕特羅克洛斯"
+]
+},
+"thetis": {
+"en": [
+"Thetis"
+],
+"zh": [
+"忒提斯"
+]
+},
+"menelaus": {
+"en": [
+"Menelaus"
+],
+"zh": [
+"墨涅拉俄斯"
+]
+},
+"ajax": {
+"en": [
+"Ajax"
+],
+"zh": [
+"埃阿斯"
+]
+},
+"cassandra": {
+"en": [
+"Cassandra"
+],
+"zh": [
+"卡珊德拉"
+]
+},
+"laocoon": {
+"en": [
+"Laocoön",
+"Laocoon"
+],
+"zh": [
+"拉奧孔"
+]
+},
+"trojan_horse": {
+"en": [
+"Trojan Horse",
+"Wooden Horse",
+"Fall of Troy",
+"Sack of Troy",
+"Burning of Troy"
+],
+"zh": [
+"木馬",
+"特洛伊陷落"
+]
+},
+"odysseus": {
+"en": [
+"Odysseus",
+"Ulysses"
+],
+"zh": [
+"奧德修斯",
+"尤利西斯"
+]
+},
+"polyphemus": {
+"en": [
+"Polyphemus",
+"Cyclops"
+],
+"zh": [
+"波呂斐摩斯",
+"獨眼巨人"
+]
+},
+"circe": {
+"en": [
+"Circe"
+],
+"zh": [
+"喀耳刻",
+"瑟西"
+]
+},
+"sirens": {
+"en": [
+"Sirens",
+"Siren"
+],
+"zh": [
+"塞壬",
+"海妖"
+]
+},
+"scylla": {
+"en": [
+"Scylla"
+],
+"zh": [
+"斯庫拉"
+]
+},
+"calypso": {
+"en": [
+"Calypso"
+],
+"zh": [
+"卡呂普索"
+]
+},
+"nausicaa": {
+"en": [
+"Nausicaa",
+"Nausicaä"
+],
+"zh": [
+"瑙西卡"
+]
+},
+"penelope": {
+"en": [
+"Penelope"
+],
+"zh": [
+"潘妮洛碧",
+"珀涅羅珀"
+]
+},
+"telemachus": {
+"en": [
+"Telemachus"
+],
+"zh": [
+"特勒馬科斯"
+]
+},
+"aeneas": {
+"en": [
+"Aeneas"
+],
+"zh": [
+"埃涅阿斯",
+"伊尼亞斯"
+]
+},
+"dido": {
+"en": [
+"Dido"
+],
+"zh": [
+"狄多"
+]
+},
+"anchises": {
+"en": [
+"Anchises"
+],
+"zh": [
+"安基塞斯"
+]
+},
+"nymphs": {
+"en": [
+"Nymph",
+"Nymphs",
+"Naiad",
+"Naiads",
+"Nereid",
+"Nereids",
+"Dryad"
+],
+"zh": [
+"寧芙",
+"水仙女",
+"海仙女",
+"仙女"
+]
+},
+"satyrs": {
+"en": [
+"Satyr",
+"Satyrs",
+"Faun",
+"Fauns"
+],
+"zh": [
+"薩堤爾",
+"薩提爾",
+"半羊人",
+"法翁"
+]
+},
+"centaurs": {
+"en": [
+"Centaur",
+"Centaurs",
+"Chiron",
+"Lapiths"
+],
+"zh": [
+"人馬",
+"半人馬",
+"凱隆"
+]
+},
+"amazons": {
+"en": [
+"Amazon",
+"Amazons",
+"Hippolyta",
+"Penthesilea"
+],
+"zh": [
+"亞馬遜"
+]
+},
+"furies": {
+"en": [
+"Furies",
+"Erinyes"
+],
+"zh": [
+"復仇三女神"
+]
+},
+"triton": {
+"en": [
+"Triton",
+"Amphitrite",
+"Nereus"
+],
+"zh": [
+"特里同",
+"安菲特里忒"
+]
+},
+"semele": {
+"en": [
+"Semele"
+],
+"zh": [
+"塞墨勒"
+]
+},
+"antiope": {
+"en": [
+"Antiope"
+],
+"zh": [
+"安提俄珀"
+]
+},
+"hermaphroditus": {
+"en": [
+"Hermaphroditus",
+"Salmacis"
+],
+"zh": [
+"赫馬佛洛狄忒斯"
+]
+},
+"asclepius": {
+"en": [
+"Asclepius",
+"Aesculapius"
+],
+"zh": [
+"阿斯克勒庇俄斯",
+"醫神"
+]
+},
+"orestes": {
+"en": [
+"Orestes",
+"Electra"
+],
+"zh": [
+"俄瑞斯忒斯",
+"伊萊克特拉"
+]
+},
+"antigone": {
+"en": [
+"Antigone"
+],
+"zh": [
+"安蒂岡妮"
+]
+},
+"phaedra": {
+"en": [
+"Phaedra",
+"Hippolytus"
+],
+"zh": [
+"費德拉",
+"希波呂托斯"
+]
+},
+"pelops": {
+"en": [
+"Pelops"
+],
+"zh": [
+"珀羅普斯"
+]
+},
+"chaos": {
+"en": [],
+"zh": []
+},
+"eros_primordial": {
+"en": [],
+"zh": []
+},
+"moirai": {
+"en": [
+"Fates",
+"Moirai",
+"Parcae"
+],
+"zh": [
+"命運三女神"
+]
+},
+"cyclopes": {
+"en": [
+"Cyclopes"
+],
+"zh": [
+"獨眼巨人族"
+]
+},
+"giants": {
+"en": [
+"Gigantomachy",
+"Giants"
+],
+"zh": [
+"巨人之戰"
+]
+},
+"hippolyta": {
+"en": [
+"Hippolyta",
+"Hippolyte"
+],
+"zh": [
+"希波呂忒"
+]
+},
+"thanatos": {
+"en": [
+"Thanatos"
+],
+"zh": [
+"死神塔納托斯"
+]
+},
+"hypnos": {
+"en": [
+"Hypnos",
+"Somnus"
+],
+"zh": [
+"睡神"
+]
+},
+"eris": {
+"en": [
+"Eris",
+"Discord"
+],
+"zh": [
+"厄莉絲",
+"紛爭女神"
+]
+},
+"hecuba": {
+"en": [
+"Hecuba"
+],
+"zh": [
+"赫庫芭"
+]
+},
+"electra": {
+"en": [
+"Electra"
+],
+"zh": [
+"伊萊克特拉"
+]
+},
+"charybdis": {
+"en": [
+"Charybdis"
+],
+"zh": [
+"卡律布狄斯"
+]
+}
+}

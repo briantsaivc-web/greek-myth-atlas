@@ -1,0 +1,69 @@
+{
+ "version": "v1",
+ "updated": "2026-10-20",
+ "cycles": [
+  {
+   "id": "creation",
+   "zh": "創世與泰坦",
+   "order": 1,
+   "color": "#8e7cc3",
+   "en": "Creation & the Titans",
+   "desc": "從混沌、大地與天空，到泰坦與宙斯的世代之爭，以及普羅米修斯與潘朵拉。",
+   "count": 8
+  },
+  {
+   "id": "olympians",
+   "zh": "奧林帕斯眾神",
+   "order": 2,
+   "color": "#d2a85a",
+   "en": "The Olympians",
+   "desc": "奧林帕斯山上的神祇各有性情與故事：四季的由來、月桂樹、織布比賽、點金術。",
+   "count": 15
+  },
+  {
+   "id": "love",
+   "zh": "愛與變形",
+   "order": 3,
+   "color": "#e0a0b0",
+   "en": "Love & Metamorphoses",
+   "desc": "奧維德《變形記》裡最動人的篇章：愛、追逐、失去，以及化作花草星辰的結局。",
+   "count": 17
+  },
+  {
+   "id": "heroes",
+   "zh": "英雄傳說",
+   "order": 4,
+   "color": "#c96b5c",
+   "en": "Heroes",
+   "desc": "柏修斯、海克力斯、翟修斯、傑森、伊底帕斯——凡人與半神的冒險與試煉。",
+   "count": 16
+  },
+  {
+   "id": "troy",
+   "zh": "特洛伊戰爭",
+   "order": 5,
+   "color": "#7a9cc9",
+   "en": "The Trojan War",
+   "desc": "一顆金蘋果引發的十年戰爭：阿基里斯、赫克托耳、海倫與木馬。",
+   "count": 8
+  },
+  {
+   "id": "return",
+   "zh": "奧德賽與歸鄉",
+   "order": 6,
+   "color": "#6ea39a",
+   "en": "The Odyssey & Homecomings",
+   "desc": "奧德修斯漂泊十年的歸鄉路，以及埃涅阿斯航向義大利的旅程。",
+   "count": 8
+  }
+ ],
+ "counts": {
+  "stories": 72,
+  "characters": 207,
+  "artworks": 1224,
+  "relations": 551
+ },
+ "notes": [
+  "v1（2026-10-20）：72 則故事由 Sonnet 子代理依原典改寫為兒童睡前版本；人物資料與關係由子代理整理；插圖以人物名／關鍵字自動比對兩個大全集的作品題名，可能有誤配。"
+ ]
+}
