@@ -170,7 +170,7 @@ function home(){
   <div class="sec"><h2>人物關係圖</h2><a class="more" href="#graph">開啟互動關係圖 →</a></div>
   <p class="lead">神祇、泰坦、英雄之間的父母、配偶、手足、殺害與變形關係，可拖曳、篩選，點人物看故事。</p>
   <div class="sec"><h2>藝術作品</h2><a class="more" href="#art">全部 ${ART.length} 件 →</a></div>
-  <div class="strip">${ART.filter(a=>a.chars.length).sort(()=>Math.random()-.5).slice(0,14).map(a=>`<img src="${esc(a.thumb)}" alt="${esc(a.z||a.t)}" loading="lazy" onclick="openLb('${a.id}')">`).join('')}</div>`;
+  <div class="strip">${ART.filter(a=>a.chars.length).sort(()=>Math.random()-.5).slice(0,14).map(a=>`<img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy" onclick="openLb('${a.id}')">`).join('')}</div>`;
 }
 function storyCard(s){const c=CYC.find(x=>x.id===s.cycle);const cv=cover(s);return `<button class="card cyc" style="--cc:${c?.color||'#888'}" onclick="go('#story/${s.id}')">${cv?`<img src="${esc(cv)}" alt="" loading="lazy">`:''}<div class="b"><h3>${esc(s.title)}</h3><span class="en">${esc(s.en)}</span><span class="meta">適讀 ${esc(s.age)} · 約 ${s.minutes} 分鐘 · ${esc(c?.zh||'')}</span><span class="sum">${esc(s.summary)}</span></div></button>`}
 function storyList(cid){
@@ -180,7 +180,7 @@ function storyList(cid){
   <div class="grid" id="sgrid">${list.map(storyCard).join('')}</div>`;
 }
 function filterStories(q){q=(q||'').trim();const h=location.hash.match(/^#stories\/(.+)$/);const cid=h?h[1]:null;let list=cid?ST.filter(s=>s.cycle===cid):ST;if(q)list=list.filter(s=>(s.title+s.en+s.summary+s.chars.map(c=>CH[c]?CH[c].zh+CH[c].en:'').join('')).toLowerCase().includes(q.toLowerCase()));document.getElementById('sgrid').innerHTML=list.map(storyCard).join('')||'<p class="lead">沒有符合的故事。</p>'}
-function figHtml(a){return `<figure onclick="openLb('${a.id}')"><img src="${esc(a.img)}" alt="${esc(a.z||a.t)}" loading="lazy"><figcaption>${esc(a.a_zh||a.a)}《${esc(a.z||a.t)}》${a.y?' · '+esc(a.y):''}${a.mu?' · '+esc(a.mu):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`}
+function figHtml(a){return `<figure onclick="openLb('${a.id}')"><img src="${esc(a.img)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption>${esc(a.a_zh||a.a)}《${esc(a.zn||a.z||a.t)}》${a.y?' · '+esc(a.y):''}${a.mu?' · '+esc(a.mu):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`}
 function storyPage(id){
   const s=stOf(id); if(!s) return '<p>找不到這則故事。</p>';
   const c=CYC.find(x=>x.id===s.cycle); const arts=storyArt(s); const idx=ST.indexOf(s); const prev=ST[idx-1],next=ST[idx+1];
@@ -193,7 +193,7 @@ function storyPage(id){
   <div class="ending">${esc(s.ending)}</div>${ai<arts.length?nextFig():''}
   ${s.audit&&s.audit.issues?`<div class="note" style="border-color:var(--danger)"><b>稽核備註</b>　${esc(s.audit.issues)}</div>`:''}
   <div class="note"><b>給家長的話</b><br>${esc(s.parents_note)}${s.moral?`<br><br><b>主題</b>　${esc(s.moral)}`:''}</div>
-  ${arts.length?`<div class="sec"><h2 style="font-size:1.1rem">相關藝術作品（${arts.length}）</h2></div><div class="strip">${arts.map(a=>`<img src="${esc(a.thumb)}" alt="${esc(a.z||a.t)}" loading="lazy" onclick="openLb('${a.id}')">`).join('')}</div>`:''}
+  ${arts.length?`<div class="sec"><h2 style="font-size:1.1rem">相關藝術作品（${arts.length}）</h2></div><div class="strip">${arts.map(a=>`<img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy" onclick="openLb('${a.id}')">`).join('')}</div>`:''}
   <div class="nav2">${prev?`<button onclick="go('#story/${prev.id}')">← ${esc(prev.title)}</button>`:'<span></span>'}${next?`<button onclick="go('#story/${next.id}')">${esc(next.title)} →</button>`:''}</div></article>`;
 }
 function charList(cat){
@@ -215,7 +215,7 @@ function charPage(id){
   <p>${esc(c.bio||'')}</p>${c.note?`<div class="note">${esc(c.note)}</div>`:''}
   <div class="meta"><dl>${relList(c)}</dl></div>
   ${ss.length?`<div class="sec"><h2 style="font-size:1.2rem">相關故事（${ss.length}）</h2></div><div class="grid">${ss.map(storyCard).join('')}</div>`:''}
-  ${arts.length?`<div class="sec"><h2 style="font-size:1.2rem">藝術作品（${arts.length}）</h2></div><div class="wall">${arts.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`).join('')}</div>`:''}</article>`;
+  ${arts.length?`<div class="sec"><h2 style="font-size:1.2rem">藝術作品（${arts.length}）</h2></div><div class="wall">${arts.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.zn||a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`).join('')}</div>`:''}</article>`;
 }
 function graphView(){
   return `<div class="sec"><h2>人物關係圖</h2><span class="lead" style="margin:0">拖曳節點、滾輪縮放；點人物看關係與故事。</span></div>
@@ -257,11 +257,11 @@ function artView(cid){
   const top=Object.values(CH).map(c=>[c,charArt(c.id).length]).filter(x=>x[1]>=3).sort((a,b)=>b[1]-a[1]);
   return `<div class="sec"><h2>藝術作品</h2><span class="lead" style="margin:0">${list.length} 件，取自兩個大全集；點圖看大圖與原站條目。</span></div>
   <div class="chips"><span class="chip ${!cid?'on':''}" onclick="go('#art')">全部</span>${top.map(([c,n])=>`<span class="chip ${c.id===cid?'on':''}" onclick="go('#art/${c.id}')">${esc(c.zh)} ${n}</span>`).join('')}</div>
-  <div class="wall">${list.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`).join('')}</div>`;
+  <div class="wall">${list.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.zn||a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`).join('')}</div>`;
 }
 function openLb(id){const a=artOf(id);if(!a)return;const s=SITE[a.site];const stories=ST.filter(st=>(st.art||[]).includes(id));
-  document.getElementById('lbpic').innerHTML=`<img src="${esc(a.img)}" alt="${esc(a.z||a.t)}">`;
-  document.getElementById('lbin').innerHTML=`<h3>${esc(a.z||a.t)}</h3><div style="font-family:var(--latin);font-style:italic;color:var(--muted)">${esc(a.t)}</div><p style="margin:10px 0 4px"><b>${esc(a.a_zh||a.a)}</b>${a.a_zh?` · ${esc(a.a)}`:''}</p><p style="margin:0;color:var(--muted)">${esc(a.y||'')}${a.mu?' · '+esc(a.mu):''}${a.mat?' · '+esc(a.mat):''}</p>
+  document.getElementById('lbpic').innerHTML=`<img src="${esc(a.img)}" alt="${esc(a.zn||a.z||a.t)}">`;
+  document.getElementById('lbin').innerHTML=`<h3>${esc(a.zn||a.z||a.t)}</h3><div style="font-family:var(--latin);font-style:italic;color:var(--muted)">${esc(a.t)}</div><p style="margin:10px 0 4px"><b>${esc(a.a_zh||a.a)}</b>${a.a_zh?` · ${esc(a.a)}`:''}</p><p style="margin:0;color:var(--muted)">${esc(a.y||'')}${a.mu?' · '+esc(a.mu):''}${a.mat?' · '+esc(a.mat):''}</p>
   ${a.chars.length?`<div class="chips">${a.chars.map(c=>CH[c]?`<span class="chip" onclick="closeLb();go('#char/${c}')">${esc(CH[c].zh)}</span>`:'').join('')}</div>`:''}
   ${stories.length?`<div class="lbl" style="margin-top:8px">相關故事</div>${stories.map(st=>`<div><a href="#story/${st.id}" onclick="closeLb()">${esc(st.title)}</a></div>`).join('')}`:''}
   <p style="margin-top:14px;font-size:.85rem"><a href="${esc(s.url)}#work/${esc(a.wid)}" target="_blank" rel="noopener">在${s.name}開啟此作品（含高解析度大圖）→</a></p>${a.src_url?`<p style="font-size:.8rem"><a href="${esc(a.src_url)}" target="_blank" rel="noopener">圖檔來源頁</a></p>`:''}${a.wd_flag?'<p style="font-size:.8rem;color:var(--danger)">⚠ 原站標示此圖與條目資料有待核對之處。</p>':''}`;
