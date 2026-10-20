@@ -1,0 +1,60 @@
+{
+ "file": "stories.json",
+ "key": "id",
+ "description": "210_myth_fix_stories: 將 9 位孤立人物（泰坦神族、海怪始祖、帕西法厄、圖洛等）關聯至對應篇章，使全圖譜 467 位人物均有故事脈絡",
+ "set": {
+  "st001": {
+   "chars": [
+    "chaos",
+    "gaia",
+    "uranus",
+    "nyx",
+    "eros_primordial",
+    "pontus",
+    "coeus",
+    "hyperion",
+    "theia",
+    "mnemosyne"
+   ]
+  },
+  "st041": {
+   "chars": [
+    "perseus",
+    "medusa",
+    "athena",
+    "hermes",
+    "danae",
+    "pegasus",
+    "phorcys",
+    "ceto"
+   ]
+  },
+  "st047": {
+   "chars": [
+    "theseus",
+    "minotaur",
+    "ariadne",
+    "minos",
+    "aegeus",
+    "pasiphae"
+   ]
+  },
+  "st050": {
+   "chars": [
+    "jason",
+    "medea",
+    "argonauts",
+    "aeetes",
+    "pelias",
+    "hera",
+    "tyro"
+   ]
+  }
+ },
+ "evidence": {
+  "st001": "赫西俄德《神譜》：蓋亞生烏拉諾斯與蓬托斯（Pontus），與烏拉諾斯生十二泰坦（含科俄斯、許珀里翁、忒伊亞、摩涅莫辛涅）",
+  "st041": "偽阿波羅多洛斯《書庫》：美杜莎等戈耳工三姊妹與格賴埃三姊妹皆為福耳庫斯（Phorcys）與刻托（Ceto）所生",
+  "st047": "荷馬與奧維德神話：克里特王后帕西法厄（Pasiphaë）為米諾斯之妻、米諾陶之母",
+  "st050": "荷馬《奧德賽》第十一卷：圖洛（Tyro）為色薩利公主，波塞冬所愛，生下奪取伊奧爾科斯王位的佩利亞斯（Pelias）"
+ }
+}

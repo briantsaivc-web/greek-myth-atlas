@@ -8,7 +8,12 @@
 "gaia",
 "uranus",
 "nyx",
-"eros_primordial"
+"eros_primordial",
+"pontus",
+"coeus",
+"hyperion",
+"theia",
+"mnemosyne"
 ],
 "age": "7+",
 "minutes": 8,
@@ -20689,7 +20694,9 @@
 "athena",
 "hermes",
 "danae",
-"pegasus"
+"pegasus",
+"phorcys",
+"ceto"
 ],
 "age": "7+",
 "minutes": 8,
@@ -21594,7 +21601,8 @@
 "minotaur",
 "ariadne",
 "minos",
-"aegeus"
+"aegeus",
+"pasiphae"
 ],
 "age": "9+",
 "minutes": 8,
@@ -21981,7 +21989,8 @@
 "argonauts",
 "aeetes",
 "pelias",
-"hera"
+"hera",
+"tyro"
 ],
 "age": "7+",
 "minutes": 9,
