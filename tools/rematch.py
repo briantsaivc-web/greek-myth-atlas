@@ -15,18 +15,36 @@ L=lambda p:json.load(open(p,encoding='utf-8'))
 S=L(R+'data/stories.json'); C=L(R+'data/characters.json'); ART=L(R+'data/artworks.json'); N=L(R+'tools/names.json')
 BLACK=re.compile(r'(?i)raft of the medusa|medusa\b.*raft|aurora leigh|pan american|diana vreeland')
 # 譯名統一：所有 names.json 的 zh 變體 → characters.json 的 zh
+ROMAN_ALL={'朱庇特','朱比特','涅普頓','普魯托','普路托','刻瑞斯','克瑞斯','密涅瓦','彌涅耳瓦','馬爾斯','伏爾甘','武爾坎','兀兒肯','維納斯','墨丘利','巴克斯','巴庫斯','巴科斯','普洛塞庇娜','普羅塞耳皮娜','丘比特','邱比特','丘位元','奧羅拉','曙光女神','黛安娜','狄安娜','薩圖爾努斯','薩圖恩','尤利西斯','命運女神','命運三女神','不和女神','朱諾','海神尼普頓','穀神','月神','戰神','火神','酒神','愛神','冥王','牧神','太陽神','黎明女神','農神','海妖','地獄犬','飛馬','睡神','死神塔納托斯','巨人之戰','獨眼巨人族','美惠三女神','三美神'}
 v2s={}
 for cid,v in N.items():
     std=C.get(cid,{}).get('zh')
     if not std: continue
     for z in v.get('zh',[]):
         if z!=std and len(z)>=2: v2s[z]=std
+v2s={k:v for k,v in v2s.items() if k not in ROMAN_ALL}
 v2s=dict(sorted(v2s.items(),key=lambda x:-len(x[0])))
 def norm_zh(t):
     for a,b in v2s.items():
         if a in t: t=t.replace(a,b)
     return t
-for a in ART: a['zn']=norm_zh(a['z']) if a.get('z') else ''
+CV=L('/home/claude/myth/work/out/caption_variants.json')
+ROMAN={'朱庇特','朱比特','涅普頓','普魯托','普路托','刻瑞斯','克瑞斯','密涅瓦','彌涅耳瓦','馬爾斯','伏爾甘','武爾坎','兀兒肯','維納斯','墨丘利','巴克斯','巴庫斯','巴科斯','普洛塞庇娜','普羅塞耳皮娜','丘比特','邱比特','丘位元','奧羅拉','曙光女神','黛安娜','狄安娜','薩圖爾努斯','薩圖恩','尤利西斯','命運女神','命運三女神','不和女神','朱諾'}
+SKIP_IF=re.compile('巴克斯特|聖農神|海倫娜|阿格勞羅斯')
+cv=sorted(CV.items(),key=lambda x:-len(x[0]))
+def norm_caption(t):
+    t=norm_zh(t)
+    # 音譯變體 → 標準；羅馬名保留並加註（標準名）一次
+    annotated=set()
+    for var,cid in cv:
+        std=C.get(cid,{}).get('zh')
+        if not std or var not in t or (SKIP_IF.search(t) and var in ('巴克斯','農神','海倫')): continue
+        if var in ROMAN:
+            if cid not in annotated: t=t.replace(var,var+'（'+std+'）',1); annotated.add(cid)
+        else: t=t.replace(var,std)
+    t=t.replace('農神吞噬其子','農神（克洛諾斯）吞噬其子')
+    return t
+for a in ART: a['zn']=(norm_caption(a['z']) if not BLACK.search(a['t']) else a['z']) if a.get('z') else ''
 # 專屬度
 freq=collections.Counter(c for s in S for c in s['chars'])
 specific={c for c,n in freq.items() if n<=3}
