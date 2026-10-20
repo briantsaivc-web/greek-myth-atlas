@@ -1,5 +1,5 @@
 {
- "version": "v2",
+ "version": "v3",
  "updated": "2026-10-20",
  "cycles": [
   {
@@ -9,12 +9,21 @@
    "color": "#8e7cc3",
    "en": "Creation & the Titans",
    "desc": "從混沌、大地與天空，到泰坦與宙斯的世代之爭，以及普羅米修斯與潘朵拉。",
-   "count": 8
+   "count": 16
+  },
+  {
+   "id": "gods",
+   "zh": "諸神小故事",
+   "order": 2,
+   "color": "#d9b86a",
+   "en": "Tales of the Gods",
+   "desc": "次要神祇、奧林帕斯日常、神諭與冥界：神也有脾氣、也會犯錯。",
+   "count": 45
   },
   {
    "id": "olympians",
    "zh": "奧林帕斯眾神",
-   "order": 2,
+   "order": 3,
    "color": "#d2a85a",
    "en": "The Olympians",
    "desc": "奧林帕斯山上的神祇各有性情與故事：四季的由來、月桂樹、織布比賽、點金術。",
@@ -23,48 +32,94 @@
   {
    "id": "love",
    "zh": "愛與變形",
-   "order": 3,
+   "order": 4,
    "color": "#e0a0b0",
    "en": "Love & Metamorphoses",
    "desc": "奧維德《變形記》裡最動人的篇章：愛、追逐、失去，以及化作花草星辰的結局。",
    "count": 17
   },
   {
+   "id": "tales",
+   "zh": "變形記雜篇",
+   "order": 5,
+   "color": "#c48fb0",
+   "en": "Metamorphoses Miscellany",
+   "desc": "奧維德筆下較少人知的篇章：愛、嫉妒與變形。",
+   "count": 36
+  },
+  {
+   "id": "origins",
+   "zh": "星座與花草由來",
+   "order": 6,
+   "color": "#9ec9a0",
+   "en": "Constellations & Origins",
+   "desc": "星星、花朵、鳥獸與河流的來歷：每一樣都是一個人、一段愛或一次失去變成的。",
+   "count": 45
+  },
+  {
    "id": "heroes",
    "zh": "英雄傳說",
-   "order": 4,
+   "order": 7,
    "color": "#c96b5c",
    "en": "Heroes",
    "desc": "柏修斯、海克力斯、翟修斯、傑森、伊底帕斯——凡人與半神的冒險與試煉。",
-   "count": 16
+   "count": 42
+  },
+  {
+   "id": "argonauts",
+   "zh": "阿爾戈英雄歷險",
+   "order": 8,
+   "color": "#c9a86b",
+   "en": "The Argonauts",
+   "desc": "傑森與五十位英雄乘阿爾戈號遠征：逐站冒險，取回金羊毛。",
+   "count": 25
+  },
+  {
+   "id": "thebes",
+   "zh": "底比斯與王室悲劇",
+   "order": 9,
+   "color": "#b07f8f",
+   "en": "Thebes & the Royal Houses",
+   "desc": "卡德摩斯、伊底帕斯與阿特柔斯家族：一代傳一代的詛咒與抉擇。",
+   "count": 30
   },
   {
    "id": "troy",
    "zh": "特洛伊戰爭",
-   "order": 5,
+   "order": 10,
    "color": "#7a9cc9",
    "en": "The Trojan War",
    "desc": "一顆金蘋果引發的十年戰爭：阿基里斯、赫克托耳、海倫與木馬。",
-   "count": 8
+   "count": 44
   },
   {
    "id": "return",
    "zh": "奧德賽與歸鄉",
-   "order": 6,
+   "order": 11,
    "color": "#6ea39a",
    "en": "The Odyssey & Homecomings",
    "desc": "奧德修斯漂泊十年的歸鄉路，以及埃涅阿斯航向義大利的旅程。",
-   "count": 8
+   "count": 30
+  },
+  {
+   "id": "aeneid",
+   "zh": "埃涅阿斯紀",
+   "order": 12,
+   "color": "#7fa0b5",
+   "en": "The Aeneid",
+   "desc": "從特洛伊的灰燼到義大利：埃涅阿斯的漂泊與建國。",
+   "count": 20
   }
  ],
  "counts": {
-  "stories": 72,
-  "characters": 207,
-  "artworks": 1224,
-  "relations": 551
+  "stories": 365,
+  "characters": 467,
+  "artworks": 1796,
+  "relations": 1024
  },
  "notes": [
   "v1（2026-10-20）：72 則故事由 Sonnet 子代理依原典改寫為兒童睡前版本；人物資料與關係由子代理整理；插圖以人物名／關鍵字自動比對兩個大全集的作品題名，可能有誤配。",
-  "v2（2026-10-20）：72 則故事全部加長至 1,800–2,000 字，情節依原典寫完整（不刪擄掠、戰鬥、死亡等情節，用字對孩子友善）；「給家長的話」改為提示可先看過的段落與講法。"
+  "v2（2026-10-20）：72 則故事全部加長至 1,800–2,000 字，情節依原典寫完整（不刪擄掠、戰鬥、死亡等情節，用字對孩子友善）；「給家長的話」改為提示可先看過的段落與講法。",
+  "v3（2026-10-20）：故事擴充至 365 則（一天一則），新增 6 個篇章；人物擴充至 467 位。"
  ]
 }

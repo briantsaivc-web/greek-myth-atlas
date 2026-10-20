@@ -136,10 +136,11 @@ footer{color:var(--muted);font-size:.8rem;margin-top:40px;border-top:1px solid v
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const J=n=>fetch('data/'+n+'.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error(n);return r.json()});
 let ST=[],CH={},ART=[],REL=[],META={},CYC=[];
-const SITE={p:{name:'西洋藝術流派大全集',url:'https://briantsaivc-web.github.io/art-history-atlas/'},s:{name:'西洋雕刻演進大全集',url:'https://briantsaivc-web.github.io/sculpture-atlas/'}};
+const SITE={p:{name:'西洋藝術流派大全集',url:'https://briantsaivc-web.github.io/art-history-atlas/'},s:{name:'西洋雕刻演進大全集',url:'https://briantsaivc-web.github.io/sculpture-atlas/'},m:{name:'本站（Wikidata／Commons）',url:''}};
 const CATC={'原始神':'#8e7cc3','泰坦':'#7a9cc9','奧林帕斯十二主神':'#d2a85a','其他神祇':'#c9b36b','半神與英雄':'#c96b5c','凡人':'#9aa89a','怪物與異獸':'#6ea39a','群體':'#8a8a8a'};
 const RELC={父母:'#d2a85a',配偶:'#c96b5c',情人:'#e0a0b0',手足:'#7a9cc9',殺害:'#9c2f2f',變形:'#6ea39a',師徒:'#9aa89a'};
 const artById={}; const artOf=id=>artById[id];
+const kindOf=a=>a.site==='s'||a.kind==='s'?'雕刻':'繪畫';
 function stOf(id){return ST.find(s=>s.id===id)}
 function storyArt(s){return (s.art||[]).map(artOf).filter(Boolean)}
 function charArt(c){return ART.filter(a=>a.chars.includes(c))}
@@ -180,7 +181,7 @@ function storyList(cid){
   <div class="grid" id="sgrid">${list.map(storyCard).join('')}</div>`;
 }
 function filterStories(q){q=(q||'').trim();const h=location.hash.match(/^#stories\/(.+)$/);const cid=h?h[1]:null;let list=cid?ST.filter(s=>s.cycle===cid):ST;if(q)list=list.filter(s=>(s.title+s.en+s.summary+s.chars.map(c=>CH[c]?CH[c].zh+CH[c].en:'').join('')).toLowerCase().includes(q.toLowerCase()));document.getElementById('sgrid').innerHTML=list.map(storyCard).join('')||'<p class="lead">沒有符合的故事。</p>'}
-function figHtml(a){return `<figure onclick="openLb('${a.id}')"><img src="${esc(a.img)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption>${esc(a.a_zh||a.a)}《${esc(a.zn||a.z||a.t)}》${a.y?' · '+esc(a.y):''}${a.mu?' · '+esc(a.mu):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`}
+function figHtml(a){return `<figure onclick="openLb('${a.id}')"><img src="${esc(a.img)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption>${esc(a.a_zh||a.a)}《${esc(a.zn||a.z||a.t)}》${a.y?' · '+esc(a.y):''}${a.mu?' · '+esc(a.mu):''} · ${kindOf(a)}</figcaption></figure>`}
 function storyPage(id){
   const s=stOf(id); if(!s) return '<p>找不到這則故事。</p>';
   const c=CYC.find(x=>x.id===s.cycle); const arts=storyArt(s); const idx=ST.indexOf(s); const prev=ST[idx-1],next=ST[idx+1];
@@ -215,7 +216,7 @@ function charPage(id){
   <p>${esc(c.bio||'')}</p>${c.note?`<div class="note">${esc(c.note)}</div>`:''}
   <div class="meta"><dl>${relList(c)}</dl></div>
   ${ss.length?`<div class="sec"><h2 style="font-size:1.2rem">相關故事（${ss.length}）</h2></div><div class="grid">${ss.map(storyCard).join('')}</div>`:''}
-  ${arts.length?`<div class="sec"><h2 style="font-size:1.2rem">藝術作品（${arts.length}）</h2></div><div class="wall">${arts.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.zn||a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`).join('')}</div>`:''}</article>`;
+  ${arts.length?`<div class="sec"><h2 style="font-size:1.2rem">藝術作品（${arts.length}）</h2></div><div class="wall">${arts.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.zn||a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${kindOf(a)}</figcaption></figure>`).join('')}</div>`:''}</article>`;
 }
 function graphView(){
   return `<div class="sec"><h2>人物關係圖</h2><span class="lead" style="margin:0">拖曳節點、滾輪縮放；點人物看關係與故事。</span></div>
@@ -257,14 +258,14 @@ function artView(cid){
   const top=Object.values(CH).map(c=>[c,charArt(c.id).length]).filter(x=>x[1]>=3).sort((a,b)=>b[1]-a[1]);
   return `<div class="sec"><h2>藝術作品</h2><span class="lead" style="margin:0">${list.length} 件，取自兩個大全集；點圖看大圖與原站條目。</span></div>
   <div class="chips"><span class="chip ${!cid?'on':''}" onclick="go('#art')">全部</span>${top.map(([c,n])=>`<span class="chip ${c.id===cid?'on':''}" onclick="go('#art/${c.id}')">${esc(c.zh)} ${n}</span>`).join('')}</div>
-  <div class="wall">${list.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.zn||a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`).join('')}</div>`;
+  <div class="wall">${list.map(a=>`<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.zn||a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.zn||a.z||a.t)}</b><br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${kindOf(a)}</figcaption></figure>`).join('')}</div>`;
 }
 function openLb(id){const a=artOf(id);if(!a)return;const s=SITE[a.site];const stories=ST.filter(st=>(st.art||[]).includes(id));
   document.getElementById('lbpic').innerHTML=`<img src="${esc(a.img)}" alt="${esc(a.zn||a.z||a.t)}">`;
   document.getElementById('lbin').innerHTML=`<h3>${esc(a.zn||a.z||a.t)}</h3><div style="font-family:var(--latin);font-style:italic;color:var(--muted)">${esc(a.t)}</div><p style="margin:10px 0 4px"><b>${esc(a.a_zh||a.a)}</b>${a.a_zh?` · ${esc(a.a)}`:''}</p><p style="margin:0;color:var(--muted)">${esc(a.y||'')}${a.mu?' · '+esc(a.mu):''}${a.mat?' · '+esc(a.mat):''}</p>
   ${a.chars.length?`<div class="chips">${a.chars.map(c=>CH[c]?`<span class="chip" onclick="closeLb();go('#char/${c}')">${esc(CH[c].zh)}</span>`:'').join('')}</div>`:''}
   ${stories.length?`<div class="lbl" style="margin-top:8px">相關故事</div>${stories.map(st=>`<div><a href="#story/${st.id}" onclick="closeLb()">${esc(st.title)}</a></div>`).join('')}`:''}
-  <p style="margin-top:14px;font-size:.85rem"><a href="${esc(s.url)}#work/${esc(a.wid)}" target="_blank" rel="noopener">在${s.name}開啟此作品（含高解析度大圖）→</a></p>${a.src_url?`<p style="font-size:.8rem"><a href="${esc(a.src_url)}" target="_blank" rel="noopener">圖檔來源頁</a></p>`:''}${a.wd_flag?'<p style="font-size:.8rem;color:var(--danger)">⚠ 原站標示此圖與條目資料有待核對之處。</p>':''}`;
+  ${s.url?`<p style="margin-top:14px;font-size:.85rem"><a href="${esc(s.url)}#work/${esc(a.wid)}" target="_blank" rel="noopener">在${s.name}開啟此作品（含高解析度大圖）→</a></p>`:`<p style="margin-top:14px;font-size:.85rem"><a href="${esc(a.src_url||'')}" target="_blank" rel="noopener">在 Wikimedia Commons 開啟原檔（最高解析度）→</a></p>`}${a.src_url?`<p style="font-size:.8rem"><a href="${esc(a.src_url)}" target="_blank" rel="noopener">圖檔來源頁</a></p>`:''}${a.wd_flag?'<p style="font-size:.8rem;color:var(--danger)">⚠ 原站標示此圖與條目資料有待核對之處。</p>':''}`;
   document.getElementById('lb').classList.add('on');document.body.style.overflow='hidden'}
 function closeLb(){document.getElementById('lb').classList.remove('on');document.body.style.overflow=''}
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLb()});

@@ -65,7 +65,10 @@
 "typhon",
 "charybdis",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers",
+"python",
+"erichthonius"
 ],
 "siblings": [],
 "killed": [],
@@ -147,7 +150,11 @@
 "hypnos",
 "thanatos",
 "moirai",
-"furies"
+"furies",
+"charon",
+"allecto",
+"hesperides",
+"lyssa"
 ],
 "siblings": [],
 "killed": [],
@@ -189,7 +196,9 @@
 "themis",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers",
+"lyssa"
 ],
 "siblings": [],
 "killed": [],
@@ -259,7 +268,8 @@
 "hades",
 "demeter",
 "hestia",
-"chiron"
+"chiron",
+"picus"
 ],
 "siblings": [
 "rhea",
@@ -273,7 +283,8 @@
 "mnemosyne",
 "cyclopes",
 "giants",
-"coeus"
+"coeus",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -323,7 +334,8 @@
 "iapetus",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -355,7 +367,14 @@
 "lovers": [],
 "children": [
 "metis",
-"peneus"
+"peneus",
+"styx",
+"pleione",
+"clytie",
+"alpheus",
+"achelous",
+"eurynome",
+"scamander"
 ],
 "siblings": [
 "cronus",
@@ -369,7 +388,8 @@
 "iapetus",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -398,7 +418,14 @@
 "lovers": [],
 "children": [
 "metis",
-"peneus"
+"peneus",
+"styx",
+"pleione",
+"clytie",
+"alpheus",
+"achelous",
+"eurynome",
+"scamander"
 ],
 "siblings": [
 "cronus",
@@ -412,7 +439,8 @@
 "iapetus",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -456,7 +484,8 @@
 "mnemosyne",
 "coeus",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -500,7 +529,8 @@
 "iapetus",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -528,7 +558,8 @@
 ],
 "lovers": [],
 "children": [
-"leto"
+"leto",
+"delos_island"
 ],
 "siblings": [
 "cronus",
@@ -542,7 +573,8 @@
 "themis",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -570,7 +602,8 @@
 ],
 "lovers": [],
 "children": [
-"leto"
+"leto",
+"delos_island"
 ],
 "siblings": [
 "cronus",
@@ -584,7 +617,8 @@
 "iapetus",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -626,7 +660,8 @@
 "themis",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -655,7 +690,9 @@
 "zeus"
 ],
 "lovers": [],
-"children": [],
+"children": [
+"horae"
+],
 "siblings": [
 "cronus",
 "rhea",
@@ -668,7 +705,8 @@
 "iapetus",
 "mnemosyne",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -711,7 +749,8 @@
 "phoebe",
 "themis",
 "cyclopes",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [],
@@ -735,11 +774,16 @@
 "parents": [
 "iapetus"
 ],
-"spouses": [],
+"spouses": [
+"pleione"
+],
 "lovers": [],
 "children": [
 "maia",
-"calypso"
+"calypso",
+"pleiades",
+"hyades",
+"hyas"
 ],
 "siblings": [
 "prometheus",
@@ -841,7 +885,8 @@
 "spouses": [
 "hera",
 "metis",
-"themis"
+"themis",
+"eurynome"
 ],
 "lovers": [
 "mnemosyne",
@@ -857,7 +902,8 @@
 "callisto",
 "demeter",
 "ganymede",
-"thetis"
+"thetis",
+"antiope"
 ],
 "children": [
 "athena",
@@ -878,7 +924,16 @@
 "perseus",
 "helen",
 "tantalus",
-"pollux"
+"pollux",
+"aeacus",
+"amphion",
+"zethus",
+"tityus",
+"rhadamanthys",
+"charites",
+"horae",
+"pirithous",
+"sarpedon"
 ],
 "siblings": [
 "hera",
@@ -888,7 +943,11 @@
 "hestia",
 "chiron"
 ],
-"killed": [],
+"killed": [
+"capaneus",
+"salmoneus",
+"idas"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -962,7 +1021,9 @@
 "lovers": [
 "medusa",
 "demeter",
-"tyro"
+"tyro",
+"caeneus",
+"amymone"
 ],
 "children": [
 "triton",
@@ -970,7 +1031,14 @@
 "charybdis",
 "pelias",
 "polyphemus",
-"bellerophon"
+"bellerophon",
+"orion",
+"rhodos",
+"amycus",
+"halirrhothius",
+"aloadae",
+"arion",
+"proteus"
 ],
 "siblings": [
 "hera",
@@ -980,7 +1048,9 @@
 "hestia",
 "chiron"
 ],
-"killed": [],
+"killed": [
+"ajax_lesser"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -1009,7 +1079,9 @@
 "spouses": [
 "persephone"
 ],
-"lovers": [],
+"lovers": [
+"minthe"
+],
 "children": [],
 "siblings": [
 "zeus",
@@ -1064,7 +1136,10 @@
 "killed": [],
 "killed_by": [],
 "transformed": null,
-"mentor_of": [],
+"mentor_of": [
+"triptolemus",
+"demophon"
+],
 "note": null,
 "id": "demeter"
 },
@@ -1126,13 +1201,18 @@
 "lovers": [],
 "children": [],
 "siblings": [],
-"killed": [],
+"killed": [
+"pallas",
+"ajax_lesser"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [
 "perseus",
 "odysseus",
-"telemachus"
+"telemachus",
+"argus_builder",
+"erichthonius"
 ],
 "note": "赫西俄德載其為宙斯吞下墨提斯後自頭顱而生。",
 "id": "athena"
@@ -1159,11 +1239,21 @@
 ],
 "spouses": [],
 "lovers": [
-"hyacinthus"
+"hyacinthus",
+"coronis",
+"chione",
+"cyparissus",
+"dryope",
+"admetus",
+"cyrene",
+"sibyl"
 ],
 "children": [
 "orpheus",
-"asclepius"
+"asclepius",
+"idmon",
+"aristaeus",
+"trophonius"
 ],
 "siblings": [
 "artemis"
@@ -1171,11 +1261,17 @@
 "killed": [
 "marsyas",
 "hyacinthus",
-"cyclopes"
+"cyclopes",
+"coronis",
+"python",
+"aloadae",
+"tityus"
 ],
 "killed_by": [],
 "transformed": null,
-"mentor_of": [],
+"mentor_of": [
+"melampus"
+],
 "note": "殺死雅辛托斯為誤傷，另有西風神妒恨的版本；殺死獨眼巨人則為宙斯處死阿斯克勒庇俄斯之後的報復。羅馬人沿用 Apollo 之名。",
 "id": "apollo"
 },
@@ -1204,7 +1300,11 @@
 "siblings": [
 "apollo"
 ],
-"killed": [],
+"killed": [
+"chione",
+"aloadae",
+"tityus"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -1237,13 +1337,19 @@
 "children": [
 "eros",
 "hippolyta",
-"harmonia"
+"harmonia",
+"oenomaus",
+"tereus",
+"penthesilea",
+"diomedes_thrace"
 ],
 "siblings": [
 "hephaestus",
 "hebe"
 ],
-"killed": [],
+"killed": [
+"halirrhothius"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -1283,7 +1389,8 @@
 "eros",
 "hermaphroditus",
 "harmonia",
-"aeneas"
+"aeneas",
+"priapus"
 ],
 "siblings": [],
 "killed": [],
@@ -1315,7 +1422,11 @@
 "aphrodite"
 ],
 "lovers": [],
-"children": [],
+"children": [
+"erichthonius",
+"cacus",
+"periphetes"
+],
 "siblings": [
 "ares",
 "hebe"
@@ -1347,11 +1458,17 @@
 ],
 "spouses": [],
 "lovers": [
-"aphrodite"
+"aphrodite",
+"chione",
+"herse"
 ],
 "children": [
 "hermaphroditus",
-"pan"
+"pan",
+"myrtilus",
+"daphnis",
+"autolycus",
+"evander"
 ],
 "siblings": [],
 "killed": [
@@ -1386,13 +1503,22 @@
 "spouses": [
 "ariadne"
 ],
-"lovers": [],
-"children": [],
+"lovers": [
+"erigone"
+],
+"children": [
+"oenopion",
+"priapus"
+],
 "siblings": [],
-"killed": [],
+"killed": [
+"lycurgus"
+],
 "killed_by": [],
 "transformed": null,
-"mentor_of": [],
+"mentor_of": [
+"icarius"
+],
 "note": null,
 "id": "dionysus"
 },
@@ -1506,7 +1632,9 @@
 "apollo",
 "artemis"
 ],
-"siblings": [],
+"siblings": [
+"delos_island"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -1525,7 +1653,8 @@
 "roman_symbols_note": null,
 "bio": "阿特拉斯之女，七位昴宿星女之一，在山洞中與宙斯結合生下赫密士。她避開奧林帕斯，在庫勒涅山洞撫養孩子。羅馬的五月（May）即以她命名。",
 "parents": [
-"atlas"
+"atlas",
+"pleione"
 ],
 "spouses": [],
 "lovers": [
@@ -1565,7 +1694,10 @@
 "children": [
 "dionysus"
 ],
-"siblings": [],
+"siblings": [
+"agave",
+"ino"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -1685,7 +1817,9 @@
 ],
 "roman_symbols_note": null,
 "bio": "據赫西俄德為泰坦之女，受宙斯敬重，能賜人財富與勝利。她曾持火炬協助狄蜜特尋女，後世成為巫術與亡靈的女神。常為三面三身、持火炬的女性，立於十字路口。",
-"parents": [],
+"parents": [
+"delos_island"
+],
 "spouses": [],
 "lovers": [],
 "children": [],
@@ -1714,14 +1848,20 @@
 "hyperion",
 "theia"
 ],
-"spouses": [],
-"lovers": [],
+"spouses": [
+"rhodos"
+],
+"lovers": [
+"clytie",
+"leucothoe"
+],
 "children": [
 "heliades",
 "phaethon",
 "circe",
 "aeetes",
-"pasiphae"
+"pasiphae",
+"augeas"
 ],
 "siblings": [
 "selene",
@@ -1784,10 +1924,18 @@
 "hyperion",
 "theia"
 ],
-"spouses": [],
-"lovers": [],
+"spouses": [
+"tithonus"
+],
+"lovers": [
+"orion",
+"cephalus"
+],
 "children": [
-"zephyrus"
+"zephyrus",
+"astraea",
+"boreas",
+"memnon"
 ],
 "siblings": [
 "helios",
@@ -1825,7 +1973,8 @@
 "eris",
 "hypnos",
 "moirai",
-"furies"
+"furies",
+"hesperides"
 ],
 "killed": [],
 "killed_by": [],
@@ -1851,13 +2000,16 @@
 ],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"limos"
+],
 "siblings": [
 "nemesis",
 "hypnos",
 "thanatos",
 "moirai",
-"furies"
+"furies",
+"hesperides"
 ],
 "killed": [],
 "killed_by": [],
@@ -1885,13 +2037,16 @@
 ],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"morpheus"
+],
 "siblings": [
 "eris",
 "nemesis",
 "thanatos",
 "moirai",
-"furies"
+"furies",
+"charon"
 ],
 "killed": [],
 "killed_by": [],
@@ -1924,7 +2079,8 @@
 "eris",
 "hypnos",
 "moirai",
-"furies"
+"furies",
+"charon"
 ],
 "killed": [],
 "killed_by": [],
@@ -1958,7 +2114,9 @@
 "hypnos",
 "nemesis",
 "thanatos",
-"furies"
+"furies",
+"horae",
+"hesperides"
 ],
 "killed": [],
 "killed_by": [],
@@ -2016,7 +2174,9 @@
 "aphrodite"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"salmacis"
+],
 "children": [],
 "siblings": [
 "eros",
@@ -2053,7 +2213,9 @@
 ],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"crotus"
+],
 "siblings": [
 "hermaphroditus"
 ],
@@ -2084,7 +2246,9 @@
 "daphne"
 ],
 "siblings": [
-"metis"
+"metis",
+"alpheus",
+"achelous"
 ],
 "killed": [],
 "killed_by": [],
@@ -2161,7 +2325,9 @@
 "parents": [],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"pholus"
+],
 "siblings": [],
 "killed": [],
 "killed_by": [],
@@ -2245,13 +2411,16 @@
 "symbols": [],
 "roman_symbols_note": null,
 "bio": "薩爾摩紐斯之女，愛上河神埃尼佩烏斯，波塞頓化成河神使她懷孕，生下佩利亞斯與涅琉斯。她後來受繼母虐待，直到兒子認母。她是荷馬史詩中奧德修斯在冥界所見的婦人之一。",
-"parents": [],
+"parents": [
+"salmoneus"
+],
 "spouses": [],
 "lovers": [
 "poseidon"
 ],
 "children": [
-"pelias"
+"pelias",
+"aeson"
 ],
 "siblings": [],
 "killed": [],
@@ -2286,7 +2455,8 @@
 "triton"
 ],
 "siblings": [
-"thetis"
+"thetis",
+"galatea_nereid"
 ],
 "killed": [],
 "killed_by": [],
@@ -2314,7 +2484,9 @@
 ],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"pallas"
+],
 "siblings": [],
 "killed": [],
 "killed_by": [],
@@ -2341,7 +2513,8 @@
 "lovers": [],
 "children": [
 "amphitrite",
-"thetis"
+"thetis",
+"galatea_nereid"
 ],
 "siblings": [
 "phorcys",
@@ -2448,7 +2621,9 @@
 "cerberus",
 "hydra",
 "nemean_lion",
-"sphinx"
+"sphinx",
+"ladon",
+"crommyonian_sow"
 ],
 "siblings": [],
 "killed": [],
@@ -2483,7 +2658,9 @@
 "cerberus",
 "hydra",
 "nemean_lion",
-"sphinx"
+"sphinx",
+"ladon",
+"crommyonian_sow"
 ],
 "siblings": [
 "medusa",
@@ -2519,7 +2696,9 @@
 "hydra",
 "nemean_lion",
 "sphinx",
-"cerberus"
+"cerberus",
+"ladon",
+"crommyonian_sow"
 ],
 "killed": [],
 "killed_by": [
@@ -2554,7 +2733,9 @@
 "chimera",
 "hydra",
 "nemean_lion",
-"sphinx"
+"sphinx",
+"ladon",
+"crommyonian_sow"
 ],
 "killed": [],
 "killed_by": [],
@@ -2587,7 +2768,9 @@
 "chimera",
 "cerberus",
 "nemean_lion",
-"sphinx"
+"sphinx",
+"ladon",
+"crommyonian_sow"
 ],
 "killed": [],
 "killed_by": [
@@ -2621,7 +2804,9 @@
 "chimera",
 "cerberus",
 "hydra",
-"sphinx"
+"sphinx",
+"ladon",
+"crommyonian_sow"
 ],
 "killed": [],
 "killed_by": [
@@ -2656,7 +2841,9 @@
 "chimera",
 "cerberus",
 "hydra",
-"nemean_lion"
+"nemean_lion",
+"ladon",
+"crommyonian_sow"
 ],
 "killed": [],
 "killed_by": [
@@ -2779,7 +2966,9 @@
 "ceto"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"glaucus_sea"
+],
 "children": [],
 "siblings": [
 "echidna",
@@ -2809,7 +2998,8 @@
 "roman_symbols_note": null,
 "bio": "帕西法厄與公牛結合所生，居於代達洛斯所造的迷宮中，每九年（或每年）吞食雅典獻上的少年少女。翟修斯在阿麗雅德妮的線團協助下將牠殺死。",
 "parents": [
-"pasiphae"
+"pasiphae",
+"cretan_bull"
 ],
 "spouses": [],
 "lovers": [],
@@ -2885,7 +3075,8 @@
 "iapetus",
 "themis",
 "mnemosyne",
-"giants"
+"giants",
+"hundred_handers"
 ],
 "killed": [],
 "killed_by": [
@@ -2950,7 +3141,9 @@
 ],
 "roman_symbols_note": null,
 "bio": "居於海島，以美妙歌聲引誘水手觸礁。奧德修斯命部下以蠟塞耳，自己則綁在桅杆上聽唱而通過。傑森的船上，俄耳甫斯以琴聲壓過她們的歌聲。早期形象為鳥身女首。",
-"parents": [],
+"parents": [
+"achelous"
+],
 "spouses": [],
 "lovers": [],
 "children": [],
@@ -3047,9 +3240,13 @@
 ],
 "spouses": [],
 "lovers": [
-"odysseus"
+"odysseus",
+"picus",
+"glaucus_sea"
 ],
-"children": [],
+"children": [
+"telegonus"
+],
 "siblings": [
 "heliades",
 "phaethon",
@@ -3082,7 +3279,8 @@
 "spouses": [],
 "lovers": [],
 "children": [
-"medea"
+"medea",
+"apsyrtus"
 ],
 "siblings": [
 "heliades",
@@ -3119,7 +3317,8 @@
 "children": [
 "minotaur",
 "ariadne",
-"phaedra"
+"phaedra",
+"glaucus_minos"
 ],
 "siblings": [
 "heliades",
@@ -3154,12 +3353,17 @@
 "spouses": [
 "pasiphae"
 ],
-"lovers": [],
+"lovers": [
+"procris"
+],
 "children": [
 "ariadne",
-"phaedra"
+"phaedra",
+"glaucus_minos"
 ],
-"siblings": [],
+"siblings": [
+"rhadamanthys"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -3190,10 +3394,13 @@
 "lovers": [
 "theseus"
 ],
-"children": [],
+"children": [
+"oenopion"
+],
 "siblings": [
 "minotaur",
-"phaedra"
+"phaedra",
+"glaucus_minos"
 ],
 "killed": [],
 "killed_by": [],
@@ -3223,7 +3430,8 @@
 "children": [],
 "siblings": [
 "minotaur",
-"ariadne"
+"ariadne",
+"glaucus_minos"
 ],
 "killed": [],
 "killed_by": [],
@@ -3251,7 +3459,8 @@
 "zeus"
 ],
 "children": [
-"minos"
+"minos",
+"rhadamanthys"
 ],
 "siblings": [],
 "killed": [],
@@ -3303,7 +3512,9 @@
 ],
 "roman_symbols_note": null,
 "bio": "阿卡迪亞的寧芙或公主，隨阿蒂蜜絲立誓守貞，卻被宙斯所誘，生下阿卡斯。赫拉將她變成熊。她險些被兒子獵殺，宙斯將母子升為大熊座與小熊座。",
-"parents": [],
+"parents": [
+"lycaon"
+],
 "spouses": [],
 "lovers": [
 "zeus"
@@ -3369,23 +3580,41 @@
 ],
 "spouses": [
 "deianira",
-"hebe"
+"hebe",
+"megara"
 ],
-"lovers": [],
-"children": [],
+"lovers": [
+"omphale",
+"hylas",
+"iolaus"
+],
+"children": [
+"telephus"
+],
 "siblings": [],
 "killed": [
 "hydra",
 "nemean_lion",
 "nessus",
 "hippolyta",
-"giants"
+"giants",
+"cacus",
+"laomedon",
+"pholus",
+"augeas",
+"stymphalian_birds",
+"diomedes_thrace",
+"geryon",
+"ladon",
+"iphitus"
 ],
 "killed_by": [
 "nessus"
 ],
 "transformed": null,
-"mentor_of": [],
+"mentor_of": [
+"hylas"
+],
 "note": "養父為安菲特律翁；他無意間令吉戎受傷，不列為其殺死之人。羅馬名為 Hercules。",
 "id": "heracles"
 },
@@ -3401,7 +3630,8 @@
 "bio": "安菲特律翁之妻，宙斯化為她丈夫的樣貌與她同寢，生下海克力斯，丈夫則生下伊菲克勒斯。她一生遭赫拉妒恨，卻因兒子成名而受尊敬。",
 "parents": [],
 "spouses": [
-"amphitryon"
+"amphitryon",
+"rhadamanthys"
 ],
 "lovers": [
 "zeus"
@@ -3490,7 +3720,8 @@
 ],
 "siblings": [
 "eros",
-"harmonia"
+"harmonia",
+"penthesilea"
 ],
 "killed": [],
 "killed_by": [
@@ -3582,7 +3813,9 @@
 "siblings": [],
 "killed": [
 "medusa",
-"acrisius"
+"acrisius",
+"polydectes",
+"phineus_uncle"
 ],
 "killed_by": [],
 "transformed": null,
@@ -3722,7 +3955,9 @@
 "children": [
 "andromeda"
 ],
-"siblings": [],
+"siblings": [
+"phineus_uncle"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -3743,14 +3978,22 @@
 ],
 "roman_symbols_note": null,
 "bio": "埃宋之子，在半人馬吉戎門下長大。為奪回王位，受叔父派去科爾基斯取金羊毛，得美狄亞之助成功。後來拋棄美狄亞，換來可怕報復。",
-"parents": [],
-"spouses": [
-"medea"
+"parents": [
+"aeson"
 ],
-"lovers": [],
+"spouses": [
+"medea",
+"glauce"
+],
+"lovers": [
+"hypsipyle"
+],
 "children": [],
 "siblings": [],
-"killed": [],
+"killed": [
+"cyzicus",
+"apsyrtus"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -3779,9 +4022,14 @@
 ],
 "lovers": [],
 "children": [],
-"siblings": [],
+"siblings": [
+"apsyrtus"
+],
 "killed": [
-"pelias"
+"pelias",
+"apsyrtus",
+"talos",
+"glauce"
 ],
 "killed_by": [],
 "transformed": null,
@@ -3805,8 +4053,13 @@
 ],
 "spouses": [],
 "lovers": [],
-"children": [],
-"siblings": [],
+"children": [
+"alcestis",
+"acastus"
+],
+"siblings": [
+"aeson"
+],
 "killed": [],
 "killed_by": [
 "medea"
@@ -3866,7 +4119,9 @@
 "asclepius"
 ],
 "killed": [],
-"killed_by": [],
+"killed_by": [
+"maenads"
+],
 "transformed": null,
 "mentor_of": [],
 "note": "其父一說為色雷斯國王奧阿格羅斯，另一說為阿波羅。",
@@ -3971,7 +4226,9 @@
 "spouses": [],
 "lovers": [],
 "children": [],
-"siblings": [],
+"siblings": [
+"tydeus"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -4007,7 +4264,14 @@
 ],
 "siblings": [],
 "killed": [
-"minotaur"
+"minotaur",
+"cretan_bull",
+"periphetes",
+"sinis",
+"crommyonian_sow",
+"sciron",
+"cercyon",
+"procrustes"
 ],
 "killed_by": [],
 "transformed": null,
@@ -4093,7 +4357,9 @@
 "killed": [],
 "killed_by": [],
 "transformed": null,
-"mentor_of": [],
+"mentor_of": [
+"perdix"
+],
 "note": null,
 "id": "daedalus"
 },
@@ -4142,7 +4408,9 @@
 ],
 "lovers": [],
 "children": [
-"semele"
+"semele",
+"agave",
+"ino"
 ],
 "siblings": [],
 "killed": [],
@@ -4176,7 +4444,9 @@
 ],
 "lovers": [],
 "children": [
-"semele"
+"semele",
+"agave",
+"ino"
 ],
 "siblings": [
 "eros",
@@ -4214,14 +4484,19 @@
 ],
 "spouses": [],
 "lovers": [
-"patroclus"
+"patroclus",
+"deidamia",
+"polyxena"
 ],
 "children": [
 "neoptolemus"
 ],
 "siblings": [],
 "killed": [
-"hector"
+"hector",
+"thersites",
+"penthesilea",
+"memnon"
 ],
 "killed_by": [
 "paris"
@@ -4241,7 +4516,9 @@
 "symbols": [],
 "roman_symbols_note": null,
 "bio": "邁爾彌冬人之王，阿爾戈英雄之一，被眾神安排娶海中女神忒提斯。婚宴上厄里斯投下金蘋果，成為特洛伊戰爭的導火線。他的兒子是阿基里斯。",
-"parents": [],
+"parents": [
+"aeacus"
+],
 "spouses": [
 "thetis"
 ],
@@ -4249,7 +4526,9 @@
 "children": [
 "achilles"
 ],
-"siblings": [],
+"siblings": [
+"telamon"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -4282,7 +4561,8 @@
 "achilles"
 ],
 "siblings": [
-"amphitrite"
+"amphitrite",
+"galatea_nereid"
 ],
 "killed": [],
 "killed_by": [],
@@ -4310,7 +4590,9 @@
 ],
 "children": [],
 "siblings": [],
-"killed": [],
+"killed": [
+"sarpedon"
+],
 "killed_by": [
 "hector"
 ],
@@ -4345,10 +4627,16 @@
 ],
 "siblings": [
 "paris",
-"cassandra"
+"cassandra",
+"aesacus",
+"creusa",
+"polydorus",
+"helenus",
+"polyxena"
 ],
 "killed": [
-"patroclus"
+"patroclus",
+"protesilaus"
 ],
 "killed_by": [
 "achilles"
@@ -4370,7 +4658,8 @@
 "bio": "赫克托耳之妻，與丈夫在城牆上的訣別是《伊利亞特》最動人的場面之一。城陷後她被阿基里斯之子涅奧普托列摩斯擄走，兒子阿斯提阿那克斯被殺，成為戰爭受害者的象徵。",
 "parents": [],
 "spouses": [
-"hector"
+"hector",
+"helenus"
 ],
 "lovers": [],
 "children": [
@@ -4421,7 +4710,9 @@
 "symbols": [],
 "roman_symbols_note": null,
 "bio": "特洛伊的國王，有五十個兒子，包括赫克托耳與帕里斯。他親自到阿基里斯營帳贖回兒子屍體，是《伊利亞特》的動人場面。特洛伊城陷時，他被阿基里斯之子殺死。",
-"parents": [],
+"parents": [
+"laomedon"
+],
 "spouses": [
 "hecuba"
 ],
@@ -4429,9 +4720,17 @@
 "children": [
 "hector",
 "paris",
-"cassandra"
+"cassandra",
+"aesacus",
+"creusa",
+"polydorus",
+"helenus",
+"polyxena"
 ],
-"siblings": [],
+"siblings": [
+"tithonus",
+"hesione"
+],
 "killed": [],
 "killed_by": [
 "neoptolemus"
@@ -4459,7 +4758,11 @@
 "children": [
 "hector",
 "paris",
-"cassandra"
+"cassandra",
+"creusa",
+"polydorus",
+"helenus",
+"polyxena"
 ],
 "siblings": [],
 "killed": [],
@@ -4486,19 +4789,28 @@
 "priam",
 "hecuba"
 ],
-"spouses": [],
+"spouses": [
+"oenone"
+],
 "lovers": [
 "helen"
 ],
 "children": [],
 "siblings": [
 "hector",
-"cassandra"
+"cassandra",
+"aesacus",
+"creusa",
+"polydorus",
+"helenus",
+"polyxena"
 ],
 "killed": [
 "achilles"
 ],
-"killed_by": [],
+"killed_by": [
+"philoctetes"
+],
 "transformed": null,
 "mentor_of": [],
 "note": null,
@@ -4552,7 +4864,8 @@
 "roman_symbols_note": null,
 "bio": "阿特柔斯之子，阿伽門農之弟，與海倫成婚。妻子被帕里斯擄走後，他請兄長發動遠征。戰後在埃及滯留數年才回到斯巴達，最後被送往極樂世界。",
 "parents": [
-"atreus"
+"atreus",
+"aerope"
 ],
 "spouses": [
 "helen"
@@ -4584,7 +4897,8 @@
 "roman_symbols_note": null,
 "bio": "阿特柔斯之子，聯軍統帥。為使船隊出航，他獻祭女兒伊菲革涅亞；戰後歸國，被妻子克呂泰涅斯特拉與埃吉斯托斯所殺，開啟悲劇的復仇。",
 "parents": [
-"atreus"
+"atreus",
+"aerope"
 ],
 "spouses": [
 "clytemnestra"
@@ -4761,7 +5075,9 @@
 "agamemnon",
 "clytemnestra"
 ],
-"spouses": [],
+"spouses": [
+"pylades"
+],
 "lovers": [],
 "children": [],
 "siblings": [
@@ -4814,7 +5130,8 @@
 "roman_symbols_note": null,
 "bio": "阿基里斯之子，戰爭末期受召至特洛伊，在木馬中進城，殘忍殺死普里阿摩斯，並將阿斯提阿那克斯摔下城牆。後在德爾斐被奧瑞斯提斯所殺。",
 "parents": [
-"achilles"
+"achilles",
+"deidamia"
 ],
 "spouses": [
 "hermione"
@@ -4824,7 +5141,8 @@
 "siblings": [],
 "killed": [
 "priam",
-"astyanax"
+"astyanax",
+"polyxena"
 ],
 "killed_by": [],
 "transformed": null,
@@ -4843,9 +5161,12 @@
 "roman_symbols_note": null,
 "bio": "珀羅普斯之子，與兄弟堤厄斯忒斯爭奪王位，並殘忍地將兄弟之子烹煮而食。其家族被詛咒，影響後代阿伽門農一系的悲劇，是阿特柔斯家族悲劇的起點。",
 "parents": [
-"pelops"
+"pelops",
+"hippodamia"
 ],
-"spouses": [],
+"spouses": [
+"aerope"
+],
 "lovers": [],
 "children": [
 "menelaus",
@@ -4854,7 +5175,9 @@
 "siblings": [
 "thyestes"
 ],
-"killed": [],
+"killed": [
+"aerope"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -4872,10 +5195,13 @@
 "roman_symbols_note": null,
 "bio": "珀羅普斯之子，與兄爭奪邁錫尼的王位，並與嫂嫂私通。阿特柔斯殺其子並設宴款待他。他後與女兒生下埃吉斯托斯，由其復仇，使家族詛咒延續到下一代。",
 "parents": [
-"pelops"
+"pelops",
+"hippodamia"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"aerope"
+],
 "children": [
 "aegisthus"
 ],
@@ -4904,7 +5230,9 @@
 "parents": [
 "tantalus"
 ],
-"spouses": [],
+"spouses": [
+"hippodamia"
+],
 "lovers": [],
 "children": [
 "atreus",
@@ -4913,7 +5241,10 @@
 "siblings": [
 "niobe"
 ],
-"killed": [],
+"killed": [
+"oenomaus",
+"myrtilus"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -4966,7 +5297,9 @@
 "parents": [
 "tantalus"
 ],
-"spouses": [],
+"spouses": [
+"amphion"
+],
 "lovers": [],
 "children": [],
 "siblings": [
@@ -5008,11 +5341,17 @@
 "calypso"
 ],
 "children": [
-"telemachus"
+"telemachus",
+"telegonus"
 ],
 "siblings": [],
-"killed": [],
-"killed_by": [],
+"killed": [
+"palamedes",
+"antinous"
+],
+"killed_by": [
+"telegonus"
+],
 "transformed": null,
 "mentor_of": [],
 "note": "殺死眾多求婚者不在此以個別條目列出。",
@@ -5054,7 +5393,9 @@
 "symbols": [],
 "roman_symbols_note": null,
 "bio": "拉厄耳忒斯之妻，因思念離家的兒子而憂傷死去。奧德修斯在冥界遇見她的靈魂，驚訝得知母親已逝。這一幕是荷馬《奧德賽》中感人的場面之一。",
-"parents": [],
+"parents": [
+"autolycus"
+],
 "spouses": [
 "laertes"
 ],
@@ -5085,7 +5426,8 @@
 "bio": "奧德修斯之妻，在丈夫離家二十年間，以織壽衣為藉口拖延求婚者，夜裡拆線。她以只有夫妻知曉的床的祕密確認奧德修斯的身分。是忠貞與智慧的象徵。",
 "parents": [],
 "spouses": [
-"odysseus"
+"odysseus",
+"telegonus"
 ],
 "lovers": [],
 "children": [
@@ -5116,7 +5458,9 @@
 "spouses": [],
 "lovers": [],
 "children": [],
-"siblings": [],
+"siblings": [
+"telegonus"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -5196,7 +5540,9 @@
 "lovers": [],
 "children": [],
 "siblings": [],
-"killed": [],
+"killed": [
+"acis"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -5320,7 +5666,11 @@
 "parents": [],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"menoeceus",
+"haemon",
+"megara"
+],
 "siblings": [
 "jocasta"
 ],
@@ -5346,7 +5696,9 @@
 "jocasta"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"haemon"
+],
 "children": [],
 "siblings": [
 "oedipus",
@@ -5504,17 +5856,24 @@
 "anchises",
 "aphrodite"
 ],
-"spouses": [],
+"spouses": [
+"creusa",
+"lavinia"
+],
 "lovers": [
 "dido"
 ],
-"children": [],
+"children": [
+"ascanius"
+],
 "siblings": [
 "eros",
 "hermaphroditus",
 "harmonia"
 ],
-"killed": [],
+"killed": [
+"turnus"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -5592,7 +5951,12 @@
 "children": [],
 "siblings": [
 "hector",
-"paris"
+"paris",
+"aesacus",
+"creusa",
+"polydorus",
+"helenus",
+"polyxena"
 ],
 "killed": [],
 "killed_by": [
@@ -5629,7 +5993,9 @@
 "pollux"
 ],
 "killed": [],
-"killed_by": [],
+"killed_by": [
+"idas"
+],
 "transformed": {
 "into": "變成雙子座",
 "by": "zeus"
@@ -5663,7 +6029,9 @@
 "clytemnestra",
 "castor"
 ],
-"killed": [],
+"killed": [
+"amycus"
+],
 "killed_by": [],
 "transformed": {
 "into": "變成雙子座",
@@ -5748,7 +6116,10 @@
 "parents": [],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"herse",
+"aglauros"
+],
 "siblings": [],
 "killed": [],
 "killed_by": [],
@@ -5775,7 +6146,9 @@
 ],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"ocyrhoe"
+],
 "siblings": [
 "zeus",
 "hera",
@@ -5810,7 +6183,8 @@
 "roman_symbols_note": null,
 "bio": "阿波羅之子，由半人馬凱隆撫養並傳授醫術，醫術高超，甚至使人起死回生。宙斯因他打破生死界限而以雷霆殺死他，後來將他升為神。蛇杖至今是醫學象徵。",
 "parents": [
-"apollo"
+"apollo",
+"coronis"
 ],
 "spouses": [],
 "lovers": [],
@@ -6185,12 +6559,19 @@
 "parents": [
 "eos"
 ],
-"spouses": [],
-"lovers": [
-"hyacinthus"
+"spouses": [
+"flora"
 ],
-"children": [],
-"siblings": [],
+"lovers": [
+"hyacinthus",
+"iris"
+],
+"children": [
+"xanthus_horse"
+],
+"siblings": [
+"boreas"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -6545,7 +6926,9 @@
 ],
 "roman_symbols_note": null,
 "bio": "底比斯獵人，在狩獵時撞見阿蒂蜜絲沐浴，被她潑水變成雄鹿，被自己的獵犬撕碎。這是人類冒犯神明的警示，常在文藝復興繪畫如提香作品中出現。",
-"parents": [],
+"parents": [
+"aristaeus"
+],
 "spouses": [],
 "lovers": [],
 "children": [],
@@ -6576,7 +6959,10 @@
 "spouses": [],
 "lovers": [],
 "children": [],
-"siblings": [],
+"siblings": [
+"athamas",
+"salmoneus"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -6599,7 +6985,9 @@
 "parents": [],
 "spouses": [],
 "lovers": [],
-"children": [],
+"children": [
+"halcyone"
+],
 "siblings": [],
 "killed": [],
 "killed_by": [],
@@ -6607,5 +6995,7564 @@
 "mentor_of": [],
 "note": "與色薩利國王埃俄羅斯同名但不同人。",
 "id": "aeolus"
+},
+"hundred_handers": {
+"zh": "百手巨人",
+"en": "The Hundred-Handers",
+"gr": "Hekatonkheires",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "烏拉諾斯與蓋亞所生、各有百手五十頭的三兄弟",
+"symbols": [
+"百隻手臂",
+"五十顆頭"
+],
+"bio": "布里阿瑞俄斯、科托斯與古革斯是天神與大地之子，因外貌駭人被父親囚於地底。宙斯釋放他們，三兄弟以投擲巨石助諸神在泰坦之戰獲勝，戰後受命守衛塔爾塔羅斯的牢門。",
+"parents": [
+"uranus",
+"gaia"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"cronus",
+"rhea",
+"oceanus",
+"tethys",
+"hyperion",
+"theia",
+"coeus",
+"phoebe",
+"iapetus",
+"themis",
+"mnemosyne",
+"cyclopes"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "三人名為布里阿瑞俄斯（Briareus）、科托斯（Cottus）、古革斯（Gyges）；荷馬稱布里阿瑞俄斯為人間名，眾神稱之埃蓋翁。",
+"roman_symbols_note": null,
+"id": "hundred_handers"
+},
+"styx": {
+"zh": "斯堤克斯",
+"en": "Styx",
+"gr": "Stýx",
+"roman": null,
+"cat": "其他神祇",
+"domain": "冥河的化身，以其水為眾神最莊嚴的誓言",
+"symbols": [
+"冥河之水",
+"黃金水壺"
+],
+"bio": "奧克亞諾斯與特堤斯的長女，與泰坦帕拉斯結合，生下勝利、權力、強力與熱忱。泰坦之戰時她率先帶子女投靠宙斯，因此獲得以她之名立誓、違誓者須受罰的至高榮譽。",
+"parents": [
+"oceanus",
+"tethys"
+],
+"spouses": [
+"pallas"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "赫西俄德與阿波羅多洛斯以帕拉斯為其夫；阿基里斯相傳曾浸於斯堤克斯之水。",
+"roman_symbols_note": null,
+"id": "styx"
+},
+"lycaon": {
+"zh": "呂卡翁",
+"en": "Lycaon",
+"gr": "Lykáōn",
+"roman": null,
+"cat": "凡人",
+"domain": "阿卡迪亞國王，以褻瀆神明遭變形為狼",
+"symbols": [
+"狼"
+],
+"bio": "阿卡迪亞國王，以暴虐褻瀆聞名。宙斯化為凡人造訪，他竟以人肉款待試探神明。宙斯怒而毀其宮殿，將他變成狼；奧維德並說此事成為大洪水的導火線之一。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"callisto"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "狼",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "阿波羅多洛斯說宴上被殺的是其子尼克提莫斯；另有說法以卡利斯托為其女（亦有版本以尼克提莫斯為父）。",
+"roman_symbols_note": null,
+"id": "lycaon"
+},
+"orion": {
+"zh": "奧里翁",
+"en": "Orion",
+"gr": "Ōríōn",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "巨人獵手，死後化為獵戶座",
+"symbols": [
+"獵戶座",
+"棍棒",
+"腰帶"
+],
+"bio": "波塞頓之子，身形高大的獵手，能在海面上行走。他曾在希俄斯因冒犯公主而被俄諾皮翁弄瞎，後恢復視力；死因有多種說法，最通行者為被小蠍所螫，死後升為獵戶座。",
+"parents": [
+"poseidon"
+],
+"spouses": [],
+"lovers": [
+"eos"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"scorpion"
+],
+"transformed": {
+"into": "獵戶座",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "死因有說為阿蒂蜜絲所射（荷馬：因曙光女神愛上他而惹神怒）、或蓋亞所派小蠍所殺；升天者亦有說為阿蒂蜜絲。",
+"roman_symbols_note": null,
+"id": "orion"
+},
+"scorpion": {
+"zh": "天蠍",
+"en": "The Scorpion",
+"gr": "Skorpíos",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "刺死奧里翁的蠍子，後化為天蠍座",
+"symbols": [
+"天蠍座",
+"毒針"
+],
+"bio": "傳說中由蓋亞或阿蒂蜜絲派出的小蠍子，在奧里翁誇口要殺盡世間野獸時將他螫死。事後宙斯將蠍子升為星座，位置與獵戶座相對，彷彿永遠追逐，一個升起時另一個便沉落。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"orion"
+],
+"killed_by": [],
+"transformed": {
+"into": "天蠍座",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "派遣者有蓋亞、阿蒂蜜絲、赫拉等不同說法。",
+"roman_symbols_note": null,
+"id": "scorpion"
+},
+"oenopion": {
+"zh": "俄諾皮翁",
+"en": "Oenopion",
+"gr": "Oinopíōn",
+"roman": null,
+"cat": "凡人",
+"domain": "希俄斯島國王，酒神之子，弄瞎奧里翁者",
+"symbols": [
+"葡萄酒"
+],
+"bio": "戴奧尼索斯與阿麗雅德妮之子，統治希俄斯島，並從父親處學得釀酒之術。奧里翁曾向他女兒求婚，卻在醉後施暴，俄諾皮翁便趁他熟睡弄瞎其雙眼，將他逐出島外。",
+"parents": [
+"dionysus",
+"ariadne"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "其女梅洛珮（Merope）為奧里翁所求，無對應人物頁。",
+"roman_symbols_note": null,
+"id": "oenopion"
+},
+"pleiades": {
+"zh": "昴宿七姊妹",
+"en": "The Pleiades",
+"gr": "Pleiádes",
+"roman": null,
+"cat": "其他神祇",
+"domain": "阿特拉斯與普累俄涅的七個女兒，化為昴宿星團",
+"symbols": [
+"昴宿星團",
+"七顆星"
+],
+"bio": "七位山林仙女姊妹，名為邁亞、厄勒克特拉、塔宇革忒等。獵人奧里翁曾追逐她們多年，宙斯憐憫而把她們升為星辰；其中邁亞後來成為赫密士之母，是最為人所知的一位。",
+"parents": [
+"atlas",
+"pleione"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"hyades",
+"hyas"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "昴宿星團",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "有說七姊妹因思念被罰扛天的父親而自盡，或因追逐而變為鴿子後升天。",
+"roman_symbols_note": null,
+"id": "pleiades"
+},
+"pleione": {
+"zh": "普累俄涅",
+"en": "Pleione",
+"gr": "Pleióne",
+"roman": null,
+"cat": "其他神祇",
+"domain": "海洋仙女，昴宿七姊妹之母",
+"symbols": [
+"星辰"
+],
+"bio": "奧克亞諾斯與特堤斯之女，嫁予扛天的泰坦阿特拉斯，生下七個女兒昴宿姊妹與兒子許阿斯。獵人奧里翁曾在玻俄提亞追逐她與女兒們，成為七姊妹升天的緣由。",
+"parents": [
+"oceanus",
+"tethys"
+],
+"spouses": [
+"atlas"
+],
+"lovers": [],
+"children": [
+"pleiades",
+"hyas",
+"maia",
+"hyades"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "許阿得斯之母亦有說是埃特拉（Aethra）。",
+"roman_symbols_note": null,
+"id": "pleione"
+},
+"hyades": {
+"zh": "許阿得斯",
+"en": "The Hyades",
+"gr": "Hyádes",
+"roman": null,
+"cat": "其他神祇",
+"domain": "象徵雨季的姊妹，化為畢宿星團",
+"symbols": [
+"畢宿星團",
+"雨"
+],
+"bio": "阿特拉斯的女兒們，數目與名字說法不一，曾在山中哺育幼年的戴奧尼索斯。弟弟許阿斯被野獸殺死後，她們哀哭不止，宙斯把她們升為星辰，每當她們升起，便帶來雨水。",
+"parents": [
+"atlas",
+"pleione"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"hyas",
+"pleiades"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "畢宿星團",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "母親亦有說是埃特拉（Aethra）；名稱 Hyades 或解為「降雨者」。",
+"roman_symbols_note": null,
+"id": "hyades"
+},
+"hyas": {
+"zh": "許阿斯",
+"en": "Hyas",
+"gr": "Hýas",
+"roman": null,
+"cat": "凡人",
+"domain": "年輕的獵人，其死令姊妹哀痛化為星辰",
+"symbols": [
+"獵物",
+"星辰"
+],
+"bio": "阿特拉斯之子，是位熱愛狩獵的少年。他在利比亞打獵時被獅子（亦有說野豬或毒蛇）所殺，姊妹們為他哭泣至死，被升為星辰，其名亦與雨相關。",
+"parents": [
+"atlas",
+"pleione"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"hyades",
+"pleiades"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "死因說法不一，有獅、野豬、毒蛇三說。",
+"roman_symbols_note": null,
+"id": "hyas"
+},
+"cycnus": {
+"zh": "庫克諾斯",
+"en": "Cycnus",
+"gr": "Kýknos",
+"roman": null,
+"cat": "凡人",
+"domain": "法厄同的親友，哀悼而化為天鵝",
+"symbols": [
+"天鵝"
+],
+"bio": "奧維德筆下的利古里亞國王，是法厄同的親族與摯友。法厄同墜落波河後，他在河畔哭泣不止，聲音漸細、身生羽毛，最終變成天鵝，從此避開火焰與天空，偏愛水澤。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "天鵝",
+"by": null
+},
+"mentor_of": [],
+"note": "希臘神話中另有數位同名的庫克諾斯（如阿瑞斯之子、波塞頓之子），不可混淆。",
+"roman_symbols_note": null,
+"id": "cycnus"
+},
+"icarius": {
+"zh": "伊卡里奧斯",
+"en": "Icarius",
+"gr": "Ikários",
+"roman": null,
+"cat": "凡人",
+"domain": "雅典人，最早從酒神處習得釀酒者",
+"symbols": [
+"葡萄酒",
+"忠犬邁拉"
+],
+"bio": "戴奧尼索斯造訪阿提卡時受他款待，便教他種植葡萄與釀酒。他把酒分給牧人，牧人醉倒後以為被下毒，將他殺害。忠犬邁拉帶女兒找到屍體，父女之死後來皆升為星座。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"erigone"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "與斯巴達的伊卡里奧斯（珀涅羅珀之父）同名，不可混淆。",
+"roman_symbols_note": null,
+"id": "icarius"
+},
+"erigone": {
+"zh": "埃里戈涅",
+"en": "Erigone",
+"gr": "Ērigónē",
+"roman": null,
+"cat": "凡人",
+"domain": "伊卡里奧斯之女，哀父自盡後升為室女座",
+"symbols": [
+"室女座",
+"葡萄"
+],
+"bio": "雅典人伊卡里奧斯之女。父親被牧人殺害後，她在愛犬邁拉引領下找到屍首，悲痛地自縊。戴奧尼索斯為此降下瘋病懲罰雅典，並把她與父親、愛犬升為星座。",
+"parents": [
+"icarius"
+],
+"spouses": [],
+"lovers": [
+"dionysus"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "室女座",
+"by": "dionysus"
+},
+"mentor_of": [],
+"note": "希吉努斯說戴奧尼索斯曾化為葡萄誘惑她；室女座亦有說是阿斯特賴亞。另有同名者為埃吉斯托斯之女。",
+"roman_symbols_note": null,
+"id": "erigone"
+},
+"bootes": {
+"zh": "牧夫座",
+"en": "Bootes",
+"gr": "Boōtēs",
+"roman": null,
+"cat": "凡人",
+"domain": "牧夫座，一說為伊卡里奧斯或阿卡斯的星座化身",
+"symbols": [
+"牧夫座",
+"犁與牛"
+],
+"bio": "天空中趕著大熊座的牧夫座，傳說有數種身分：或是被升天的伊卡里奧斯，或是發明犁耕的牧人，亦有說是卡利斯托之子阿卡斯。本條按較通行者，將其視為伊卡里奧斯的星座化身。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "牧夫座",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "身分眾說紛紜：伊卡里奧斯、阿卡斯、或狄蜜特之子伊阿西翁等；本條取希吉努斯說。",
+"roman_symbols_note": null,
+"id": "bootes"
+},
+"astraea": {
+"zh": "阿斯特賴亞",
+"en": "Astraea",
+"gr": "Astraía",
+"roman": null,
+"cat": "其他神祇",
+"domain": "正義女神，黃金時代最後離開人間者",
+"symbols": [
+"天秤",
+"室女座"
+],
+"bio": "傳說為黎明女神厄俄斯與星辰之神所生，是諸女神中最後離開人間者。人類由黃金時代逐步墮落，她最終厭惡罪惡而升天，化為室女座，手中天秤便是天秤座。",
+"parents": [
+"eos"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "室女座",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "阿拉托斯說為阿斯特賴俄斯之女；室女座亦有說是狄蜜特、特彌斯或埃里戈涅。",
+"roman_symbols_note": null,
+"id": "astraea"
+},
+"coronis": {
+"zh": "科洛尼斯",
+"en": "Coronis",
+"gr": "Korōnís",
+"roman": null,
+"cat": "凡人",
+"domain": "色薩利公主，阿斯克勒庇俄斯之母",
+"symbols": [
+"烏鴉"
+],
+"bio": "弗勒古阿斯之女，阿波羅的愛人，懷著他的孩子時卻與凡人伊斯庫斯私通。白烏鴉告密後阿波羅怒而射殺了她，在火葬柴堆上才從她腹中救出嬰兒阿斯克勒庇俄斯。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"apollo"
+],
+"children": [
+"asclepius"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"apollo"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "奧維德說親手射殺者為阿波羅；品達說由阿蒂蜜絲所殺；烏鴉因告密而羽毛由白變黑。",
+"roman_symbols_note": null,
+"id": "coronis"
+},
+"pierides": {
+"zh": "皮厄魯斯的女兒們",
+"en": "The Pierides",
+"gr": "Pieríai",
+"roman": null,
+"cat": "凡人",
+"domain": "皮厄魯斯之九女，向繆思挑戰歌唱而遭變形",
+"symbols": [
+"喜鵲"
+],
+"bio": "馬其頓國王皮厄魯斯的九個女兒，自誇歌藝勝過繆思，竟登赫利孔山挑戰。比賽由山林仙女評判，繆思勝出，九姊妹仍口出惡言，被變成只會聒噪的喜鵲。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "喜鵲",
+"by": "muses"
+},
+"mentor_of": [],
+"note": "與繆思之別號「皮厄里得斯」同名，奧維德以此區分挑戰者。",
+"roman_symbols_note": null,
+"id": "pierides"
+},
+"ascalaphus": {
+"zh": "阿斯卡拉福斯",
+"en": "Ascalaphus",
+"gr": "Askálaphos",
+"roman": null,
+"cat": "其他神祇",
+"domain": "冥界果園的看守者，因告密被變成貓頭鷹",
+"symbols": [
+"貓頭鷹",
+"石榴"
+],
+"bio": "冥河諸神之子，是黑帝斯果園的園丁。他看見波瑟芬妮吃下石榴籽便向眾神告發，使她必須每年有一段時間留在冥界；奧維德說波瑟芬妮因此將他變為貓頭鷹。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "貓頭鷹",
+"by": "persephone"
+},
+"mentor_of": [],
+"note": "阿波羅多洛斯說狄蜜特以巨石壓住他，後由海克力斯移開；變形則見奧維德。",
+"roman_symbols_note": null,
+"id": "ascalaphus"
+},
+"ceyx": {
+"zh": "刻宇克斯",
+"en": "Ceyx",
+"gr": "Kḗyx",
+"roman": null,
+"cat": "凡人",
+"domain": "特拉基斯國王，與妻子同化為翠鳥",
+"symbols": [
+"翠鳥"
+],
+"bio": "晨星之子，特拉基斯國王，與妻子阿爾庫俄涅恩愛。他出海求神諭時遇暴風溺斃，妻子在海邊發現他的屍體，悲痛躍入海中，兩人在諸神憐憫下雙雙化為翠鳥。",
+"parents": [],
+"spouses": [
+"halcyone"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"daedalion"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "翠鳥",
+"by": null
+},
+"mentor_of": [],
+"note": null,
+"roman_symbols_note": null,
+"id": "ceyx"
+},
+"halcyone": {
+"zh": "阿爾庫俄涅",
+"en": "Halcyone",
+"gr": "Alkyónē",
+"roman": null,
+"cat": "凡人",
+"domain": "刻宇克斯之妻，哀夫投海而化為翠鳥",
+"symbols": [
+"翠鳥"
+],
+"bio": "風王埃俄羅斯之女，嫁給特拉基斯國王刻宇克斯。丈夫海難喪命後，睡神之子摩耳甫斯化為丈夫託夢告知，她奔向海邊投身，與丈夫同化為翠鳥；冬至前後海面風平浪靜的「翠鳥日」相傳與她有關。",
+"parents": [
+"aeolus"
+],
+"spouses": [
+"ceyx"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "翠鳥",
+"by": null
+},
+"mentor_of": [],
+"note": "荷馬說的埃俄羅斯是風之王；阿波羅多洛斯說她是希倫之子埃俄羅斯之女，並說兩人因自比宙斯與赫拉而被變為鳥。",
+"roman_symbols_note": null,
+"id": "halcyone"
+},
+"morpheus": {
+"zh": "摩耳甫斯",
+"en": "Morpheus",
+"gr": "Morpheús",
+"roman": null,
+"cat": "其他神祇",
+"domain": "夢神，睡神許普諾斯之子，能化為人形入夢",
+"symbols": [
+"罌粟花",
+"翅膀"
+],
+"bio": "奧維德筆下許普諾斯的千子之一，專司化為人的形貌入夢。受赫拉之命，他化為溺亡的刻宇克斯，向阿爾庫俄涅託夢通報噩耗。「嗎啡」一詞即由他的名字而來。",
+"parents": [
+"hypnos"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "奧維德說他擅模仿人形；其兄弟伊刻羅斯（Icelus）模仿野獸、潘塔索斯（Phantasus）模仿物件。",
+"roman_symbols_note": null,
+"id": "morpheus"
+},
+"tithonus": {
+"zh": "提托諾斯",
+"en": "Tithonus",
+"gr": "Tithōnós",
+"roman": null,
+"cat": "凡人",
+"domain": "特洛伊王子，獲永生卻不得青春而衰老成蟬",
+"symbols": [
+"蟬"
+],
+"bio": "拉俄墨冬之子，普里阿摩斯之兄。曙光女神厄俄斯愛上並將他帶走，向宙斯求得永生卻忘了求不老，他日漸衰朽、只剩聲音，最後被變成蟬，其子為衣索比亞王門農。",
+"parents": [
+"laomedon"
+],
+"spouses": [
+"eos"
+],
+"lovers": [],
+"children": [
+"memnon"
+],
+"siblings": [
+"priam",
+"hesione"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "蟬",
+"by": "eos"
+},
+"mentor_of": [],
+"note": "《荷馬體阿芙蘿黛蒂頌歌》只說他衰老不堪、被鎖在房中；變為蟬是較晚的說法。",
+"roman_symbols_note": null,
+"id": "tithonus"
+},
+"perdix": {
+"zh": "佩爾迪克斯",
+"en": "Perdix",
+"gr": "Pérdix",
+"roman": null,
+"cat": "凡人",
+"domain": "代達洛斯的外甥，發明鋸子與圓規，被變成鷓鴣",
+"symbols": [
+"鷓鴣",
+"鋸子",
+"圓規"
+],
+"bio": "代達洛斯的姊妹之子，從舅舅學藝，因發明鋸子與圓規而令代達洛斯心生妒意。代達洛斯將他推下衛城，雅典娜接住他並把他變成鷓鴣，因此鷓鴣不敢高飛、只在低處築巢。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "鷓鴣",
+"by": "athena"
+},
+"mentor_of": [],
+"note": "亦稱塔羅斯（Talos，與克里特銅人同名）或卡洛斯（Calos）。",
+"roman_symbols_note": null,
+"id": "perdix"
+},
+"picus": {
+"zh": "皮庫斯",
+"en": "Picus",
+"gr": "Pîcus",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "拉丁姆古王，因拒絕喀耳刻而被變為啄木鳥",
+"symbols": [
+"啄木鳥"
+],
+"bio": "薩圖恩（克洛諾斯）之子，英俊的拉丁姆國王，善於騎馬與預言。女巫喀耳刻愛上他，遭拒後惱羞成怒，用魔法把他變成啄木鳥，鳥羽仍留著他紫袍上的金色紋樣。",
+"parents": [
+"cronus"
+],
+"spouses": [],
+"lovers": [
+"circe"
+],
+"children": [
+"faunus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "啄木鳥",
+"by": "circe"
+},
+"mentor_of": [],
+"note": "羅馬神話人物，傳為羅馬人所稱的薩圖恩之子；啄木鳥被視為戰神馬爾斯的聖鳥。",
+"roman_symbols_note": null,
+"id": "picus"
+},
+"daedalion": {
+"zh": "戴達利翁",
+"en": "Daedalion",
+"gr": "Daidalíōn",
+"roman": null,
+"cat": "凡人",
+"domain": "基奧涅之父，哀女而化為鷹",
+"symbols": [
+"鷹"
+],
+"bio": "晨星之子，刻宇克斯之兄，性格暴烈好戰。愛女基奧涅被阿蒂蜜絲射殺後，他悲痛欲絕躍下帕納索斯山，阿波羅憐憫而讓他在半空變成鷹，從此仍對其他鳥類兇猛。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"chione"
+],
+"siblings": [
+"ceyx"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "鷹",
+"by": "apollo"
+},
+"mentor_of": [],
+"note": null,
+"roman_symbols_note": null,
+"id": "daedalion"
+},
+"chione": {
+"zh": "基奧涅",
+"en": "Chione",
+"gr": "Chiónē",
+"roman": null,
+"cat": "凡人",
+"domain": "戴達利翁之女，因誇口勝過阿蒂蜜絲而被射殺",
+"symbols": [
+"弓箭"
+],
+"bio": "戴達利翁的美麗女兒，一日之內同時得到阿波羅與赫密士的垂青，分別生下菲拉蒙與奧托呂科斯。她卻因自誇比阿蒂蜜絲更美，被女神一箭射穿舌頭而亡。",
+"parents": [
+"daedalion"
+],
+"spouses": [],
+"lovers": [
+"apollo",
+"hermes"
+],
+"children": [
+"autolycus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"artemis"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "阿波羅之子菲拉蒙（Philammon）在本資料集中沒有條目。",
+"roman_symbols_note": null,
+"id": "chione"
+},
+"aeacus": {
+"zh": "埃阿科斯",
+"en": "Aeacus",
+"gr": "Aiakós",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "埃癸娜島國王，以虔誠公正聞名，死後成為冥界法官",
+"symbols": [
+"冥界鑰匙",
+"權杖"
+],
+"bio": "宙斯與仙女埃癸娜之子，因瘟疫使全島人口喪盡，向宙斯祈求，神將螞蟻變成人，這就是密耳彌冬人。他以公正虔誠聞名，死後與米諾斯、拉達曼提斯並列冥界審判者。",
+"parents": [
+"zeus"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"peleus",
+"telamon"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "奧維德記密耳彌冬人由螞蟻變成；冥界法官一說在後世文獻（如柏拉圖）中尤為突出。",
+"roman_symbols_note": null,
+"id": "aeacus"
+},
+"minyas": {
+"zh": "敏尼亞斯",
+"en": "Minyas",
+"gr": "Minýas",
+"roman": null,
+"cat": "凡人",
+"domain": "奧爾霍邁諾斯國王，米尼亞人的始祖",
+"symbols": [
+"財寶"
+],
+"bio": "傳說中的奧爾霍邁諾斯國王，以巨大財富聞名，米尼亞人以他為名。他的三個女兒拒絕參加酒神祭典而遭到變形，使他的家族名聲與酒神傳說緊緊相連。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"minyades"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "其父有說是波塞頓或科律索斯，各家說法不同。",
+"roman_symbols_note": null,
+"id": "minyas"
+},
+"minyades": {
+"zh": "敏尼亞斯的女兒們",
+"en": "The Minyades",
+"gr": "Minyádes",
+"roman": null,
+"cat": "凡人",
+"domain": "敏尼亞斯的三個女兒，拒拜酒神而被變成蝙蝠",
+"symbols": [
+"蝙蝠",
+"紡織"
+],
+"bio": "琉喀珀、阿爾希珀與阿爾喀托厄三姊妹，在酒神祭典日仍堅持紡織，並以講故事自娛。戴奧尼索斯顯靈令織機長出藤蔓，她們驚恐躲避，最終被變成蝙蝠。",
+"parents": [
+"minyas"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "蝙蝠",
+"by": "dionysus"
+},
+"mentor_of": [],
+"note": "另有版本說她們發瘋後撕碎了琉喀珀之子希帕索斯。",
+"roman_symbols_note": null,
+"id": "minyades"
+},
+"lycian_peasants": {
+"zh": "利西亞農夫",
+"en": "The Lycian peasants",
+"gr": "Lýkioi",
+"roman": null,
+"cat": "凡人",
+"domain": "利西亞的農夫，因辱罵勒托而被變成青蛙",
+"symbols": [
+"青蛙",
+"水池"
+],
+"bio": "勒托帶著幼小的阿波羅與阿蒂蜜絲逃亡到利西亞，口渴想飲池水，卻被農夫攪濁並辱罵。女神憤而詛咒他們永遠住在水中，農夫便化為在泥塘裡不停呱叫的青蛙。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "青蛙",
+"by": "leto"
+},
+"mentor_of": [],
+"note": "故事見於奧維德《變形記》；農夫無個別名字。",
+"roman_symbols_note": null,
+"id": "lycian_peasants"
+},
+"galanthis": {
+"zh": "加蘭提斯",
+"en": "Galanthis",
+"gr": "Galinthiás",
+"roman": null,
+"cat": "凡人",
+"domain": "阿爾克墨涅的侍女，因欺騙生育女神被變成黃鼠狼",
+"symbols": [
+"黃鼠狼"
+],
+"bio": "底比斯公主阿爾克墨涅的侍女，在主人難產時，看見生育女神坐在門口交叉雙手阻止生產，便謊稱嬰兒已誕生。女神驚愕鬆手，海克力斯得以出世，女神隨後懲罰侍女，把她變成黃鼠狼。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "黃鼠狼",
+"by": null
+},
+"mentor_of": [],
+"note": "施法者為生育女神厄勒提亞（Eileithyia，奧維德用拉丁名 Lucina）；一說加蘭提斯是貓。",
+"roman_symbols_note": null,
+"id": "galanthis"
+},
+"clytie": {
+"zh": "克呂提厄",
+"en": "Clytie",
+"gr": "Klytíē",
+"roman": null,
+"cat": "其他神祇",
+"domain": "愛慕太陽神的水仙，化為向日葵",
+"symbols": [
+"向日葵",
+"太陽"
+],
+"bio": "海洋仙女，曾與赫利俄斯相戀，因太陽神移情於琉科托厄而妒火中燒，向其父告密使琉科托厄被活埋。赫利俄斯因此冷落她，她終日仰望太陽，最終化為隨日轉動的花朵。",
+"parents": [
+"oceanus",
+"tethys"
+],
+"spouses": [],
+"lovers": [
+"helios"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "向日葵（太陽花）",
+"by": null
+},
+"mentor_of": [],
+"note": "奧維德所說的花有說是天芥菜（heliotrope）。",
+"roman_symbols_note": null,
+"id": "clytie"
+},
+"leucothoe": {
+"zh": "琉科托厄",
+"en": "Leucothoe",
+"gr": "Leukothóē",
+"roman": null,
+"cat": "凡人",
+"domain": "波斯公主，赫利俄斯所愛，死後化為乳香樹",
+"symbols": [
+"乳香樹"
+],
+"bio": "波斯國王奧爾卡莫斯的女兒。赫利俄斯化為其母形貌進入她的寢宮與她相戀，嫉妒的克呂提厄向其父告密，國王將女兒活埋。太陽神以光芒試圖喚醒她，只得讓她化為乳香樹。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"helios"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "乳香樹",
+"by": "helios"
+},
+"mentor_of": [],
+"note": "見奧維德《變形記》；與海中女神琉科忒亞（Leucothea）名稱相近，不同人物。",
+"roman_symbols_note": null,
+"id": "leucothoe"
+},
+"minthe": {
+"zh": "明特",
+"en": "Minthe",
+"gr": "Mínthē",
+"roman": null,
+"cat": "其他神祇",
+"domain": "黑帝斯所愛的仙女，被變成薄荷",
+"symbols": [
+"薄荷"
+],
+"bio": "冥河支流柯庫托斯的仙女，成為黑帝斯的情人，竟揚言自己比波瑟芬妮更美。波瑟芬妮（一說狄蜜特）盛怒之下將她踐踏成塵，黑帝斯無力挽回，便將她化為芳香的薄荷。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"hades"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "薄荷",
+"by": "persephone"
+},
+"mentor_of": [],
+"note": "史特拉波與奧維德殘篇等多為後世補述；施法者亦有說是狄蜜特。",
+"roman_symbols_note": null,
+"id": "minthe"
+},
+"cyparissus": {
+"zh": "庫帕里索斯",
+"en": "Cyparissus",
+"gr": "Kypárissos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "與牡鹿為伴的少年，因悲痛化為絲柏",
+"symbols": [
+"絲柏",
+"牡鹿"
+],
+"bio": "凱歐島上的美少年，深受阿波羅喜愛，與一頭神聖的牡鹿形影不離。他在打獵時誤用標槍刺死牡鹿，悲痛得想要永遠哀悼，阿波羅便將他變為絲柏，此後絲柏成為喪葬之樹。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"apollo"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "絲柏",
+"by": "apollo"
+},
+"mentor_of": [],
+"note": "亦有版本說他被仄費洛斯或西爾瓦努斯所愛。",
+"roman_symbols_note": null,
+"id": "cyparissus"
+},
+"dryope": {
+"zh": "德律歐珀",
+"en": "Dryope",
+"gr": "Dryópē",
+"roman": null,
+"cat": "凡人",
+"domain": "嫁予安德萊蒙的女子，誤摘蓮花而變成樹",
+"symbols": [
+"蓮樹"
+],
+"bio": "奧維德筆下的美麗少女，曾遭阿波羅（化為龜）誘騙而生下兒子，後嫁給安德萊蒙。她帶著嬰兒到水邊，誤折下蓮花枝而流血，身體漸漸變為樹木，臨終前請求家人保護孩子與這棵樹。",
+"parents": [],
+"spouses": [
+"andraemon"
+],
+"lovers": [
+"apollo"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "蓮樹（落葉喬木）",
+"by": null
+},
+"mentor_of": [],
+"note": "變形者實為水仙洛提斯，因被普里阿普斯追逐而化為蓮樹，故折枝引禍；與奧泰亞的德律歐珀同名者不同。",
+"roman_symbols_note": null,
+"id": "dryope"
+},
+"andraemon": {
+"zh": "安德萊蒙",
+"en": "Andraemon",
+"gr": "Andraímōn",
+"roman": null,
+"cat": "凡人",
+"domain": "德律歐珀的丈夫，目睹妻子變形為樹",
+"symbols": [
+"蓮樹"
+],
+"bio": "奧維德《變形記》中的色薩利人（一說埃托利亞），娶了德律歐珀並生下兒子。妻子在水邊折蓮枝而變為蓮樹時，他與岳父趕到，只能擁抱樹幹哭泣，眼睜睜看著妻子消失。",
+"parents": [],
+"spouses": [
+"dryope"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "另有同名者為特拉伊斯國王；本條指奧維德中德律歐珀之夫。",
+"roman_symbols_note": null,
+"id": "andraemon"
+},
+"arethusa": {
+"zh": "阿瑞圖薩",
+"en": "Arethusa",
+"gr": "Arethoúsa",
+"roman": null,
+"cat": "其他神祇",
+"domain": "阿蒂蜜絲的仙女，為逃河神追求化為西西里泉水",
+"symbols": [
+"泉水",
+"奧爾提吉亞島"
+],
+"bio": "阿卡迪亞的狩獵仙女，在河中沐浴時被河神阿爾甫斯追逐。她向阿蒂蜜絲求救，被化為地下水潛行到西西里的敘拉古，在那裡湧出為泉；傳說阿爾甫斯的水流仍在海底與她匯合。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"alpheus"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "泉水",
+"by": "artemis"
+},
+"mentor_of": [],
+"note": "奧維德記她與阿爾甫斯的故事；另有版本說她是涅柔斯之女。",
+"roman_symbols_note": null,
+"id": "arethusa"
+},
+"alpheus": {
+"zh": "阿爾甫斯",
+"en": "Alpheus",
+"gr": "Alpheiós",
+"roman": null,
+"cat": "其他神祇",
+"domain": "伯羅奔尼撒最長的河神，追求阿瑞圖薩",
+"symbols": [
+"河流"
+],
+"bio": "奧克亞諾斯與特堤斯的兒子，是希臘伯羅奔尼撒最長的河流化身。他愛上獵手仙女阿瑞圖薩，追至西西里；傳說他的河水在海底潛行，與她的泉水匯合，海克力斯清洗奧革阿斯牛棚也引用了他的河水。",
+"parents": [
+"oceanus",
+"tethys"
+],
+"spouses": [],
+"lovers": [
+"arethusa"
+],
+"children": [],
+"siblings": [
+"achelous",
+"peneus"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": null,
+"roman_symbols_note": null,
+"id": "alpheus"
+},
+"achelous": {
+"zh": "阿喀羅俄斯",
+"en": "Achelous",
+"gr": "Akheloös",
+"roman": null,
+"cat": "其他神祇",
+"domain": "希臘最大河流之神，能變形為蛇、公牛與人",
+"symbols": [
+"河流",
+"公牛角",
+"蛇"
+],
+"bio": "奧克亞諾斯之長子，最古老的河神，能變成蛇、公牛或人面牛身。他與海克力斯為得伊阿妮拉而摔跤，變成公牛時被折斷一角，那隻角便成為豐饒之角。據說塞壬是他的女兒。",
+"parents": [
+"oceanus",
+"tethys"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"sirens"
+],
+"siblings": [
+"alpheus",
+"peneus"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "豐饒之角另有說法出自山羊阿瑪爾忒亞；塞壬之母有說是繆思（特耳西科瑞或墨爾波墨涅）。",
+"roman_symbols_note": null,
+"id": "achelous"
+},
+"amalthea": {
+"zh": "阿瑪爾忒亞",
+"en": "Amalthea",
+"gr": "Amalthéia",
+"roman": null,
+"cat": "其他神祇",
+"domain": "哺育嬰兒宙斯的山羊或仙女，豐饒之角的來源",
+"symbols": [
+"山羊",
+"豐饒之角"
+],
+"bio": "克里特島上哺育幼年宙斯的角色，或為仙女或為母山羊。宙斯折下她的角，賦予其盛滿食物的神力，成為「豐饒之角」；一說宙斯將她的羊皮製成神盾，並將她升為天上的星座。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "有說是仙女，以山羊奶哺育宙斯；有說是山羊本身；豐饒之角亦與阿喀羅俄斯斷角相連。",
+"roman_symbols_note": null,
+"id": "amalthea"
+},
+"salmacis": {
+"zh": "薩爾瑪西斯",
+"en": "Salmacis",
+"gr": "Salmakís",
+"roman": null,
+"cat": "其他神祇",
+"domain": "愛上赫瑪芙羅狄托斯的水仙，與他合為一體",
+"symbols": [
+"泉水",
+"雌雄同體"
+],
+"bio": "卡里亞地區的水仙，唯一不愛狩獵、只愛梳妝。她見到沐浴的少年赫瑪芙羅狄托斯便熱烈追求，遭拒後纏住他並向神祈禱永不分離，兩人合而為一，後世稱泉水使男子變得柔弱。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"hermaphroditus"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "與赫瑪芙羅狄托斯合為雌雄同體",
+"by": null
+},
+"mentor_of": [],
+"note": "見奧維德《變形記》；經典說法為「泉水使入浴男子變柔弱」。",
+"roman_symbols_note": null,
+"id": "salmacis"
+},
+"cyane": {
+"zh": "賽安涅",
+"en": "Cyane",
+"gr": "Kyánē",
+"roman": null,
+"cat": "其他神祇",
+"domain": "西西里水仙，阻擋黑帝斯劫走波瑟芬妮，悲傷化為泉水",
+"symbols": [
+"泉水"
+],
+"bio": "西西里敘拉古的水仙，看見黑帝斯擄走波瑟芬妮時挺身阻攔，卻被王杖擊破大地而無力挽回。她悲泣不止、身體逐漸溶化，最終化為泉水，並以此泉水向狄蜜特指出被擄的痕跡。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "泉水",
+"by": null
+},
+"mentor_of": [],
+"note": "奧維德說她在悲泣中消融；另有版本說是黑帝斯將她變為泉。",
+"roman_symbols_note": null,
+"id": "cyane"
+},
+"peirene": {
+"zh": "皮瑞涅",
+"en": "Peirene",
+"gr": "Peirḗnē",
+"roman": null,
+"cat": "其他神祇",
+"domain": "科林斯的泉水仙女，為愛子之死哭成泉水",
+"symbols": [
+"泉水"
+],
+"bio": "科林斯的仙女，兒子克恩克里亞斯在狩獵時被阿蒂蜜絲誤殺。她悲痛欲絕，淚水不斷流淌，終於化為科林斯城中的皮瑞涅泉；傳說貝勒羅豐便是在這泉邊找到並馴服佩加索斯。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "泉水",
+"by": null
+},
+"mentor_of": [],
+"note": "其子名克恩克里亞斯（Cenchrias），另有兒子列開奧斯（Lechaeus）為波塞頓之子，本資料集無條目。",
+"roman_symbols_note": null,
+"id": "peirene"
+},
+"egeria": {
+"zh": "埃吉利亞",
+"en": "Egeria",
+"gr": "Egería",
+"roman": null,
+"cat": "其他神祇",
+"domain": "羅馬的泉水仙女，努馬王的神聖顧問",
+"symbols": [
+"泉水",
+"聖林"
+],
+"bio": "拉丁姆的水仙，在阿里奇亞的狄安娜聖林中與羅馬第二位國王努馬幽會，並傳授他宗教儀式與律法。努馬死後她悲痛不止，女神狄安娜憐憫而把她化為泉水。",
+"parents": [],
+"spouses": [
+"numa"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "泉水",
+"by": "artemis"
+},
+"mentor_of": [
+"numa"
+],
+"note": "羅馬傳說人物，狄安娜即羅馬的阿蒂蜜絲；普魯塔克等說她屬於羅馬的泉仙卡墨奈（Camenae）。",
+"roman_symbols_note": null,
+"id": "egeria"
+},
+"numa": {
+"zh": "努馬",
+"en": "Numa Pompilius",
+"gr": "Nouma",
+"roman": null,
+"cat": "凡人",
+"domain": "羅馬第二位國王，宗教與曆法的建立者",
+"symbols": [
+"聖火",
+"曆法",
+"祭司制度"
+],
+"bio": "傳說中羅馬在羅慕路斯之後的第二位王，以虔誠與和平治國聞名。據說他與水仙埃吉利亞相會，受其教導而制定祭典、曆法與祭司團，使羅馬由戰爭之城轉向秩序。",
+"parents": [],
+"spouses": [
+"egeria"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "羅馬傳說人物，非希臘神話；年代為傳說時代。",
+"roman_symbols_note": null,
+"id": "numa"
+},
+"rhodos": {
+"zh": "羅德",
+"en": "Rhodos",
+"gr": "Rhódos",
+"roman": null,
+"cat": "其他神祇",
+"domain": "羅德島的化身仙女，太陽神赫利俄斯之妻",
+"symbols": [
+"玫瑰",
+"太陽"
+],
+"bio": "羅德島的化身，是海之女神。太陽神赫利俄斯在分配領地時被遺忘，後來從海中升起一座島，便向宙斯求取為己有，並娶這位仙女為妻，生下羅德島上第一代居民。",
+"parents": [
+"poseidon"
+],
+"spouses": [
+"helios"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "品達說她是阿芙蘿黛蒂之女（與波塞頓所生）；另說是波塞頓與海之女神哈利亞所生。",
+"roman_symbols_note": null,
+"id": "rhodos"
+},
+"laelaps": {
+"zh": "萊拉普斯",
+"en": "Laelaps",
+"gr": "Laílaps",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "註定能抓到獵物的獵犬",
+"symbols": [
+"獵犬",
+"石像"
+],
+"bio": "宙斯贈予歐羅巴的神犬，註定追上任何獵物，之後輾轉歸入刻法羅斯手中。當它被派去追捕註定抓不到的特梅索斯狐狸時，成為無解的矛盾，宙斯便把兩者都化為石頭，置於天空。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "石像",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "天狗（大犬座）有說是它的升天形態。",
+"roman_symbols_note": null,
+"id": "laelaps"
+},
+"cephalus": {
+"zh": "刻法羅斯",
+"en": "Cephalus",
+"gr": "Képhalos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "雅典貴族，普羅克里斯之夫，誤射死妻子",
+"symbols": [
+"標槍",
+"獵犬萊拉普斯"
+],
+"bio": "雅典英俊獵手，與普羅克里斯新婚恩愛。曙光女神厄俄斯愛慕而將他擄走，他卻忠於妻子。其後他在林中打獵，妻子躲在草叢中偷窺而被他誤認為野獸，一標槍射中，成為悲劇。",
+"parents": [
+"herse"
+],
+"spouses": [
+"procris"
+],
+"lovers": [
+"eos"
+],
+"children": [],
+"siblings": [],
+"killed": [
+"procris"
+],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "赫西俄德說厄俄斯與刻法羅斯生下法厄同；他的父親有說是赫密士與赫耳塞，亦有說是德伊昂。",
+"roman_symbols_note": null,
+"id": "cephalus"
+},
+"procris": {
+"zh": "普羅克里斯",
+"en": "Procris",
+"gr": "Prókris",
+"roman": null,
+"cat": "凡人",
+"domain": "刻法羅斯之妻，因妒忌偷窺而被丈夫誤殺",
+"symbols": [
+"標槍",
+"獵犬"
+],
+"bio": "雅典公主，刻法羅斯的妻子，曾從米諾斯處得到萊拉普斯與必中的標槍。她因懷疑丈夫與「風」私通，躲在林中窺探，被丈夫誤認為野獸而射死，臨終兩人和解。",
+"parents": [],
+"spouses": [
+"cephalus"
+],
+"lovers": [
+"minos"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"cephalus"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "阿波羅多洛斯說她曾為求得獵犬與標槍而委身米諾斯。",
+"roman_symbols_note": null,
+"id": "procris"
+},
+"crotus": {
+"zh": "克羅托斯",
+"en": "Crotus",
+"gr": "Krótos",
+"roman": null,
+"cat": "其他神祇",
+"domain": "繆思的好友，薩提爾，化為射手座",
+"symbols": [
+"弓箭",
+"射手座"
+],
+"bio": "牧神潘與繆思乳母歐菲墨所生的薩提爾，居於赫利孔山，擅長射箭與狩獵，也熱愛音樂。他死後繆思們請求宙斯把他升為星座，成為手持弓箭的射手座。",
+"parents": [
+"pan"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "射手座",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "射手座另有說是半人馬凱隆，本條取希吉努斯說。",
+"roman_symbols_note": null,
+"id": "crotus"
+},
+"phyllis": {
+"zh": "菲麗絲",
+"en": "Phyllis",
+"gr": "Phyllís",
+"roman": null,
+"cat": "凡人",
+"domain": "色雷斯公主，等不到情人歸來而化為杏樹",
+"symbols": [
+"杏樹"
+],
+"bio": "色雷斯女王（或公主），愛上從特洛伊歸來的雅典王子德摩豐，約定婚期。他卻未如期歸來，她在海邊苦等九次而自縊，雅典娜把她變成杏樹，後來杏樹發芽時，德摩豐才回來擁抱它。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "杏樹",
+"by": "athena"
+},
+"mentor_of": [],
+"note": "她的情人是忒修斯之子德摩豐，與厄琉西斯王子德摩豐（demophon）不是同一人。",
+"roman_symbols_note": null,
+"id": "phyllis"
+},
+"demophon": {
+"zh": "德摩豐",
+"en": "Demophon (Eleusis)",
+"gr": "Demophôn",
+"roman": null,
+"cat": "凡人",
+"domain": "厄琉西斯王子，狄蜜特的養子",
+"symbols": [
+"火焰",
+"神饌"
+],
+"bio": "厄琉西斯王塞勒歐斯與墨塔涅拉之子。狄蜜特化為老婦入宮擔任乳母，夜裡將他放入火中去除凡人之質、要使他永生，卻被母親撞見而中斷，嬰兒因此終究是凡人。",
+"parents": [
+"metaneira"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"triptolemus"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬頌歌說他活了下來；阿波羅多洛斯說他被火燒死。",
+"roman_symbols_note": null,
+"id": "demophon"
+},
+"lyncus": {
+"zh": "呂恩科斯",
+"en": "Lyncus",
+"gr": "Lýnkos",
+"roman": null,
+"cat": "凡人",
+"domain": "斯基泰國王，因暗殺特里普托勒摩斯被變成山貓",
+"symbols": [
+"山貓"
+],
+"bio": "斯基泰國王，接待狄蜜特派出傳授農耕的特里普托勒摩斯，卻起了嫉妒之心，趁他熟睡想將他殺害。狄蜜特及時出手阻止，把這位國王變成一頭山貓。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "山貓",
+"by": "demeter"
+},
+"mentor_of": [],
+"note": "Lyncus 一名與希臘文「山貓」同源；亦有說法稱其為格諾斯王卡爾農。",
+"roman_symbols_note": null,
+"id": "lyncus"
+},
+"triptolemus": {
+"zh": "特里普托勒摩斯",
+"en": "Triptolemus",
+"gr": "Triptólemos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "厄琉西斯王子，奉命傳授農耕的使者",
+"symbols": [
+"麥穗",
+"有翼蛇車",
+"犁"
+],
+"bio": "厄琉西斯國王之子，狄蜜特尋女時受到其家款待。女神贈他麥種與有翼蛇車，命他周遊各地傳授耕種，被視為農業與厄琉西斯秘儀的傳播者。",
+"parents": [
+"metaneira"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"demophon"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "其父母另有說是奧克亞諾斯與蓋亞，或是塞勒歐斯與墨塔涅拉；後者較通行。",
+"roman_symbols_note": null,
+"id": "triptolemus"
+},
+"cybele": {
+"zh": "西芭莉",
+"en": "Cybele",
+"gr": "Kybélē",
+"roman": "Magna Mater",
+"cat": "其他神祇",
+"domain": "小亞細亞弗里吉亞的大地之母，眾神之母",
+"symbols": [
+"獅子",
+"城牆冠",
+"手鼓"
+],
+"bio": "起源於弗里吉亞的大地母神，坐著獅子拉的戰車，戴著城牆形冠冕，身邊有狂熱信徒。希臘人將她與瑞亞等同，與年輕的阿提斯相戀；羅馬在公元前三世紀迎入她的聖石，稱為「大母神」。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"attis"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "希臘與羅馬時代常將她與瑞亞、狄蜜特混同。",
+"roman_symbols_note": null,
+"id": "cybele"
+},
+"turnus": {
+"zh": "圖爾努斯",
+"en": "Turnus",
+"gr": "Tournos",
+"roman": null,
+"cat": "凡人",
+"domain": "魯圖利人的青年國王，與埃涅阿斯爭奪拉維妮亞",
+"symbols": [
+"戰車",
+"盾牌"
+],
+"bio": "維吉爾《埃涅亞斯紀》中的魯圖利國王，曾是拉維妮亞的求婚者。在埃涅阿斯登陸拉丁姆後，他在復仇女神的挑撥下發動戰爭，最終敗於一對一決鬥，被埃涅阿斯殺死。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"lavinia"
+],
+"children": [],
+"siblings": [],
+"killed": [
+"pallas_evander"
+],
+"killed_by": [
+"aeneas"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "羅馬傳說人物，主要見於維吉爾；與拉維妮亞為被母親阿瑪塔屬意的婚約關係。",
+"roman_symbols_note": null,
+"id": "turnus"
+},
+"phoenix_bird": {
+"zh": "鳳凰",
+"en": "The Phoenix",
+"gr": "Phoînix",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "能自焚並重生的神鳥",
+"symbols": [
+"火",
+"香木",
+"重生"
+],
+"bio": "每隔五百年（或更久）在香木堆中自焚，並從灰燼中重生的神鳥，羽毛紅金相間。希羅多德說牠來自阿拉伯，每次重生後便將舊身體包裹護送到埃及的太陽城，象徵週期與復活。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "與阿基里斯之師菲尼克斯（phoenix_tutor）同名，不同。",
+"roman_symbols_note": null,
+"id": "phoenix_bird"
+},
+"cercopes": {
+"zh": "刻爾科佩斯兄弟",
+"en": "The Cercopes",
+"gr": "Kérkōpes",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "愛惡作劇的小偷雙胞胎，曾戲弄海克力斯",
+"symbols": [
+"猴子",
+"惡作劇"
+],
+"bio": "棲居於厄菲索斯或色薩利的兩兄弟，母親警告他們提防「黑屁股」的人。他們偷了正在睡覺的海克力斯的武器，被抓住後倒掛在他肩上，因他們說的笑話而被放走，後來再度欺人被宙斯變成猴子。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "猴子",
+"by": "zeus"
+},
+"mentor_of": [],
+"note": "名字有 Passalus、Acmon 等；變猴說見奧維德。",
+"roman_symbols_note": null,
+"id": "cercopes"
+},
+"omphale": {
+"zh": "翁法勒",
+"en": "Omphale",
+"gr": "Omphálē",
+"roman": null,
+"cat": "凡人",
+"domain": "呂底亞女王，買下海克力斯為奴者",
+"symbols": [
+"獅皮",
+"紡錘"
+],
+"bio": "呂底亞國王雅爾達諾斯之女，王后。海克力斯殺人後被神諭罰為奴一年，賣給她作僕。傳說她穿他的獅皮、持他的棍棒，而他穿女裝紡紗，成為「英雄也要服役」的著名故事。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"heracles"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "阿波羅多洛斯說兩人後來生子；後世藝術常描繪兩人互換衣著。",
+"roman_symbols_note": null,
+"id": "omphale"
+},
+"pentheus": {
+"zh": "彭透斯",
+"en": "Pentheus",
+"gr": "Pentheús",
+"roman": null,
+"cat": "凡人",
+"domain": "底比斯國王，因拒絕酒神被母親撕碎",
+"symbols": [
+"松果杖",
+"常春藤"
+],
+"bio": "卡德摩斯之孫，厄喀翁與阿加維之子，繼任底比斯王。他嘲弄並囚禁酒神戴奧尼索斯，被誘去山中偷看酒神女信徒的祭儀，遭瘋狂的母親與姨母們誤認為野獸撕成碎片。",
+"parents": [
+"agave"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"agave",
+"maenads"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "歐里庇得斯《酒神的女信徒》為最完整版本。",
+"roman_symbols_note": null,
+"id": "pentheus"
+},
+"agave": {
+"zh": "阿加維",
+"en": "Agave",
+"gr": "Agaué",
+"roman": null,
+"cat": "凡人",
+"domain": "彭透斯之母，在酒神狂亂中撕碎自己的兒子",
+"symbols": [
+"酒神杖",
+"常春藤"
+],
+"bio": "卡德摩斯與哈耳摩尼亞之女，塞默勒的姊妹，彭透斯之母。她曾質疑妹妹與宙斯的關係，被酒神施瘋，在山上親手撕下兒子的頭顱，以為是獅子的戰利品，清醒後方知悲劇。",
+"parents": [
+"cadmus",
+"harmonia"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"pentheus"
+],
+"siblings": [
+"semele",
+"ino"
+],
+"killed": [
+"pentheus"
+],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": null,
+"roman_symbols_note": null,
+"id": "agave"
+},
+"tiresias": {
+"zh": "提瑞西阿斯",
+"en": "Tiresias",
+"gr": "Teiresías",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "底比斯的盲眼先知，曾經變性，七代皆有其預言",
+"symbols": [
+"拐杖",
+"蛇",
+"盲眼"
+],
+"bio": "傳說他看到兩條交配的蛇，打了牠們而變成女人，七年後再次擊蛇才恢復男身。後來宙斯與赫拉爭論男女誰的歡愉更大，他答女更多，赫拉弄瞎他，宙斯賜他預言之能。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "女人（七年後復原）",
+"by": null
+},
+"mentor_of": [],
+"note": "失明原因有二：赫拉懲罰（阿波羅多洛斯、奧維德），或誤見雅典娜沐浴（卡利馬科斯）。",
+"roman_symbols_note": null,
+"id": "tiresias"
+},
+"athamas": {
+"zh": "阿塔瑪斯",
+"en": "Athamas",
+"gr": "Athamás",
+"roman": null,
+"cat": "凡人",
+"domain": "玻俄提亞國王，兩度婚姻導致家破人亡",
+"symbols": [
+"金羊毛",
+"公羊"
+],
+"bio": "埃俄羅斯之子，起初娶雲仙涅斐勒，生下弗里克索斯與赫勒；後娶卡德摩斯之女伊諾，生下列阿爾科斯與梅利刻耳忒斯。赫拉降下瘋病，他誤殺一子，伊諾抱另一子投海。",
+"parents": [],
+"spouses": [
+"nephele",
+"ino"
+],
+"lovers": [],
+"children": [
+"phrixus",
+"helle",
+"melicertes"
+],
+"siblings": [
+"sisyphus",
+"salmoneus"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "此處的埃俄羅斯是赫楞之子，與荷馬的風之王不同。",
+"roman_symbols_note": null,
+"id": "athamas"
+},
+"ino": {
+"zh": "伊諾",
+"en": "Ino",
+"gr": "Inṓ",
+"roman": null,
+"cat": "凡人",
+"domain": "卡德摩斯之女，撫養幼年酒神，後成為海中女神",
+"symbols": [
+"面紗",
+"海浪"
+],
+"bio": "塞默勒之妹，阿塔瑪斯之後妻。她在姊姊死後撫養幼年戴奧尼索斯，遭赫拉降瘋。她抱著兒子梅利刻耳忒斯躍入大海，被波塞頓化為海中女神琉科忒亞，成為水手的守護者。",
+"parents": [
+"cadmus",
+"harmonia"
+],
+"spouses": [
+"athamas"
+],
+"lovers": [],
+"children": [
+"melicertes"
+],
+"siblings": [
+"semele",
+"agave"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "海中女神琉科忒亞",
+"by": "poseidon"
+},
+"mentor_of": [],
+"note": "變形後的名字為琉科忒亞（見 leucothea）；亦有說為阿芙蘿黛蒂的請求。",
+"roman_symbols_note": null,
+"id": "ino"
+},
+"melicertes": {
+"zh": "梅利刻耳忒斯",
+"en": "Melicertes",
+"gr": "Melikértēs",
+"roman": "Portunus",
+"cat": "半神與英雄",
+"domain": "伊諾之子，成為海神帕萊蒙",
+"symbols": [
+"海豚",
+"地峽運動會"
+],
+"bio": "阿塔瑪斯與伊諾之子，年幼時被瘋狂的母親抱著跳入大海。波塞頓把他化為海神帕萊蒙（羅馬名波爾圖努斯），海豚將他的屍身載到科林斯地峽，成為地峽運動會的創始由來。",
+"parents": [
+"athamas",
+"ino"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"phrixus",
+"helle"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "海神帕萊蒙",
+"by": "poseidon"
+},
+"mentor_of": [],
+"note": null,
+"roman_symbols_note": null,
+"id": "melicertes"
+},
+"leucothea": {
+"zh": "琉科忒亞",
+"en": "Leucothea",
+"gr": "Leukothéa",
+"roman": "Mater Matuta",
+"cat": "其他神祇",
+"domain": "伊諾化為海神後的名字，拯救過奧德修斯",
+"symbols": [
+"面紗",
+"海浪"
+],
+"bio": "伊諾躍海變成後的名字，意為「白色女神」。荷馬史詩中，奧德修斯的木筏被波塞頓擊碎時，她從海中浮現，遞給他不沉的面紗，使他游到費阿西亞。羅馬人稱她為馬特爾·馬圖塔。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "本條為伊諾（ino）的變形後名字，血緣與婚姻關係請見 ino，避免重複邊。",
+"roman_symbols_note": null,
+"id": "leucothea"
+},
+"amphion": {
+"zh": "安菲翁",
+"en": "Amphion",
+"gr": "Amphíōn",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "宙斯之子，以豎琴聲使石頭自行堆成底比斯城牆",
+"symbols": [
+"七弦琴",
+"城牆"
+],
+"bio": "宙斯與安提俄珀所生的雙胞胎之一，從赫密士處得到七弦琴。他與兄弟澤托斯為母親報仇，處死了狄爾刻，並築起底比斯城牆，澤托斯搬石頭，他彈琴石頭便自行就位。娶尼俄柏為妻。",
+"parents": [
+"zeus",
+"antiope"
+],
+"spouses": [
+"niobe"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"zethus"
+],
+"killed": [
+"dirce"
+],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "尼俄柏子女被殺後，安菲翁自殺（奧維德）或被阿波羅所殺（說法各異）。",
+"roman_symbols_note": null,
+"id": "amphion"
+},
+"zethus": {
+"zh": "澤托斯",
+"en": "Zethus",
+"gr": "Zêthos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "安菲翁的雙胞胎兄弟，粗壯的牧人",
+"symbols": [
+"巨石",
+"牧羊"
+],
+"bio": "宙斯與安提俄珀之子，與弟弟安菲翁在山中被牧人養大，個性務實粗壯。兄弟成年後為母報仇，將虐待母親的狄爾刻綁在公牛身上拖死，之後共同為底比斯築牆。",
+"parents": [
+"zeus",
+"antiope"
+],
+"spouses": [
+"aedon"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"amphion"
+],
+"killed": [
+"dirce"
+],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "其妻為忒貝（Thebe），或說為埃冬（Aedon）。",
+"roman_symbols_note": null,
+"id": "zethus"
+},
+"antiope": {
+"zh": "安提俄珀",
+"en": "Antiope",
+"gr": "Antiópē",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "底比斯公主，宙斯所愛，安菲翁與澤托斯之母",
+"symbols": [
+"雙子"
+],
+"bio": "尼克泰烏斯之女，宙斯化為薩提爾與她結合並生下雙子。被父親懲罰逃至西錫安，後被伯父呂科斯和狄爾刻虐待，兒子成年後為她報仇，將狄爾刻處死。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"zeus"
+],
+"children": [
+"amphion",
+"zethus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "亞馬遜女王安提俄珀（翟修斯之妻）是同名的另一人。",
+"roman_symbols_note": null,
+"id": "antiope"
+},
+"dirce": {
+"zh": "狄爾刻",
+"en": "Dirce",
+"gr": "Dírkē",
+"roman": null,
+"cat": "凡人",
+"domain": "底比斯的王后，虐待安提俄珀者，死後化為泉水",
+"symbols": [
+"泉水",
+"公牛"
+],
+"bio": "呂科斯之妻，長期虐待被囚的安提俄珀。安提俄珀之子成年後，將她綁在公牛角上拖行至死，酒神戴奧尼索斯把她的屍體化為泉水，成為底比斯城外的狄爾刻泉。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"amphion",
+"zethus"
+],
+"transformed": {
+"into": "泉水",
+"by": "dionysus"
+},
+"mentor_of": [],
+"note": "希吉努斯記有此事；阿波羅多洛斯所述亦同。",
+"roman_symbols_note": null,
+"id": "dirce"
+},
+"polybus": {
+"zh": "波呂波斯",
+"en": "Polybus",
+"gr": "Pólybos",
+"roman": null,
+"cat": "凡人",
+"domain": "科林斯國王，伊底帕斯的養父",
+"symbols": [
+"王冠"
+],
+"bio": "科林斯國王，與王后墨洛珀收養了被牧人送來的嬰兒伊底帕斯，將他當作親生。伊底帕斯因神諭而逃離科林斯，去往底比斯，才在路上與生父相遇，應驗命運。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "伊底帕斯養父的名字有說是波呂波斯（索福克勒斯）；亦有多版本。",
+"roman_symbols_note": null,
+"id": "polybus"
+},
+"adrastus": {
+"zh": "阿德拉斯托斯",
+"en": "Adrastus",
+"gr": "Ádrastos",
+"roman": null,
+"cat": "凡人",
+"domain": "阿爾戈斯國王，領導七將攻底比斯的唯一生還者",
+"symbols": [
+"神馬阿里翁"
+],
+"bio": "阿爾戈斯國王，將兩個女兒分別嫁給流亡的波呂尼刻斯與堤丟斯，因此興兵攻打底比斯。七將之戰中他乘神馬阿里翁逃出，是唯一的生還者，後來又領導後代英雄再次進軍。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"eriphyle"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "其子孫「厄庇戈諾伊」第二次攻底比斯獲勝。",
+"roman_symbols_note": null,
+"id": "adrastus"
+},
+"tydeus": {
+"zh": "堤丟斯",
+"en": "Tydeus",
+"gr": "Tydeús",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "七將之一，狄俄墨得斯之父，以勇猛暴烈聞名",
+"symbols": [
+"矛",
+"盾"
+],
+"bio": "卡呂冬王俄紐斯之子，因殺親族而流亡到阿爾戈斯，娶阿德拉斯托斯之女。攻底比斯時身受重傷，雅典娜正要賜他不死，卻見他啃食敵人腦髓而嫌惡收回。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"diomedes"
+],
+"siblings": [
+"meleager"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "其母有說為俄紐斯之後妻（珀里波亞），故與墨勒阿革洛斯為異母兄弟。",
+"roman_symbols_note": null,
+"id": "tydeus"
+},
+"amphiaraus": {
+"zh": "安菲阿拉俄斯",
+"en": "Amphiaraus",
+"gr": "Amphiáraos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "阿爾戈斯先知，七將之一，死後成為神諭之神",
+"symbols": [
+"戰車",
+"神諭"
+],
+"bio": "預知攻底比斯會失敗，卻被妻子厄里菲勒收下項鍊後出賣，只得出征。戰敗逃亡時，宙斯劈開大地，將他連戰車一起吞入，他死後在奧羅波斯成為神諭之神。",
+"parents": [],
+"spouses": [
+"eriphyle"
+],
+"lovers": [],
+"children": [
+"alcmaeon"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "遺言令兒子報仇，導致阿爾克邁翁弒母。",
+"roman_symbols_note": null,
+"id": "amphiaraus"
+},
+"eriphyle": {
+"zh": "厄里菲勒",
+"en": "Eriphyle",
+"gr": "Eriphýlē",
+"roman": null,
+"cat": "凡人",
+"domain": "阿德拉斯托斯之妹，因黃金項鍊出賣丈夫",
+"symbols": [
+"項鍊",
+"金飾"
+],
+"bio": "阿爾戈斯公主，阿德拉斯托斯之姊妹，先知安菲阿拉俄斯之妻。波呂尼刻斯以哈耳摩尼亞的項鍊賄賂她，她逼迫丈夫參戰；丈夫死後，兒子阿爾克邁翁奉父遺命將她殺死。",
+"parents": [],
+"spouses": [
+"amphiaraus"
+],
+"lovers": [],
+"children": [
+"alcmaeon"
+],
+"siblings": [
+"adrastus"
+],
+"killed": [],
+"killed_by": [
+"alcmaeon"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "項鍊與長袍後來帶給承接者災禍。",
+"roman_symbols_note": null,
+"id": "eriphyle"
+},
+"hypsipyle": {
+"zh": "許普西皮勒",
+"en": "Hypsipyle",
+"gr": "Hypsipýlē",
+"roman": null,
+"cat": "凡人",
+"domain": "利姆諾斯女王，與傑森生子，後為奧菲爾忒斯的奶媽",
+"symbols": [
+"火",
+"嬰兒"
+],
+"bio": "利姆諾斯島全島婦女殺盡男子後，她保住了父親，成為女王。阿爾戈英雄停泊島上時與傑森結合生子；後來她被賣為奴，在尼米亞成為嬰兒奧菲爾忒斯的奶媽。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"jason"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "奧菲爾忒斯之死是尼米亞運動會的起源之一。",
+"roman_symbols_note": null,
+"id": "hypsipyle"
+},
+"opheltes": {
+"zh": "奧菲爾忒斯",
+"en": "Opheltes",
+"gr": "Ophéltēs",
+"roman": null,
+"cat": "凡人",
+"domain": "尼米亞王之嬰兒，被毒蛇咬死，成為尼米亞競技會的起源",
+"symbols": [
+"蛇"
+],
+"bio": "尼米亞祭司呂庫古與歐律狄刻之子，由許普西皮勒抱養。她放下他去為七將指泉水，毒蛇咬死了嬰兒；七將將他改名為阿爾刻莫羅斯，並創設尼米亞競技會以悼念。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "預示七將之戰失敗；亦稱 Archemorus（意為「死亡的開端」）。",
+"roman_symbols_note": null,
+"id": "opheltes"
+},
+"capaneus": {
+"zh": "卡帕紐斯",
+"en": "Capaneus",
+"gr": "Kapaneús",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "七將之一，狂妄的巨人，被宙斯雷霆擊斃",
+"symbols": [
+"雷霆",
+"攻城梯"
+],
+"bio": "攻底比斯的七將之一，以力量與傲慢著稱。他架梯攀牆時放言連宙斯也擋不住他，宙斯立即降下閃電把他劈死，屍體冒煙，被視為傲慢遭懲的象徵；但丁也在地獄中描繪過他。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"zeus"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "妻子厄瓦德涅（Evadne）在丈夫火葬時跳入火中殉情。",
+"roman_symbols_note": null,
+"id": "capaneus"
+},
+"menoeceus": {
+"zh": "墨諾叩斯",
+"en": "Menoeceus",
+"gr": "Menoikeús",
+"roman": null,
+"cat": "凡人",
+"domain": "克瑞翁之子，為拯救底比斯自願犧牲",
+"symbols": [
+"劍",
+"城牆"
+],
+"bio": "克瑞翁之子，預言家提瑞西阿斯宣布只有王族的血才能挽救底比斯，他得知後不顧父親反對，登上城牆自刎，將自己獻給戰神，戰神因此庇佑底比斯。",
+"parents": [
+"creon"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"haemon"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "歐里庇得斯《腓尼基婦女》中最完整；另有祖父同名者。",
+"roman_symbols_note": null,
+"id": "menoeceus"
+},
+"haemon": {
+"zh": "海蒙",
+"en": "Haemon",
+"gr": "Haímōn",
+"roman": null,
+"cat": "凡人",
+"domain": "克瑞翁之子，安提岡妮的未婚夫，殉情而死",
+"symbols": [
+"劍"
+],
+"bio": "克瑞翁之子，與安提岡妮訂婚。安提岡妮因違令埋葬哥哥而被關入墓室自縊，他為她向父親求情不成，闖入墓中見她已死，拔劍自盡，克瑞翁的王后歐律狄刻隨後亦自盡。",
+"parents": [
+"creon"
+],
+"spouses": [],
+"lovers": [
+"antigone"
+],
+"children": [],
+"siblings": [
+"menoeceus"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "索福克勒斯版本；兩人為訂婚關係而非已婚。",
+"roman_symbols_note": null,
+"id": "haemon"
+},
+"hippodamia": {
+"zh": "希波達彌亞",
+"en": "Hippodamia",
+"gr": "Hippodámeia",
+"roman": null,
+"cat": "凡人",
+"domain": "比薩公主，珀羅普斯贏得戰車賽的獎品",
+"symbols": [
+"戰車",
+"婚約"
+],
+"bio": "歐諾瑪俄斯王的女兒，父親要求求婚者與他比賽戰車，輸者被殺。珀羅普斯收買車伕米爾提羅斯破壞車軸，贏得比賽並娶她，兩人生下阿特柔斯與堤厄斯忒斯等人，種下家族詛咒。",
+"parents": [
+"oenomaus"
+],
+"spouses": [
+"pelops"
+],
+"lovers": [],
+"children": [
+"atreus",
+"thyestes"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "有說她曾參與謀殺米爾提羅斯或唆使兒子殺死異母兄弟克律西波斯。",
+"roman_symbols_note": null,
+"id": "hippodamia"
+},
+"oenomaus": {
+"zh": "歐諾瑪俄斯",
+"en": "Oenomaus",
+"gr": "Oinómaos",
+"roman": null,
+"cat": "凡人",
+"domain": "比薩國王，用戰車賽殺死十數位求婚者",
+"symbols": [
+"戰車",
+"神馬",
+"長矛"
+],
+"bio": "戰神阿瑞斯之子，比薩國王。神諭預言他會死於女婿之手，因此規定求婚者必須與他比戰車，輸者被殺並懸頭示眾。最終珀羅普斯收買了他的車伕，使車軸斷裂，他墜車身亡。",
+"parents": [
+"ares"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"hippodamia"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"pelops",
+"myrtilus"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "一說死於車禍，一說被珀羅普斯殺死。",
+"roman_symbols_note": null,
+"id": "oenomaus"
+},
+"myrtilus": {
+"zh": "米爾提羅斯",
+"en": "Myrtilus",
+"gr": "Myrtílos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "歐諾瑪俄斯的車伕，赫密士之子，被珀羅普斯推入海中",
+"symbols": [
+"戰車",
+"蠟製車釘"
+],
+"bio": "赫密士之子，歐諾瑪俄斯的車伕。珀羅普斯許他共享新娘作為報酬，他便把車軸的青銅釘換成蠟。勝利後珀羅普斯不願履約，把他推下懸崖，他臨死詛咒佩洛匹得斯一族，赫密士把他升為御夫座。",
+"parents": [
+"hermes"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"oenomaus"
+],
+"killed_by": [
+"pelops"
+],
+"transformed": {
+"into": "御夫座",
+"by": "hermes"
+},
+"mentor_of": [],
+"note": "詛咒是阿特柔斯家族悲劇的起點之一。",
+"roman_symbols_note": null,
+"id": "myrtilus"
+},
+"aerope": {
+"zh": "埃洛珀",
+"en": "Aerope",
+"gr": "Aerópē",
+"roman": null,
+"cat": "凡人",
+"domain": "阿特柔斯之妻，與堤厄斯忒斯私通，導致宮廷悲劇",
+"symbols": [
+"金羊",
+"宴席"
+],
+"bio": "克里特公主，嫁給阿特柔斯，卻愛上小叔堤厄斯忒斯，並幫他偷走象徵王權的金羊。阿特柔斯後來以兒子們的肉為餐報復堤厄斯忒斯；阿伽門農與梅涅勞斯多被認為是她所生。",
+"parents": [],
+"spouses": [
+"atreus"
+],
+"lovers": [
+"thyestes"
+],
+"children": [
+"agamemnon",
+"menelaus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"atreus"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "在阿波羅多洛斯等版本中被阿特柔斯投入海中；也有版本說阿伽門農與梅涅勞斯是阿特柔斯與她所生。",
+"roman_symbols_note": null,
+"id": "aerope"
+},
+"pylades": {
+"zh": "皮拉得斯",
+"en": "Pylades",
+"gr": "Pyládēs",
+"roman": null,
+"cat": "凡人",
+"domain": "奧瑞斯提斯的摯友，福基斯王子",
+"symbols": [
+"友誼",
+"劍"
+],
+"bio": "斯特洛菲俄斯之子，奧瑞斯提斯流亡福基斯時一同成長，成為至交。他陪同好友回阿爾戈斯殺死埃吉斯托斯與克呂泰涅斯特拉，後來與厄勒克特拉成婚，「皮拉得斯與奧瑞斯提斯」成了友誼的典範。",
+"parents": [],
+"spouses": [
+"electra"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "母親為阿伽門農的姊妹阿納克西比婭，故與奧瑞斯提斯為表兄弟。",
+"roman_symbols_note": null,
+"id": "pylades"
+},
+"thoas": {
+"zh": "托阿斯",
+"en": "Thoas",
+"gr": "Thóas",
+"roman": null,
+"cat": "凡人",
+"domain": "陶里斯國王，要求以外邦人祭祀阿蒂蜜絲",
+"symbols": [
+"神廟",
+"祭壇"
+],
+"bio": "黑海北岸陶里斯的國王，沿襲在阿蒂蜜絲神廟殺祭外來者的習俗。伊菲革涅亞受命為祭司，奧瑞斯提斯與皮拉得斯被俘時，姊弟相認並帶走神像逃離，他被雅典娜出面阻止追擊。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "歐里庇得斯《伊菲革涅亞在陶里斯》；與利姆諾斯王托阿斯（許普西皮勒之父）不同。",
+"roman_symbols_note": null,
+"id": "thoas"
+},
+"alcmaeon": {
+"zh": "阿爾克邁翁",
+"en": "Alcmaeon",
+"gr": "Alkmaíōn",
+"roman": null,
+"cat": "凡人",
+"domain": "安菲阿拉俄斯之子，為父報仇而弒母",
+"symbols": [
+"項鍊",
+"復仇女神"
+],
+"bio": "遵照父親遺命，他殺死了出賣父親的母親厄里菲勒，之後被復仇女神追趕，四處流亡。他曾得到哈耳摩尼亞的項鍊與長袍，最終因這兩件寶物而被殺。",
+"parents": [
+"amphiaraus",
+"eriphyle"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"eriphyle"
+],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "相傳他最終因哈耳摩尼亞的項鍊與長袍，被福格烏斯之子們所殺。",
+"roman_symbols_note": null,
+"id": "alcmaeon"
+},
+"phrixus": {
+"zh": "弗里克索斯",
+"en": "Phrixus",
+"gr": "Phríxos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "阿塔瑪斯之子，騎金毛公羊逃到科爾基斯",
+"symbols": [
+"金羊毛",
+"公羊"
+],
+"bio": "涅斐勒與阿塔瑪斯之子。繼母伊諾設計要將他獻祭，母親遣金羊救他與妹妹赫勒逃離。赫勒途中墜海，他到達科爾基斯後獻祭金羊，將金羊毛贈予國王埃厄忒斯，後來引來傑森奪毛。",
+"parents": [
+"athamas",
+"nephele"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"helle",
+"melicertes"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "他娶埃厄忒斯之女卡爾基厄珀（Chalciope）。",
+"roman_symbols_note": null,
+"id": "phrixus"
+},
+"helle": {
+"zh": "赫勒",
+"en": "Helle",
+"gr": "Héllē",
+"roman": null,
+"cat": "凡人",
+"domain": "阿塔瑪斯之女，墜海而亡，海峽因她得名",
+"symbols": [
+"金羊",
+"海峽"
+],
+"bio": "涅斐勒與阿塔瑪斯之女，與哥哥弗里克索斯騎金毛公羊飛越海峽逃難。途中她因頭暈鬆手墜入海中，從此該海峽被稱為赫勒斯滂（意為「赫勒之海」）。",
+"parents": [
+"athamas",
+"nephele"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"phrixus",
+"melicertes"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": null,
+"roman_symbols_note": null,
+"id": "helle"
+},
+"nephele": {
+"zh": "涅斐勒",
+"en": "Nephele",
+"gr": "Nephélē",
+"roman": null,
+"cat": "其他神祇",
+"domain": "雲仙，阿塔瑪斯之首任妻子，弗里克索斯與赫勒之母",
+"symbols": [
+"雲",
+"金羊"
+],
+"bio": "以雲為形的仙女，由赫拉之形塑成，嫁予阿塔瑪斯。丈夫另娶伊諾後，伊諾陷害她的子女，她便派金毛公羊救走孩子。另一版傳說說她被宙斯給了伊克西翁，生下半人馬族。",
+"parents": [],
+"spouses": [
+"athamas"
+],
+"lovers": [
+"ixion"
+],
+"children": [
+"phrixus",
+"helle",
+"centaurs"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "品達記伊克西翁與雲所生半人馬族；此雲仙與涅斐勒同名。",
+"roman_symbols_note": null,
+"id": "nephele"
+},
+"argus_builder": {
+"zh": "造船匠阿爾戈斯",
+"en": "Argus the shipwright",
+"gr": "Árgos",
+"roman": null,
+"cat": "凡人",
+"domain": "阿爾戈號的建造者",
+"symbols": [
+"阿爾戈號",
+"木船"
+],
+"bio": "雅典娜指導下，由他建造出第一艘遠洋大船阿爾戈號，並以他的名字命名；一說船名來自「快速」之意。他也加入遠征隊，並在船中安置了來自多多納的神諭木材。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "父親有說是阿瑞斯托（Arestor），亦有說是弗里克索斯；與百眼巨人阿爾戈斯不同。",
+"roman_symbols_note": null,
+"id": "argus_builder"
+},
+"hylas": {
+"zh": "海拉斯",
+"en": "Hylas",
+"gr": "Hýlas",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "海克力斯的年輕同伴，被水仙拉入泉中",
+"symbols": [
+"水罐",
+"泉水"
+],
+"bio": "海克力斯殺死其父後收養他，讓他作自己的持武器者與愛人。阿爾戈英雄停靠密西亞時，他去取水，被愛上他的水仙拉入泉中，海克力斯發狂地找尋，以致錯過遠征。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"heracles"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "亦有版本說他與海克力斯為師徒或養父子關係；泉名為 Pegae。",
+"roman_symbols_note": null,
+"id": "hylas"
+},
+"cyzicus": {
+"zh": "庫茲科斯",
+"en": "Cyzicus",
+"gr": "Kýzikos",
+"roman": null,
+"cat": "凡人",
+"domain": "多利俄涅人的國王，在夜戰中被傑森誤殺",
+"symbols": [
+"盾牌"
+],
+"bio": "阿爾戈號停靠時，他友善款待英雄們。離開後遇暴風夜裡折返，雙方互不相識而在黑暗中交戰，他被傑森殺死。事後雙方才醒悟，一同哀悼三日，他的新婚妻子克勒忒自縊。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"jason"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "妻子克勒忒（Cleite）於丈夫死後上吊。",
+"roman_symbols_note": null,
+"id": "cyzicus"
+},
+"amycus": {
+"zh": "阿米科斯",
+"en": "Amycus",
+"gr": "Ámykos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "貝布律克斯國王，逼迫外來者與他拳擊",
+"symbols": [
+"拳套"
+],
+"bio": "波塞頓之子，貝布律克斯人的國王，規定所有路過的外鄉人必須與他拳擊，輸者死。阿爾戈英雄經過時，波魯克斯接受挑戰，以高超的拳術擊敗並殺死了他。",
+"parents": [
+"poseidon"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"pollux"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "阿波羅尼俄斯版本中為波魯克斯一拳殺死；亦有說被捆綁。",
+"roman_symbols_note": null,
+"id": "amycus"
+},
+"phineus": {
+"zh": "菲紐斯",
+"en": "Phineus",
+"gr": "Phineús",
+"roman": null,
+"cat": "凡人",
+"domain": "色雷斯盲眼先知，受哈耳庇亞折磨",
+"symbols": [
+"盲眼",
+"宴席"
+],
+"bio": "色雷斯薩爾密得索斯的國王兼先知，因洩漏神的天機而被弄瞎，並受哈耳庇亞掠食之苦。阿爾戈英雄趕走怪鳥，他便告訴英雄們穿越撞岩的方法與航路作為報答。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "失明原因有二：洩天機，或因虐待前妻之子；與安朵美達的叔父菲紐斯同名，不是同一人。",
+"roman_symbols_note": null,
+"id": "phineus"
+},
+"harpies": {
+"zh": "哈耳庇亞",
+"en": "The Harpies",
+"gr": "Hárpyiai",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "人面鳥身的搶食怪物，風暴的化身",
+"symbols": [
+"翅膀",
+"利爪"
+],
+"bio": "意為「掠奪者」的有翼女妖，通常是奧開諾斯之女，常搶走食物與孩子。她們折磨先知菲紐斯，被波瑞阿斯的兒子們驅趕，後來《埃涅亞斯紀》中還以預言者之身出現。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"iris"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬有時視之為風暴；赫西俄德說是長髮美麗的女子，名為艾羅與奧庫佩忒。",
+"roman_symbols_note": null,
+"id": "harpies"
+},
+"apsyrtus": {
+"zh": "阿普緒爾托斯",
+"en": "Apsyrtus",
+"gr": "Ápsyrtos",
+"roman": null,
+"cat": "凡人",
+"domain": "埃厄忒斯之子，美狄亞的弟弟，被其殺害",
+"symbols": [
+"金羊毛"
+],
+"bio": "科爾基斯王子，美狄亞同父同母的弟弟。美狄亞與傑森盜取金羊毛逃走後，他率領艦隊追擊；姊姊設計誘他上岸，由傑森殺死，並將屍體肢解拋入海中，以拖延追兵。",
+"parents": [
+"aeetes"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"medea"
+],
+"killed": [],
+"killed_by": [
+"jason",
+"medea"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "殺害細節各家不同：或伏擊，或以屍塊阻攔追兵。",
+"roman_symbols_note": null,
+"id": "apsyrtus"
+},
+"talos": {
+"zh": "塔羅斯",
+"en": "Talos",
+"gr": "Tálōs",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "守衛克里特的青銅巨人",
+"symbols": [
+"青銅身體",
+"腳踝血管",
+"巨石"
+],
+"bio": "傳說由赫菲斯托斯（亦有說是代達洛斯）所造，每日繞島三次，向靠近的船隻投擲巨石。他全身只有腳踝處有一條以釘封住的血管，美狄亞施法令他發瘋，使釘拔出，銅人流血而亡。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"medea"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "有說被波阿斯射中腳踝而死；另有一位與之同名的是代達洛斯之侄佩爾迪克斯（Talos）。",
+"roman_symbols_note": null,
+"id": "talos"
+},
+"aeson": {
+"zh": "埃宋",
+"en": "Aeson",
+"gr": "Aísōn",
+"roman": null,
+"cat": "凡人",
+"domain": "傑森之父，伊奧爾科斯的合法繼承人",
+"symbols": [
+"回春藥"
+],
+"bio": "克瑞透斯與圖洛之子，原本應繼承伊奧爾科斯王位，卻被異父兄弟佩利亞斯篡奪。美狄亞後來用魔藥使這位年邁的老人返老還童，並以此向佩利亞斯的女兒們示範。",
+"parents": [
+"tyro"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"jason"
+],
+"siblings": [
+"pelias"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "一說他被佩利亞斯逼死，一說得美狄亞回春。",
+"roman_symbols_note": null,
+"id": "aeson"
+},
+"glauce": {
+"zh": "格勞刻",
+"en": "Glauce",
+"gr": "Glaukē",
+"roman": null,
+"cat": "凡人",
+"domain": "科林斯公主，傑森再娶的對象，被美狄亞毒死",
+"symbols": [
+"毒袍",
+"金冠"
+],
+"bio": "科林斯國王克瑞翁之女，傑森遺棄美狄亞後打算與她成婚。美狄亞假裝同意，送上塗有毒藥的長袍與金冠，公主穿上後被燒死，前來救援的父親也一同喪命。",
+"parents": [],
+"spouses": [
+"jason"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"medea"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "另名克瑞烏薩（Creusa），與埃涅阿斯之妻同名；其父克瑞翁為科林斯國王，與底比斯的克瑞翁不同。",
+"roman_symbols_note": null,
+"id": "glauce"
+},
+"idmon": {
+"zh": "伊德蒙",
+"en": "Idmon",
+"gr": "Ídmōn",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "阿爾戈號上的先知，預知自己將死仍加入遠征",
+"symbols": [
+"預言",
+"羽箭"
+],
+"bio": "阿波羅的兒子（名義上為阿巴斯之子），擅長鳥占。他預見自己將在航行中死去，卻仍加入英雄隊伍；後來在黑海岸邊被野豬襲擊重傷而亡，同伴為他立墓。",
+"parents": [
+"apollo"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "常與另一位預言家莫普索斯（mopsus）並列；也有說他是克萊托的後裔。",
+"roman_symbols_note": null,
+"id": "idmon"
+},
+"mopsus": {
+"zh": "莫普索斯",
+"en": "Mopsus",
+"gr": "Mópsos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "拉庇泰先知，阿爾戈號隊員",
+"symbols": [
+"預言",
+"鳥占"
+],
+"bio": "安皮科斯與克洛里斯之子，由阿波羅教授預言。阿爾戈號遠征中他解讀鳥兆，指引航向與時機；他在利比亞沙漠被毒蛇咬傷身亡，同伴為他立墓祭祀。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "希臘神話另有同名的先知，如曼托之子莫普索斯（阿波羅之孫，與卡爾卡斯鬥智）。",
+"roman_symbols_note": null,
+"id": "mopsus"
+},
+"delos_island": {
+"zh": "提洛島",
+"en": "Delos",
+"gr": "Dêlos",
+"roman": null,
+"cat": "其他神祇",
+"domain": "勒托生下阿波羅與阿蒂蜜絲的漂浮小島",
+"symbols": [
+"棕櫚樹",
+"橄欖樹"
+],
+"bio": "原本是女神阿斯特里亞躲避宙斯而投海化成的漂浮小島，無人願意讓勒托在此分娩，唯有這座荒島答應。勒托在島上抱著棕櫚樹生下阿波羅與阿蒂蜜絲，島嶼從此固定於海中，成為聖地。",
+"parents": [
+"coeus",
+"phoebe"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"hecate"
+],
+"siblings": [
+"leto"
+],
+"killed": [],
+"killed_by": [],
+"transformed": {
+"into": "提洛島",
+"by": null
+},
+"mentor_of": [],
+"note": "島上原名奧爾提吉亞（Ortygia）；本條以阿斯特里亞為島之化身。",
+"roman_symbols_note": null,
+"id": "delos_island"
+},
+"python": {
+"zh": "皮同",
+"en": "Python",
+"gr": "Pýthōn",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "守護德爾菲神諭的巨蛇，被阿波羅殺死",
+"symbols": [
+"巨蛇"
+],
+"bio": "盤踞於帕納索斯山的巨蛇，原為蓋亞聖地的守護者。出生數日後的阿波羅射死了牠，並在牠的所在建立德爾菲神殿，以牠命名的比提亞節與女祭司「皮媞亞」。",
+"parents": [
+"gaia"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"apollo"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬頌歌中名為Delphyne（雌蛇），後世與泰豐混淆。",
+"roman_symbols_note": null,
+"id": "python"
+},
+"croesus": {
+"zh": "克羅伊索斯",
+"en": "Croesus",
+"gr": "Kroísos",
+"roman": null,
+"cat": "凡人",
+"domain": "呂底亞末代國王，以富有聞名，敗於居魯士",
+"symbols": [
+"黃金"
+],
+"bio": "呂底亞國王，以財富聞名。他詢問德爾菲神諭是否可向波斯開戰，神諭說「將毀滅一個大帝國」，他以為是敵國，實際是自己。戰敗後他被俘，但受居魯士寬待。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"atys"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "歷史人物，見希羅多德；與梭倫會面的故事為經典。",
+"roman_symbols_note": null,
+"id": "croesus"
+},
+"themistocles": {
+"zh": "狄米斯托克利",
+"en": "Themistocles",
+"gr": "Themistoklês",
+"roman": null,
+"cat": "凡人",
+"domain": "雅典政治家與將領，薩拉米斯海戰的謀劃者",
+"symbols": [
+"三列槳戰船",
+"木牆"
+],
+"bio": "古典時代雅典將領，說服雅典人以銀礦收入建造艦隊，並在薩拉米斯海戰中設計誘敵，大敗波斯海軍。後因政爭被陶片放逐，輾轉投奔波斯，終老於小亞細亞。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "歷史人物，非神話角色；列入本資料集作為與神諭「木牆」相關的人物。",
+"roman_symbols_note": null,
+"id": "themistocles"
+},
+"admetus": {
+"zh": "阿德墨托斯",
+"en": "Admetus",
+"gr": "Ádmētos",
+"roman": null,
+"cat": "凡人",
+"domain": "費賴國王，阿波羅曾為他服役",
+"symbols": [
+"牛群",
+"馬車"
+],
+"bio": "色薩利費賴的國王，待客殷勤。阿波羅被罰在人間服役一年，他便受僱於他放牧牛群。阿波羅為報答，使命運女神答應：若有人願代替他死，他可延壽。後來只有妻子阿爾刻提斯願意。",
+"parents": [],
+"spouses": [
+"alcestis"
+],
+"lovers": [
+"apollo"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "卡利馬科斯說阿波羅愛他；亦有說法僅為主僕關係。",
+"roman_symbols_note": null,
+"id": "admetus"
+},
+"alcestis": {
+"zh": "阿爾刻提斯",
+"en": "Alcestis",
+"gr": "Álkēstis",
+"roman": null,
+"cat": "凡人",
+"domain": "佩利亞斯之女，自願替丈夫赴死的妻子",
+"symbols": [
+"忠貞",
+"面紗"
+],
+"bio": "伊奧爾科斯王佩利亞斯最美麗的女兒，由阿德墨托斯駕獅虎之車贏得婚約。丈夫的壽命將盡而父母不肯代死，唯有她肯，海克力斯與死神搏鬥，把她從死亡中救回。",
+"parents": [
+"pelias"
+],
+"spouses": [
+"admetus"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "歐里庇得斯《阿爾刻提斯》最著名。",
+"roman_symbols_note": null,
+"id": "alcestis"
+},
+"polyidus": {
+"zh": "波呂伊多斯",
+"en": "Polyidus",
+"gr": "Políeidos",
+"roman": null,
+"cat": "凡人",
+"domain": "科林斯先知，使米諾斯之子復活者",
+"symbols": [
+"草藥",
+"蛇"
+],
+"bio": "科林斯的預言家，出身占卜世家。米諾斯之子格勞科斯掉進蜜桶溺亡後，米諾斯命他找回並使其復活，他見蛇以一種草藥救活同伴，依樣救回男孩，之後被迫教他預言。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [
+"glaucus_minos"
+],
+"note": "見阿波羅多洛斯；與貝勒羅豐之事亦有關聯。",
+"roman_symbols_note": null,
+"id": "polyidus"
+},
+"glaucus_minos": {
+"zh": "米諾斯之子格勞科斯",
+"en": "Glaucus son of Minos",
+"gr": "Glaukos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "米諾斯與帕西法厄之子，掉進蜜桶而死後復活",
+"symbols": [
+"蜜桶",
+"貓頭鷹"
+],
+"bio": "克里特王子，兒時追逐老鼠（或貓頭鷹）時掉入蜜桶淹死。米諾斯令先知波呂伊多斯找回他，波呂伊多斯被關入墓室，見蛇用草藥救活另一條蛇，用同樣方法使他復活。",
+"parents": [
+"minos",
+"pasiphae"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"ariadne",
+"phaedra"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "與其他同名者（如海神格勞科斯、利西亞的格勞科斯）不同。",
+"roman_symbols_note": null,
+"id": "glaucus_minos"
+},
+"metaneira": {
+"zh": "墨塔涅拉",
+"en": "Metaneira",
+"gr": "Metáneira",
+"roman": null,
+"cat": "凡人",
+"domain": "厄琉西斯王后，狄蜜特寄居其家時的女主人",
+"symbols": [
+"火",
+"幼兒"
+],
+"bio": "厄琉西斯國王塞勒歐斯之妻，收留化為老婦的狄蜜特做乳母。她撞見女神把嬰兒放進火中，驚叫打斷儀式，使兒子錯失永生；但全家因接待之誠，後得女神賜予農耕與秘儀。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"demophon",
+"triptolemus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬頌歌《致狄蜜特》中有詳細描寫。",
+"roman_symbols_note": null,
+"id": "metaneira"
+},
+"erysichthon": {
+"zh": "厄律西克同",
+"en": "Erysichthon",
+"gr": "Erysíchthōn",
+"roman": null,
+"cat": "凡人",
+"domain": "砍倒狄蜜特聖林而受永不滿足的飢餓之罰",
+"symbols": [
+"斧頭",
+"聖林"
+],
+"bio": "色薩利國王，帶人砍倒狄蜜特的神聖橡樹，連樹中仙女的哀求也不理。女神派飢餓之靈折磨他，他吃光家產仍不飽足，賣掉女兒梅斯特拉為奴，最後啃食自己的身體而亡。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "卡利馬科斯與奧維德都有詳細版本；與傳說中雅典王刻克洛普斯之子同名者不同。",
+"roman_symbols_note": null,
+"id": "erysichthon"
+},
+"limos": {
+"zh": "飢餓之靈",
+"en": "Limos",
+"gr": "Limós",
+"roman": "Fames",
+"cat": "其他神祇",
+"domain": "飢餓的化身，居於斯基泰荒野",
+"symbols": [
+"枯骨",
+"荒地"
+],
+"bio": "赫西俄德說是黑夜之女厄里斯所生，是飢餓的擬人化。奧維德寫她居住在斯基泰的荒涼石地上，受狄蜜特之命，在厄律西克同的夢中把自己的身體貼在他身上，使他永遠飢餓。",
+"parents": [
+"eris"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "羅馬名為法梅斯（Fames）。",
+"roman_symbols_note": null,
+"id": "limos"
+},
+"lycurgus": {
+"zh": "呂庫古",
+"en": "Lycurgus",
+"gr": "Lykoûrgos",
+"roman": null,
+"cat": "凡人",
+"domain": "色雷斯國王，迫害酒神而遭瘋狂與懲罰",
+"symbols": [
+"雙頭斧",
+"葡萄藤"
+],
+"bio": "色雷斯愛多尼人的國王，追趕幼年酒神與他的保姆，被酒神施以瘋狂，誤把兒子當成藤蔓砍死。後來神諭說土地要等他死才能豐產，他被馬匹拖死（或被宙斯弄瞎）。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"dionysus"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬說他被宙斯弄瞎，短命而亡；阿波羅多洛斯說被酒神施瘋並被馬匹撕裂。",
+"roman_symbols_note": null,
+"id": "lycurgus"
+},
+"eurynome": {
+"zh": "歐律諾墨",
+"en": "Eurynome",
+"gr": "Eurynómē",
+"roman": null,
+"cat": "其他神祇",
+"domain": "海洋女神，收留被拋下的赫菲斯托斯，也是美惠三女神之母",
+"symbols": [
+"海洋",
+"珠寶"
+],
+"bio": "奧克亞諾斯與特堤斯之女，赫菲斯托斯被赫拉扔下奧林帕斯後，她與忒提斯在海底洞窟養育他九年，他在那裡為她們打造飾品。赫西俄德說她與宙斯生下三位美惠女神。",
+"parents": [
+"oceanus",
+"tethys"
+],
+"spouses": [
+"zeus"
+],
+"lovers": [],
+"children": [
+"charites"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [
+"hephaestus"
+],
+"note": "另有說法以她為創世神話中的泰坦女神（奧菲斯教）。",
+"roman_symbols_note": null,
+"id": "eurynome"
+},
+"erichthonius": {
+"zh": "厄里克托尼俄斯",
+"en": "Erichthonius",
+"gr": "Erichthónios",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "赫菲斯托斯與大地所生，傳說的雅典國王",
+"symbols": [
+"蛇尾",
+"櫃子",
+"四馬戰車"
+],
+"bio": "赫菲斯托斯追求雅典娜未果，精液落地使蓋亞受孕而生下他。雅典娜把嬰兒藏入箱中交給刻克洛普斯之女看管，女孩們好奇打開而受罰，他後來長成雅典國王，創辦泛雅典娜節。",
+"parents": [
+"hephaestus",
+"gaia"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "常被描繪為下半身為蛇；雅典娜視為養子，亦與厄瑞克透斯相混。",
+"roman_symbols_note": null,
+"id": "erichthonius"
+},
+"halirrhothius": {
+"zh": "哈里羅提奧斯",
+"en": "Halirrhothius",
+"gr": "Halirrhóthios",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "波塞頓之子，因侵犯阿瑞斯之女被殺，引發首次謀殺審判",
+"symbols": [
+"海"
+],
+"bio": "波塞頓與仙女歐律忒之子，他企圖侵犯阿瑞斯與阿格勞洛斯所生的女兒阿爾基珀，被阿瑞斯當場殺死。波塞頓因此控告阿瑞斯，眾神在阿瑞斯山（Areopagus）審理，阿瑞斯獲判無罪。",
+"parents": [
+"poseidon"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"ares"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "傳說為雅典「阿瑞斯山法庭」的由來。",
+"roman_symbols_note": null,
+"id": "halirrhothius"
+},
+"aloadae": {
+"zh": "阿羅阿代雙胞胎",
+"en": "The Aloadae",
+"gr": "Alōádai",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "奧圖斯與埃菲阿爾特斯兩兄弟，巨大且好戰，企圖堆山登天",
+"symbols": [
+"巨山",
+"石罐"
+],
+"bio": "歐托斯與厄菲阿爾特斯兩兄弟，傳為波塞頓之子，每年長高九指，企圖堆疊奧薩山與佩利翁山攻上奧林帕斯。他們曾囚禁阿瑞斯於銅罐一年，最後被阿蒂蜜絲設計，互相誤殺。",
+"parents": [
+"poseidon"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"artemis",
+"apollo"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬說被阿波羅所殺，後世（品達）說阿蒂蜜絲化鹿使二人互相誤殺。",
+"roman_symbols_note": null,
+"id": "aloadae"
+},
+"salmoneus": {
+"zh": "薩爾摩紐斯",
+"en": "Salmoneus",
+"gr": "Salmōneús",
+"roman": null,
+"cat": "凡人",
+"domain": "色薩利國王，模仿宙斯雷電而被擊斃",
+"symbols": [
+"銅戰車",
+"火炬"
+],
+"bio": "赫楞之子埃俄羅斯之子，伊利斯的建城者。他自稱是宙斯，在銅橋上駕車拖著銅器模仿雷聲、投擲火把冒充閃電，宙斯一擊把他與城市一併毀滅。其女圖洛成為波塞頓的情人。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"tyro"
+],
+"siblings": [
+"sisyphus",
+"athamas"
+],
+"killed": [],
+"killed_by": [
+"zeus"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "此埃俄羅斯是赫楞之子，與荷馬的風王不同。",
+"roman_symbols_note": null,
+"id": "salmoneus"
+},
+"ixion": {
+"zh": "伊克西翁",
+"en": "Ixion",
+"gr": "Ixíōn",
+"roman": null,
+"cat": "凡人",
+"domain": "拉庇泰國王，因侵犯赫拉被綁在火輪上",
+"symbols": [
+"火輪"
+],
+"bio": "色薩利的拉庇泰國王，為逃避送給岳父的聘禮而將其推入火坑。宙斯洗淨其罪還邀他赴宴，他卻想染指赫拉。宙斯造雲仙代替赫拉，與他生下半人馬，隨後被赫密士綁在永遠旋轉的火輪上。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"nephele"
+],
+"children": [
+"centaurs",
+"pirithous"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬說皮瑞蘇斯是宙斯之子；阿波羅多洛斯與奧維德以伊克西翁為父。",
+"roman_symbols_note": null,
+"id": "ixion"
+},
+"tityus": {
+"zh": "提堤俄斯",
+"en": "Tityus",
+"gr": "Tityós",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "巨人，因侵犯勒托在冥界被禿鷹啄食肝臟",
+"symbols": [
+"禿鷹",
+"肝臟"
+],
+"bio": "體型巨大的巨人，企圖對女神勒托無禮，被阿波羅與阿蒂蜜絲以箭射殺。在冥界，他被縛在地上，兩隻禿鷹啄食他的肝臟，肝臟不斷再生，酷刑永無休止。",
+"parents": [
+"zeus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"apollo",
+"artemis"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬說他是蓋亞之子；品達與阿波羅多洛斯說他是宙斯與厄拉瑞之子。",
+"roman_symbols_note": null,
+"id": "tityus"
+},
+"danaus": {
+"zh": "達那奧斯",
+"en": "Danaus",
+"gr": "Danaós",
+"roman": null,
+"cat": "凡人",
+"domain": "阿爾戈斯國王，達那伊德姊妹之父",
+"symbols": [
+"五十個女兒",
+"船"
+],
+"bio": "埃及之王貝洛斯之子，與兄弟埃古普托斯不和。他帶著五十個女兒逃到阿爾戈斯，成為國王。五十個堂兄追來逼婚，他命女兒在新婚夜殺夫，只有許珀爾涅斯特拉違命。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"danaids",
+"hypermnestra",
+"amymone"
+],
+"siblings": [
+"aegyptus"
+],
+"killed": [],
+"killed_by": [
+"lynceus"
+],
+"transformed": null,
+"mentor_of": [],
+"note": "被林叩斯殺死為阿波羅多洛斯說法。",
+"roman_symbols_note": null,
+"id": "danaus"
+},
+"danaids": {
+"zh": "達那伊德姊妹",
+"en": "The Danaids",
+"gr": "Danaídes",
+"roman": null,
+"cat": "凡人",
+"domain": "達那奧斯的五十個女兒，新婚夜殺夫者",
+"symbols": [
+"水罐",
+"漏水的桶"
+],
+"bio": "達那奧斯的五十個女兒，被迫嫁給埃古普托斯的五十個兒子，在新婚夜除一人外全部殺死丈夫。死後她們在冥界被罰用漏水的容器，永遠往無底的大缸裡倒水。",
+"parents": [
+"danaus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"amymone"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "阿米摩涅、許珀爾涅斯特拉皆是其中的達那伊德。",
+"roman_symbols_note": null,
+"id": "danaids"
+},
+"aegyptus": {
+"zh": "埃古普托斯",
+"en": "Aegyptus",
+"gr": "Aígyptos",
+"roman": null,
+"cat": "凡人",
+"domain": "達那奧斯之弟，有五十個兒子",
+"symbols": [
+"五十個兒子"
+],
+"bio": "貝洛斯之子，統治埃及，與兄弟達那奧斯不和。他希望讓五十個兒子娶堂姊妹，以奪取王位，追到阿爾戈斯逼婚，結果兒子們在新婚夜幾乎全被殺死，他憤恨而終。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"lynceus"
+],
+"siblings": [
+"danaus"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "埃及 (Aigyptos) 之名來源於他。",
+"roman_symbols_note": null,
+"id": "aegyptus"
+},
+"hypermnestra": {
+"zh": "許珀爾涅斯特拉",
+"en": "Hypermnestra",
+"gr": "Hypermḗstra",
+"roman": null,
+"cat": "凡人",
+"domain": "達那奧斯的女兒，唯一在新婚夜放過丈夫的人",
+"symbols": [
+"橄欖枝"
+],
+"bio": "達那奧斯之女，父親命令五十個女兒在新婚夜殺夫，她卻因丈夫林叩斯尊重她的貞潔，而放走了他。因此被父親囚禁受審，由阿芙蘿黛蒂說情獲救，最終與林叩斯重聚，成為阿爾戈斯王室始祖。",
+"parents": [
+"danaus"
+],
+"spouses": [
+"lynceus"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "其子阿巴斯（Abas）為阿爾戈斯國王，後裔包括柏修斯。",
+"roman_symbols_note": null,
+"id": "hypermnestra"
+},
+"lynceus": {
+"zh": "林叩斯",
+"en": "Lynceus",
+"gr": "Lynkeús",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "埃古普托斯之子，與許珀爾涅斯特拉結為夫婦的阿爾戈斯國王",
+"symbols": [
+"視力",
+"王冠"
+],
+"bio": "埃古普托斯的五十個兒子之一，是唯一逃過新婚夜被殺的人。後來他為兄弟報仇，殺死達那奧斯，繼承王位，與許珀爾涅斯特拉所生之後代，包括柏修斯與海克力斯的世系。",
+"parents": [
+"aegyptus"
+],
+"spouses": [
+"hypermnestra"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"danaus"
+],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "本條以達那伊德之夫為主；另有同名的阿爾戈英雄林叩斯（以銳利目光聞名，阿法瑞烏斯之子），不可混淆。",
+"roman_symbols_note": null,
+"id": "lynceus"
+},
+"charon": {
+"zh": "卡戎",
+"en": "Charon",
+"gr": "Kháron",
+"roman": null,
+"cat": "其他神祇",
+"domain": "冥河的渡夫，收取一枚錢幣擺渡亡魂",
+"symbols": [
+"小舟",
+"木槳",
+"銅幣"
+],
+"bio": "冥界的擺渡人，生為幽暗與黑夜之子，載亡魂渡過阿刻戎河或斯堤克斯河，並收取放於死者口中的一枚銅幣。未得安葬或付不出渡資的亡魂，只能徘徊岸邊百年。",
+"parents": [
+"nyx"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"thanatos",
+"hypnos"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "父為厄瑞玻斯，不在人物表；關係以黑夜為主線，出自後世（如希吉努斯）而非赫西俄德。",
+"roman_symbols_note": null,
+"id": "charon"
+},
+"rhadamanthys": {
+"zh": "拉達曼提斯",
+"en": "Rhadamanthys",
+"gr": "Rhadámanthys",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "宙斯與歐羅巴之子，死後成為冥界法官",
+"symbols": [
+"權杖",
+"天平"
+],
+"bio": "宙斯與歐羅巴之子，米諾斯之弟，在克里特以公正治國，後因嚴明法紀被請去統治基克拉澤斯群島。死後與米諾斯、埃阿科斯同為冥界審判者，專審亞洲亡魂；一說他居於樂土，並娶阿爾克墨涅。",
+"parents": [
+"zeus",
+"europa"
+],
+"spouses": [
+"alcmene"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"minos",
+"sarpedon"
+],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "薩爾佩冬在荷馬中是宙斯與拉俄達彌亞之子，晚期版本才列為歐羅巴之子；娶阿爾克墨涅見品達。",
+"roman_symbols_note": null,
+"id": "rhadamanthys"
+},
+"charites": {
+"zh": "美惠三女神",
+"en": "The Charites",
+"gr": "Kháritēs",
+"roman": "Gratiae",
+"cat": "其他神祇",
+"domain": "象徵優雅、美麗與歡樂的三位姊妹女神",
+"symbols": [
+"三人相擁",
+"玫瑰",
+"桃金孃"
+],
+"bio": "宙斯與歐律諾墨所生的三位姊妹，名為阿格萊亞（光輝）、歐芙洛緒涅（歡樂）與塔利亞（繁盛）。她們隨侍阿芙蘿黛蒂，也陪伴繆思歌舞，賦予人與萬物優美與快樂。",
+"parents": [
+"zeus",
+"eurynome"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"transformed": null,
+"mentor_of": [],
+"note": "荷馬以阿格萊亞（或帕西提亞）為赫菲斯托斯之妻；赫西俄德說是阿格萊亞。",
+"roman_symbols_note": null,
+"id": "charites"
+},
+"horae": {
+"zh": "時序女神",
+"en": "The Horae",
+"gr": "Hōrai",
+"roman": "Horae",
+"cat": "其他神祇",
+"domain": "季節、秩序與正義的三位女神",
+"symbols": [
+"花果",
+"季節植物"
+],
+"bio": "宙斯與忒彌斯所生的三位女神，掌管季節輪替與人間秩序，赫西俄德稱她們為歐諾彌亞、狄刻與厄瑞涅。她們守護奧林帕斯的天門，並侍奉赫拉與阿芙蘿黛蒂，藝術中常以捧著花果的少女形象出現。",
+"parents": [
+"zeus",
+"themis"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"moirai"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "名字與人數因地而異；雅典崇拜兩位，赫西俄德列三位。",
+"roman_symbols_note": null,
+"id": "horae"
+},
+"attis": {
+"zh": "阿提斯",
+"en": "Attis",
+"gr": "Átis",
+"roman": "Attis",
+"cat": "半神與英雄",
+"domain": "西芭莉的牧人與侍者，象徵植物死而復生",
+"symbols": [
+"松樹",
+"弗里吉亞帽"
+],
+"bio": "弗里吉亞的美少年牧人，深受大地母神西芭莉鍾愛。他背棄誓言愛上凡間女子，在瘋狂中自行閹割而亡，西芭莉悲痛之餘將他化為常青的松樹，其祭儀象徵草木的凋零與重生。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"cybele"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "松樹",
+"by": "cybele"
+},
+"note": "奧維德《變形記》與保薩尼亞斯的說法細節不同，死因有野豬殺死與自閹兩種。",
+"roman_symbols_note": null,
+"id": "attis"
+},
+"pallas": {
+"zh": "帕拉斯",
+"en": "Pallas (Athena's friend)",
+"gr": "Pallas",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "特里同之女，雅典娜的少時玩伴",
+"symbols": [
+"長矛",
+"盾"
+],
+"bio": "海神特里同的女兒，與雅典娜一同長大。兩人練習武藝時失手，雅典娜在宙斯的神盾驚嚇下誤殺了帕拉斯，悲痛的她以帕拉斯之名自稱「帕拉斯．雅典娜」，並雕出她的木像，即守護城邦的帕拉狄昂。",
+"parents": [
+"triton"
+],
+"spouses": [
+"styx"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"athena"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "與埃萬德之子帕拉斯、巨人帕拉斯同名，需區分。",
+"roman_symbols_note": null,
+"id": "pallas"
+},
+"boreas": {
+"zh": "玻瑞阿斯",
+"en": "Boreas",
+"gr": "Boréas",
+"roman": "Aquilo",
+"cat": "其他神祇",
+"domain": "北風之神",
+"symbols": [
+"翅膀",
+"蛇足",
+"寒風"
+],
+"bio": "色雷斯的北風之神，性情粗暴，據說住在極北的山洞。他化身駿馬與雷神之雲，強行擄走雅典公主奧蕾蒂亞為妻，生下會飛的雙胞胎兒子；傳說他也曾以狂風吹散波斯艦隊，被雅典人視為守護者。",
+"parents": [
+"eos"
+],
+"spouses": [
+"orithyia"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"zephyrus"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "父親一般作星辰之神阿斯特賴俄斯（Astraeus）。",
+"roman_symbols_note": null,
+"id": "boreas"
+},
+"orithyia": {
+"zh": "奧蕾蒂亞",
+"en": "Orithyia",
+"gr": "Oreithyia",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "雅典公主，嫁予北風神",
+"symbols": [
+"北風",
+"翅膀的雙胞胎"
+],
+"bio": "雅典國王埃雷克透斯之女，在伊利索斯河畔嬉戲時被愛慕她的北風神玻瑞阿斯捲走，帶往色雷斯成婚。她替北風神生下卡萊斯與澤特斯兩位能飛的阿爾戈英雄，以及兩個女兒。",
+"parents": [],
+"spouses": [
+"boreas"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "orithyia"
+},
+"flora": {
+"zh": "芙蘿拉",
+"en": "Flora",
+"gr": "Flora",
+"roman": "Flora",
+"cat": "其他神祇",
+"domain": "花與春季的女神",
+"symbols": [
+"花環",
+"花朵"
+],
+"bio": "羅馬的花神，原是希臘仙女克洛里斯，被西風之神仄費洛斯追求並娶為妻，從此掌管萬物開花。羅馬人每年四月底舉行「弗羅拉利亞」慶典，以鮮花、舞蹈與歡宴迎接春天。",
+"parents": [],
+"spouses": [
+"zephyrus"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "奧維德《歲時記》將羅馬的芙蘿拉與希臘仙女克洛里斯視為同一位。",
+"roman_symbols_note": null,
+"id": "flora"
+},
+"glaucus_sea": {
+"zh": "海神格勞科斯",
+"en": "Glaucus (sea-god)",
+"gr": "Glaûkos",
+"roman": "Glaucus",
+"cat": "其他神祇",
+"domain": "漁夫出身的預言海神",
+"symbols": [
+"海藻",
+"魚尾",
+"神草"
+],
+"bio": "玻俄提亞的漁夫，偶然發現魚吃下一種草後復活，自己嚐後便躍入海中，被海神們接納並化為海神。他愛上少女斯庫拉，卻遭情敵喀耳刻使計將她變成怪物，留下一段悲傷戀情。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"scylla",
+"circe"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "海神",
+"by": null
+},
+"note": "他的身世有多種版本；與米諾斯之子格勞科斯是不同人物。",
+"roman_symbols_note": null,
+"id": "glaucus_sea"
+},
+"faunus": {
+"zh": "法烏努斯",
+"en": "Faunus",
+"gr": null,
+"roman": "Faunus",
+"cat": "其他神祇",
+"domain": "羅馬的林野與牧畜之神",
+"symbols": [
+"羊角",
+"牧笛"
+],
+"bio": "拉丁姆古老的鄉野之神，守護牧人與畜群，夜間以神祕的聲音傳達預言。羅馬人常將他與希臘的潘等同，每年二月舉行盧培卡里亞節向他獻祭。傳說他是拉丁努斯的父親。",
+"parents": [
+"picus"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"latinus",
+"acis"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "是否等同於潘，古代作者說法不一。",
+"roman_symbols_note": null,
+"id": "faunus"
+},
+"priapus": {
+"zh": "普里阿普斯",
+"en": "Priapus",
+"gr": "Priapos",
+"roman": "Priapus",
+"cat": "其他神祇",
+"domain": "生育、園圃與牲畜的守護神",
+"symbols": [
+"巨大的男性象徵",
+"鐮刀",
+"果籃"
+],
+"bio": "最通行的說法是戴奧尼索斯與阿芙蘿黛蒂之子，因赫拉的詛咒而生來相貌醜陋、陽具過大。他被視為園圃與果樹的守護神，田園間常立其木像驅趕小偷與鳥雀。",
+"parents": [
+"dionysus",
+"aphrodite"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "亦有說法為赫密士或宙斯之子。",
+"roman_symbols_note": null,
+"id": "priapus"
+},
+"janus": {
+"zh": "雅努斯",
+"en": "Janus",
+"gr": "Iānus",
+"roman": "Janus",
+"cat": "其他神祇",
+"domain": "門、開端與轉折之神",
+"symbols": [
+"雙面",
+"鑰匙",
+"門杖"
+],
+"bio": "羅馬獨有的雙面神，一面望向過去，一面望向未來，掌管門戶、道路與一切開始。每年的第一個月以他命名為「一月」，戰時羅馬廣場上他的神殿大門敞開，和平時才關閉。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "沒有對應的希臘神祇。",
+"roman_symbols_note": null,
+"id": "janus"
+},
+"curetes": {
+"zh": "庫瑞忒斯",
+"en": "The Curetes",
+"gr": "Kourêtes",
+"roman": null,
+"cat": "其他神祇",
+"domain": "守護嬰兒宙斯的武裝戰士",
+"symbols": [
+"盾",
+"劍",
+"戰舞"
+],
+"bio": "克里特島上的武裝舞者，在瑞亞的託付下守護藏於洞穴的嬰兒宙斯。他們跳戰舞、擊盾牌，用喧鬧聲蓋過宙斯的啼哭，使克洛諾斯聽不見，宙斯因此得以平安長大。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "常與小亞細亞的科里班特混同，來源說法不一。",
+"roman_symbols_note": null,
+"id": "curetes"
+},
+"procne": {
+"zh": "普羅克涅",
+"en": "Procne",
+"gr": "Próknē",
+"roman": null,
+"cat": "凡人",
+"domain": "雅典公主，因復仇而化為鳥",
+"symbols": [
+"燕子",
+"織錦"
+],
+"bio": "雅典國王潘狄翁之女，嫁給色雷斯國王特柔斯。得知丈夫侵犯並割舌妹妹菲洛墨拉後，她殺死親子伊提斯為宴，報復丈夫，最後在追殺中被諸神變成鳥，是悲劇與復仇的象徵。",
+"parents": [],
+"spouses": [
+"tereus"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"philomela"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "燕子",
+"by": null
+},
+"note": "奧維德作普羅克涅為燕子、菲洛墨拉為夜鶯；希臘傳統則相反。",
+"roman_symbols_note": null,
+"id": "procne"
+},
+"philomela": {
+"zh": "菲洛墨拉",
+"en": "Philomela",
+"gr": "Philomḗla",
+"roman": null,
+"cat": "凡人",
+"domain": "普羅克涅之妹，受害後化為鳥",
+"symbols": [
+"夜鶯",
+"織錦"
+],
+"bio": "雅典公主，被姊夫特柔斯侵犯並割去舌頭。她將經過織在一幅錦緞上，託人交給姊姊，姊妹合謀復仇。追殺之際，諸神將她們變為鳥，她成為歌聲哀婉的夜鶯。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"procne"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "夜鶯",
+"by": null
+},
+"note": "奧維德作夜鶯，部分希臘傳統作燕子。",
+"roman_symbols_note": null,
+"id": "philomela"
+},
+"tereus": {
+"zh": "特柔斯",
+"en": "Tereus",
+"gr": "Tēreús",
+"roman": "Tereus",
+"cat": "凡人",
+"domain": "色雷斯國王，姦暴的暴君",
+"symbols": [
+"戴勝",
+"長矛"
+],
+"bio": "色雷斯國王，傳說是阿瑞斯之子，因協助雅典而娶了公主普羅克涅。他後來覬覦並侵犯小姨子菲洛墨拉，還割去她的舌頭，事發後被姊妹復仇，在追趕中化為戴勝鳥。",
+"parents": [
+"ares"
+],
+"spouses": [
+"procne"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "戴勝",
+"by": null
+},
+"note": null,
+"roman_symbols_note": null,
+"id": "tereus"
+},
+"aedon": {
+"zh": "阿伊東",
+"en": "Aedon",
+"gr": "Aēdṓn",
+"roman": null,
+"cat": "凡人",
+"domain": "因嫉妒誤殺親子的母親，化為夜鶯",
+"symbols": [
+"夜鶯"
+],
+"bio": "底比斯國王澤托斯之妻，因嫉妒妯娌尼俄柏子女眾多，想殺其長子，卻在黑夜中誤殺了自己的兒子伊提洛斯。她悲痛欲絕，宙斯憐憫而將她變為夜鶯，永遠哀鳴。",
+"parents": [],
+"spouses": [
+"zethus"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "夜鶯",
+"by": "zeus"
+},
+"note": "《奧德賽》版本與普羅克涅的傳說相似，常被混同。",
+"roman_symbols_note": null,
+"id": "aedon"
+},
+"herse": {
+"zh": "赫耳塞",
+"en": "Herse",
+"gr": "Hérsē",
+"roman": null,
+"cat": "凡人",
+"domain": "雅典公主，赫密士所愛",
+"symbols": [
+"露水"
+],
+"bio": "雅典國王刻克洛普斯的女兒，名字意為「露水」。她在雅典娜節的遊行中被赫密士看見，神明愛上她，並與她生下刻法羅斯。她的姊姊阿格勞洛斯因嫉妒而阻擋赫密士，招來災禍。",
+"parents": [
+"cecrops"
+],
+"spouses": [],
+"lovers": [
+"hermes"
+],
+"children": [
+"cephalus"
+],
+"siblings": [
+"aglauros"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "herse"
+},
+"aglauros": {
+"zh": "阿格勞洛斯",
+"en": "Aglauros",
+"gr": "Ágraulos",
+"roman": null,
+"cat": "凡人",
+"domain": "雅典公主，因嫉妒被變成石像",
+"symbols": [
+"石像",
+"籃子"
+],
+"bio": "刻克洛普斯之女，受雅典娜託管藏有嬰兒厄里克托尼俄斯的籃子，卻忍不住打開偷看而瘋狂。後來她又因嫉妒妹妹赫耳塞受赫密士寵愛，攔阻神祇，被赫密士用杖點成石像。",
+"parents": [
+"cecrops"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"herse"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "石像",
+"by": "hermes"
+},
+"note": "「阿格勞洛斯」亦為雅典的神殿與少女祭司之名。",
+"roman_symbols_note": null,
+"id": "aglauros"
+},
+"battus": {
+"zh": "巴圖斯",
+"en": "Battus",
+"gr": "Báttos",
+"roman": "Battus",
+"cat": "凡人",
+"domain": "目睹赫密士偷牛的牧人，化為試金石",
+"symbols": [
+"試金石",
+"牛群"
+],
+"bio": "皮洛斯的老牧人，曾看見赫密士偷走阿波羅的牛群，收了一頭母牛作封口費。赫密士變裝來試探，他貪財而洩密，赫密士怒而用杖把他點成試金石，因此試金石在古代又稱「巴圖斯」。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "試金石",
+"by": "hermes"
+},
+"note": null,
+"roman_symbols_note": null,
+"id": "battus"
+},
+"arion": {
+"zh": "阿里翁",
+"en": "Arion",
+"gr": "Aríōn",
+"roman": null,
+"cat": "凡人",
+"domain": "被海豚救起的詩人與琴師",
+"symbols": [
+"豎琴",
+"海豚"
+],
+"bio": "萊斯博斯的琴師，傳說是波塞頓之子，在科林斯僭主佩里安德宮中受寵。他帶著巨額財富搭船返國時，遭水手謀財逼他跳海，他先彈琴一曲，被海豚馱著安然返回岸邊。",
+"parents": [
+"poseidon"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與波塞頓之子、神馬阿里翁（Arion）同名，須區分。",
+"roman_symbols_note": null,
+"id": "arion"
+},
+"periander": {
+"zh": "佩里安德",
+"en": "Periander",
+"gr": "Períandros",
+"roman": null,
+"cat": "凡人",
+"domain": "科林斯的僭主，七賢之一",
+"symbols": [
+"權杖"
+],
+"bio": "西元前七世紀末至六世紀初的科林斯僭主，傳統上被列為古希臘七賢之一。他治國嚴厲而富有，庇護詩人阿里翁，家族也留下許多悲劇傳說，是歷史與傳說交織的人物。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "為歷史人物，細節多出於希羅多德與後世軼事。",
+"roman_symbols_note": null,
+"id": "periander"
+},
+"maenads": {
+"zh": "酒神的女信徒",
+"en": "The Maenads",
+"gr": "Mainádes",
+"roman": "Bacchae",
+"cat": "凡人",
+"domain": "戴奧尼索斯的狂歡女信徒",
+"symbols": [
+"常春藤",
+"酒杖（thyrsus）",
+"豹皮"
+],
+"bio": "酒神戴奧尼索斯的女信徒，披豹皮、持常春藤杖，在山林中狂舞，進入神靈附身的狂喜。她們力大無窮，可徒手撕裂野獸，傳說中也曾撕碎拒絕酒神的彭透斯與吟遊詩人俄耳甫斯。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"orpheus",
+"pentheus"
+],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "maenads"
+},
+"aristaeus": {
+"zh": "阿里斯泰俄斯",
+"en": "Aristaeus",
+"gr": "Aristaîos",
+"roman": "Aristaeus",
+"cat": "半神與英雄",
+"domain": "養蜂、橄欖與乳酪的守護神",
+"symbols": [
+"蜂箱",
+"橄欖"
+],
+"bio": "阿波羅與仙女庫瑞涅之子，從眾仙女處學會養蜂與製酪之術，並傳授給人類。他追求尤麗狄絲導致她被蛇咬死，蜂群因此死盡，經普羅透斯指點以牛獻祭才重生。",
+"parents": [
+"apollo",
+"cyrene"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"actaeon"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《農事詩》作尤麗狄絲之死的間接肇因，希臘本土傳說未必有此段。",
+"roman_symbols_note": null,
+"id": "aristaeus"
+},
+"cyrene": {
+"zh": "庫瑞涅",
+"en": "Cyrene",
+"gr": "Kyrḗnē",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "會與獅搏鬥的少女，北非昔蘭尼的化身",
+"symbols": [
+"獅子",
+"弓"
+],
+"bio": "拉庇泰國王之女，喜歡牧羊與獵獅。阿波羅在她徒手制服獅子時愛上她，將她帶往利比亞，在當地建立以她命名的昔蘭尼城，替他生下養蜂之神阿里斯泰俄斯。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"apollo"
+],
+"children": [
+"aristaeus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "cyrene"
+},
+"proteus": {
+"zh": "普羅透斯",
+"en": "Proteus",
+"gr": "Prōteús",
+"roman": null,
+"cat": "其他神祇",
+"domain": "會預言與變形的海中老人",
+"symbols": [
+"海豹",
+"多變形態"
+],
+"bio": "替波塞頓看守海豹群的海中老人，擁有預知未來的能力，卻不輕易回答。想問他的人必須在正午趁他睡午覺時將他抓住，他會變成獅子、蛇、水等各種形狀，只要不放手，他最後會說真話。",
+"parents": [
+"poseidon"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "荷馬作波塞頓的隨從；另有說法為海洋神奧克亞諾斯之子。",
+"roman_symbols_note": null,
+"id": "proteus"
+},
+"pomona": {
+"zh": "波摩那",
+"en": "Pomona",
+"gr": "Pomōna",
+"roman": "Pomona",
+"cat": "其他神祇",
+"domain": "羅馬的果樹與果實女神",
+"symbols": [
+"果籃",
+"修枝刀"
+],
+"bio": "拉丁姆的林中仙女，專心照料果園，不願結婚。眾多追求者中，變形之神維耳圖姆努斯最堅持，他化成老婦人巧言勸說，最後現出真身，贏得她的愛。",
+"parents": [],
+"spouses": [
+"vertumnus"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "羅馬獨有神祇，在希臘無對應。",
+"roman_symbols_note": null,
+"id": "pomona"
+},
+"vertumnus": {
+"zh": "維耳圖姆努斯",
+"en": "Vertumnus",
+"gr": "Vertumnus",
+"roman": "Vertumnus",
+"cat": "其他神祇",
+"domain": "季節與變形之神",
+"symbols": [
+"果籃",
+"各種偽裝"
+],
+"bio": "羅馬的季節轉換與果樹之神，能變成農夫、士兵、老婦等任何形象。他愛慕果園女神波摩那，以老婦人的模樣講述伊菲斯與阿娜克薩蕊特的故事勸說，最終以真身贏得她的愛。",
+"parents": [],
+"spouses": [
+"pomona"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "vertumnus"
+},
+"marpessa": {
+"zh": "瑪爾佩薩",
+"en": "Marpessa",
+"gr": "Marpēssa",
+"roman": null,
+"cat": "凡人",
+"domain": "選擇凡人丈夫的美麗女子",
+"symbols": [
+"弓箭",
+"太陽神的戰車"
+],
+"bio": "墨賽尼國王的女兒，被阿波羅與凡人伊達斯同時追求。伊達斯乘波塞頓所贈的有翼戰車擄走她，阿波羅追來，宙斯讓她自行選擇，她選了凡人伊達斯，怕神明日後將她拋棄。",
+"parents": [],
+"spouses": [
+"idas"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "marpessa"
+},
+"idas": {
+"zh": "伊達斯",
+"en": "Idas",
+"gr": "Ídas",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "墨賽尼的勇士，與阿波羅爭妻",
+"symbols": [
+"長矛",
+"有翼戰車"
+],
+"bio": "墨賽尼的英雄，是阿爾戈英雄之一。他擄走瑪爾佩薩，敢與阿波羅對抗。後來與兄弟林叩斯在牧牛一事上和狄奧斯庫里兄弟起爭執，殺死卡斯托爾，隨後被宙斯的雷電擊殺。",
+"parents": [],
+"spouses": [
+"marpessa"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"castor"
+],
+"killed_by": [
+"zeus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "兄弟林叩斯（Lynceus）與達那伊德傳說中的林叩斯為不同人物。",
+"roman_symbols_note": null,
+"id": "idas"
+},
+"nisus": {
+"zh": "尼索斯",
+"en": "Nisus",
+"gr": "Nîsos",
+"roman": null,
+"cat": "凡人",
+"domain": "墨伽拉國王，擁有決定命運的紫髮",
+"symbols": [
+"紫色頭髮",
+"海鷹"
+],
+"bio": "墨伽拉國王，頭上有一綹紫色頭髮，據說只要保住頭髮，國家就不會被攻破。米諾斯圍城時，他的女兒斯庫拉愛上米諾斯，偷偷剪下父親的頭髮，使城陷落，他死後化為海鷹。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"scylla_megara"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "海鷹",
+"by": null
+},
+"note": "與維吉爾筆下的特洛伊人尼蘇斯（nisus_trojan）同名。",
+"roman_symbols_note": null,
+"id": "nisus"
+},
+"scylla_megara": {
+"zh": "墨伽拉的斯庫拉",
+"en": "Scylla of Megara",
+"gr": "Skýlla",
+"roman": null,
+"cat": "凡人",
+"domain": "為愛背叛父親的墨伽拉公主",
+"symbols": [
+"紫髮",
+"海鳥（ciris）"
+],
+"bio": "墨伽拉國王尼索斯的女兒，在城牆上看見圍城的米諾斯而一見鍾情，竟剪下父親的紫髮獻給他。米諾斯厭惡她的行徑，棄她而去，她在後面追趕，最終化為海鳥，與父親所化的海鷹永遠相逐。",
+"parents": [
+"nisus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "海鳥",
+"by": null
+},
+"note": "與海怪斯庫拉（scylla）同名，須區分。",
+"roman_symbols_note": null,
+"id": "scylla_megara"
+},
+"iphis": {
+"zh": "伊菲斯",
+"en": "Iphis (of Crete)",
+"gr": "Íphis",
+"roman": null,
+"cat": "凡人",
+"domain": "克里特的少女，被伊西絲變為男子",
+"symbols": [
+"婚禮火把"
+],
+"bio": "克里特窮人利格杜斯之子，因父親堅持不養女兒，母親便偽稱生下男孩。長大後她與少女伊安特訂婚，母親向伊西絲祈求，在婚禮前夕她的身形變為真正的男子，順利成婚。",
+"parents": [],
+"spouses": [
+"ianthe"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "男子",
+"by": "isis"
+},
+"note": "取自奧維德《變形記》第九卷，與塞浦路斯的伊菲斯為不同人物。",
+"roman_symbols_note": null,
+"id": "iphis"
+},
+"ianthe": {
+"zh": "伊安特",
+"en": "Ianthe",
+"gr": "Iánthē",
+"roman": null,
+"cat": "凡人",
+"domain": "伊菲斯的未婚妻",
+"symbols": [
+"婚禮火把"
+],
+"bio": "克里特少女，被許配給伊菲斯而互相心儀。當時她不知道伊菲斯其實是女子，在婚禮前夕伊西絲女神施恩讓伊菲斯變成男子，她終於如願與愛人完婚。",
+"parents": [],
+"spouses": [
+"iphis"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "ianthe"
+},
+"isis": {
+"zh": "伊西絲",
+"en": "Isis",
+"gr": "Îsis",
+"roman": "Isis",
+"cat": "其他神祇",
+"domain": "埃及的母性、魔法與生命女神",
+"symbols": [
+"王座冠",
+"叉鈴（sistrum）",
+"生命之結"
+],
+"bio": "埃及的大女神，是奧西里斯之妻、荷魯斯之母，掌管魔法、生育與再生。希臘羅馬時代她的信仰傳遍地中海，希臘人常把她與伊俄等同；奧維德筆下她拯救了克里特的伊菲斯。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "外來神祇，希臘化時代被與伊俄、狄蜜特混同。",
+"roman_symbols_note": null,
+"id": "isis"
+},
+"acis": {
+"zh": "阿喀斯",
+"en": "Acis",
+"gr": "Âkis",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "西西里牧羊少年，化為河流",
+"symbols": [
+"牧杖",
+"河水"
+],
+"bio": "法烏努斯與水仙所生的西西里牧羊少年，與海中仙女加拉蒂亞相戀。獨眼巨人波呂斐摩斯嫉妒，以巨石砸死了他，加拉蒂亞讓他的鮮血化成清澈的河流，即西西里的阿喀斯河。",
+"parents": [
+"faunus"
+],
+"spouses": [],
+"lovers": [
+"galatea_nereid"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"polyphemus"
+],
+"mentor_of": [],
+"transformed": {
+"into": "河流",
+"by": "galatea_nereid"
+},
+"note": null,
+"roman_symbols_note": null,
+"id": "acis"
+},
+"galatea_nereid": {
+"zh": "海中仙女加拉蒂亞",
+"en": "Galatea (Nereid)",
+"gr": "Galáteia",
+"roman": null,
+"cat": "其他神祇",
+"domain": "涅柔斯之女，愛上阿喀斯的海中仙女",
+"symbols": [
+"波浪",
+"海豚"
+],
+"bio": "五十位涅柔斯女兒之一，居住於西西里海岸。她拒絕獨眼巨人波呂斐摩斯的追求，愛上牧羊少年阿喀斯；愛人被波呂斐摩斯殺死後，她將他的血化為河流。與皮格馬利翁的雕像加拉蒂亞不同。",
+"parents": [
+"nereus"
+],
+"spouses": [],
+"lovers": [
+"acis"
+],
+"children": [],
+"siblings": [
+"thetis",
+"amphitrite"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與皮格馬利翁雕像（galatea）同名，須區分。",
+"roman_symbols_note": null,
+"id": "galatea_nereid"
+},
+"aesacus": {
+"zh": "埃薩科斯",
+"en": "Aesacus",
+"gr": "Aísakos",
+"roman": null,
+"cat": "凡人",
+"domain": "特洛伊王子，投海化為潛水鳥",
+"symbols": [
+"潛水鳥"
+],
+"bio": "普里阿摩斯的兒子，厭惡宮廷喧囂，喜歡在山林間生活。愛上水仙赫斯珀里亞，她被蛇咬死後，他悲痛欲絕，躍下懸崖，海神泰西斯憐惜，將他變為會潛水的海鳥。",
+"parents": [
+"priam"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"hector",
+"paris",
+"cassandra",
+"helenus",
+"polyxena",
+"creusa",
+"polydorus"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "潛水鳥",
+"by": "tethys"
+},
+"note": "母親一般作阿里斯貝，與赫庫芭所生兄弟為異母手足。",
+"roman_symbols_note": null,
+"id": "aesacus"
+},
+"anaxarete": {
+"zh": "阿娜克薩蕊特",
+"en": "Anaxarete",
+"gr": "Anaxaréte",
+"roman": null,
+"cat": "凡人",
+"domain": "冷酷拒絕求愛，被變成石像的少女",
+"symbols": [
+"石像"
+],
+"bio": "塞浦路斯的貴族少女，出身顯赫，卻對青年伊菲斯的深情嗤之以鼻。伊菲斯自縊於她門前，她出來看出殯行列，在冷漠中全身僵硬，被阿芙蘿黛蒂變成石像。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "石像",
+"by": "aphrodite"
+},
+"note": null,
+"roman_symbols_note": null,
+"id": "anaxarete"
+},
+"iphis_cyprus": {
+"zh": "塞浦路斯的伊菲斯",
+"en": "Iphis (of Cyprus)",
+"gr": "Íphis",
+"roman": null,
+"cat": "凡人",
+"domain": "為愛自縊的塞浦路斯青年",
+"symbols": [
+"絞索"
+],
+"bio": "塞浦路斯出身平凡的青年，苦戀貴族少女阿娜克薩蕊特，反覆求愛仍被拒，最後在她的門前自縊身亡。阿芙蘿黛蒂因此懲罰了無情的她，這個故事由維耳圖姆努斯說給波摩那聽。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與克里特的伊菲斯（iphis）同名，須區分。",
+"roman_symbols_note": null,
+"id": "iphis_cyprus"
+},
+"caeneus": {
+"zh": "凱紐斯",
+"en": "Caeneus",
+"gr": "Kaineús",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "刀槍不入的拉庇泰英雄，原為少女",
+"symbols": [
+"不可穿透的皮膚",
+"長矛"
+],
+"bio": "原是少女凱妮絲，被波塞頓侵犯後，請求變成不會再受傷害的男子，並獲得刀槍不入之身。他在皮瑞蘇斯的婚禮混戰中被半人馬群用樹幹與岩石活活壓入地下，靈魂化為鳥飛出。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"poseidon"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"centaurs"
+],
+"mentor_of": [],
+"transformed": {
+"into": "男子",
+"by": "poseidon"
+},
+"note": "奧維德記載其魂化為黃褐色鳥；性別轉變細節各版本不同。",
+"roman_symbols_note": null,
+"id": "caeneus"
+},
+"centaurs": {
+"zh": "半人馬族",
+"en": "The Centaurs",
+"gr": "Kéntauroi",
+"roman": "Centauri",
+"cat": "怪物與異獸",
+"domain": "人身馬身的野蠻族群",
+"symbols": [
+"馬身",
+"弓",
+"樹幹"
+],
+"bio": "上半身為人、下半身為馬的族群，傳說是伊克西翁與雲之幻影涅斐勒所生。他們粗野好酒，在拉庇泰王皮瑞蘇斯的婚宴上醉酒鬧事，擄掠新娘，引發慘烈戰爭，是野蠻對文明的象徵。",
+"parents": [
+"ixion",
+"nephele"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"caeneus"
+],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "凱隆與福羅斯屬較為善良的例外，來源也不同。",
+"roman_symbols_note": null,
+"id": "centaurs"
+},
+"pirithous": {
+"zh": "皮瑞蘇斯",
+"en": "Pirithous",
+"gr": "Peirithoos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "拉庇泰國王，翟修斯的摯友",
+"symbols": [
+"長矛"
+],
+"bio": "色薩利拉庇泰人的國王，傳說是宙斯之子。他與翟修斯結為摯友，婚禮上半人馬鬧事，兩人聯手擊退；後來他們一同下冥府搶親，被困在冥界座椅上，翟修斯被海克力斯救出，他則被永遠留下。",
+"parents": [
+"zeus",
+"ixion"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "荷馬作宙斯之子，另有說法為伊克西翁之子。",
+"roman_symbols_note": null,
+"id": "pirithous"
+},
+"daphnis": {
+"zh": "達芙尼斯",
+"en": "Daphnis",
+"gr": "Dáphnis",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "西西里牧歌的創始人",
+"symbols": [
+"牧笛",
+"月桂"
+],
+"bio": "西西里的牧羊少年，傳說是赫密士與仙女所生，在月桂樹下被養大。他向牧神潘學得牧笛，被視為牧歌之父，後因違背對仙女的誓言而失明，或說死於憂傷，傳說多樣。",
+"parents": [
+"hermes"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "死因與結局各家版本差異極大。",
+"roman_symbols_note": null,
+"id": "daphnis"
+},
+"thamyris": {
+"zh": "塔米里斯",
+"en": "Thamyris",
+"gr": "Thámyris",
+"roman": null,
+"cat": "凡人",
+"domain": "挑戰繆思的色雷斯歌手",
+"symbols": [
+"豎琴"
+],
+"bio": "色雷斯歌手，才華出眾而傲慢，竟誇口要與繆思比賽，若贏就可娶其中一人。繆思獲勝後，奪去了他的眼睛與歌唱的才能，並折斷他的豎琴，成為不敬神者的警示。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《伊利亞特》第二卷已提及。",
+"roman_symbols_note": null,
+"id": "thamyris"
+},
+"cleobis": {
+"zh": "克勒俄比斯",
+"en": "Cleobis",
+"gr": "Kleóbis",
+"roman": null,
+"cat": "凡人",
+"domain": "孝子，為母親拉車而得神賜安睡",
+"symbols": [
+"牛車"
+],
+"bio": "阿爾戈斯的青年，與兄弟比同一起在赫拉節為母親──赫拉女祭司，親自拉車走過四十五斯塔迪亞。母親祈求神明賜予兄弟人所能得的最好報償，他們便在神廟中安詳睡去，不再醒來。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"biton"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "出自希羅多德《歷史》第一卷，梭倫向克羅伊索斯講述。",
+"roman_symbols_note": null,
+"id": "cleobis"
+},
+"biton": {
+"zh": "比同",
+"en": "Biton",
+"gr": "Bítōn",
+"roman": null,
+"cat": "凡人",
+"domain": "克勒俄比斯之弟，同為孝子",
+"symbols": [
+"牛車"
+],
+"bio": "阿爾戈斯青年，與兄長克勒俄比斯一同拉著母親的牛車前往赫拉神殿。他們的孝行受到讚揚，並在祭典後於殿中安然長眠，阿爾戈斯人在德爾斐為兄弟倆立了雕像。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"cleobis"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "biton"
+},
+"gyges": {
+"zh": "巨吉斯",
+"en": "Gyges",
+"gr": "Gýgēs",
+"roman": null,
+"cat": "凡人",
+"domain": "得隱形戒指而奪王位的牧人",
+"symbols": [
+"隱形戒指"
+],
+"bio": "柏拉圖《理想國》中的牧人，在地裂的洞中發現一枚能令人隱形的戒指，便誘姦王后、殺害國王，取而代之。故事用來探討人若不受懲罰是否還會行善，也有歷史上呂底亞王朝創建者之說。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "希羅多德版本為國王侍衛，被王后逼迫殺君；柏拉圖版本為牧人與戒指。",
+"roman_symbols_note": null,
+"id": "gyges"
+},
+"atys": {
+"zh": "阿提斯",
+"en": "Atys (son of Croesus)",
+"gr": "Átys",
+"roman": null,
+"cat": "凡人",
+"domain": "呂底亞王子，死於預言應驗",
+"symbols": [
+"長矛",
+"野豬"
+],
+"bio": "克羅伊索斯之子，父親夢見他死於鐵矛，便禁止他參戰。後來王子請求參加獵殺野豬，被父親託付的客人阿德拉斯托斯誤擲長矛而死，預言就此應驗。",
+"parents": [
+"croesus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "事件中的阿德拉斯托斯是弗里吉亞王子，與阿爾戈斯王同名而不同人。",
+"roman_symbols_note": null,
+"id": "atys"
+},
+"ocyrhoe": {
+"zh": "奧西洛厄",
+"en": "Ocyrhoe",
+"gr": "Okyrhóē",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "凱隆之女，因說出預言被變成馬",
+"symbols": [
+"母馬"
+],
+"bio": "半人馬凱隆與仙女卡里克洛所生，天生精通預言。她在說出神祇與阿斯克勒庇俄斯的命運時觸犯天機，被變為母馬，此後只能嘶叫，她的名字意為「迅速的河水」。",
+"parents": [
+"chiron"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": {
+"into": "母馬",
+"by": null
+},
+"note": "奧維德記載，變形者是命運女神還是宙斯，說法不一。",
+"roman_symbols_note": null,
+"id": "ocyrhoe"
+},
+"diomedes": {
+"zh": "狄俄墨得斯",
+"en": "Diomedes",
+"gr": "Diomḗdēs",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "阿爾戈斯國王，特洛伊戰爭中的勇士",
+"symbols": [
+"長矛",
+"雅典娜的庇護"
+],
+"bio": "堤丟斯之子，阿爾戈斯國王，在特洛伊戰爭中僅次於阿基里斯。他得雅典娜相助，甚至刺傷阿芙蘿黛蒂與阿瑞斯，與奧德修斯一同夜襲色雷斯營地。",
+"parents": [
+"tydeus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"pandarus",
+"palamedes"
+],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與色雷斯王狄奧墨得斯（diomedes_thrace）不同。",
+"roman_symbols_note": null,
+"id": "diomedes"
+},
+"phaon": {
+"zh": "法翁",
+"en": "Phaon",
+"gr": "Pháōn",
+"roman": null,
+"cat": "凡人",
+"domain": "因受阿芙蘿黛蒂神膏而變得俊美的船夫",
+"symbols": [
+"神膏"
+],
+"bio": "萊斯博斯的船夫，曾免費載運化為老婦的阿芙蘿黛蒂渡海，女神回報他一瓶香膏，抹上後變得美貌無比，眾女子競相追求。傳說女詩人薩福因愛上他而被拒，躍下琉卡斯懸崖。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"sappho"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "薩福與法翁的故事為後世傳說，史實不明。",
+"roman_symbols_note": null,
+"id": "phaon"
+},
+"sappho": {
+"zh": "薩福",
+"en": "Sappho",
+"gr": "Sapphṓ",
+"roman": null,
+"cat": "凡人",
+"domain": "萊斯博斯島的女詩人",
+"symbols": [
+"里拉琴",
+"詩篇"
+],
+"bio": "西元前七世紀至六世紀的萊斯博斯女詩人，被古人尊為「第十位繆思」，作品以抒情詩聞名。後世傳說她愛上船夫法翁，失戀後自琉卡斯懸崖投海，但此事多半是後人附會。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"phaon"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "為歷史人物，墜崖傳說見於奧維德《女傑書簡》，可信度低。",
+"roman_symbols_note": null,
+"id": "sappho"
+},
+"trophonius": {
+"zh": "特洛福尼奧斯",
+"en": "Trophonius",
+"gr": "Trophṓnios",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "建築師，後成為神諭之神",
+"symbols": [
+"地下洞穴",
+"蜂蜜糕"
+],
+"bio": "玻俄提亞的建築師，與兄弟阿伽墨得斯同建德爾斐阿波羅神殿。傳說兄弟死後，他在勒巴代亞被地裂吞入地下，成為神諭之神；求問者須沿地道進入洞穴，常因恐懼而歸來沉默。",
+"parents": [
+"apollo"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"agamedes"
+],
+"killed": [
+"agamedes"
+],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "父親一般作厄爾吉諾斯，阿波羅之子是荷馬頌詩版本；殺兄為保薩尼亞斯一說。",
+"roman_symbols_note": null,
+"id": "trophonius"
+},
+"agamedes": {
+"zh": "阿伽墨得斯",
+"en": "Agamedes",
+"gr": "Agamḗdēs",
+"roman": null,
+"cat": "凡人",
+"domain": "建築師，特洛福尼奧斯之兄弟",
+"symbols": [
+"神殿"
+],
+"bio": "與特洛福尼奧斯一同建造德爾斐阿波羅神殿與許多寶庫的建築師。他們在國王的寶庫暗設秘道偷盜，他中了陷阱被抓，兄弟為免他被供出同夥，砍下他的頭。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"trophonius"
+],
+"killed": [],
+"killed_by": [
+"trophonius"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "死因為保薩尼亞斯所述的一說，另有說法為兩人同日安詳死去。",
+"roman_symbols_note": null,
+"id": "agamedes"
+},
+"melampus": {
+"zh": "梅蘭波斯",
+"en": "Melampus",
+"gr": "Melámpous",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "聽得懂動物語言的先知與治療者",
+"symbols": [
+"蛇",
+"草藥"
+],
+"bio": "皮洛斯的先知，年幼時救了一窩蛇，蛇舔他的耳朵使他聽得懂鳥獸之語。他得阿波羅傳授占卜，並以藥物與淨化儀式治癒阿爾戈斯公主們的瘋病，換得半個王國。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "首位被稱為人類醫者與預言家的英雄。",
+"roman_symbols_note": null,
+"id": "melampus"
+},
+"amymone": {
+"zh": "阿米摩涅",
+"en": "Amymone",
+"gr": "Amymṓnē",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "達那奧斯之女，被波塞頓拯救後生下子嗣",
+"symbols": [
+"水瓶",
+"三叉戟"
+],
+"bio": "達那奧斯五十個女兒之一，在乾旱的阿爾戈斯四處找水時遇見薩堤爾，被波塞頓救下並成為他的情人。波塞頓以三叉戟在地面戳出泉水，即萊爾納的阿米摩涅泉。",
+"parents": [
+"danaus"
+],
+"spouses": [],
+"lovers": [
+"poseidon"
+],
+"children": [],
+"siblings": [
+"danaids"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "她並未參與殺夫，是達那伊德的特例。",
+"roman_symbols_note": null,
+"id": "amymone"
+},
+"hesiod": {
+"zh": "赫西俄德",
+"en": "Hesiod",
+"gr": "Hēsíodos",
+"roman": null,
+"cat": "凡人",
+"domain": "《神譜》與《工作與時日》的詩人",
+"symbols": [
+"月桂杖",
+"繆思的饋贈"
+],
+"bio": "約西元前八世紀的玻俄提亞詩人，自述在赫利孔山牧羊時被繆思授予詩歌，寫下《神譜》與《工作與時日》，系統記述諸神譜系與農事智慧，是古希臘神話最重要的文本來源之一。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "傳說他與荷馬曾比賽詩藝，屬後人編造。",
+"roman_symbols_note": null,
+"id": "hesiod"
+},
+"autolycus": {
+"zh": "奧托呂科斯",
+"en": "Autolycus",
+"gr": "Autólykos",
+"roman": null,
+"cat": "凡人",
+"domain": "赫密士之子，神偷",
+"symbols": [
+"變形斗篷",
+"偷來的牛"
+],
+"bio": "赫密士與基奧涅之子，繼承父親的偷盜天賦，能將偷來的牲畜變形而不被認出。他是奧德修斯的外祖父，並為孫子取名；他也曾傳授海克力斯摔角技。",
+"parents": [
+"hermes",
+"chione"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"anticlea"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [
+"heracles"
+],
+"transformed": null,
+"note": "奧德修斯出生與取名之事見《奧德賽》第十九卷。",
+"roman_symbols_note": null,
+"id": "autolycus"
+},
+"acastus": {
+"zh": "阿卡斯托斯",
+"en": "Acastus",
+"gr": "Ákastos",
+"roman": null,
+"cat": "凡人",
+"domain": "伊奧爾科斯國王，佩利亞斯之子",
+"symbols": [
+"長矛"
+],
+"bio": "佩利亞斯之子，曾參加卡呂冬狩獵與阿爾戈探險。父親被美狄亞設計害死後，他繼位為王並驅逐傑森與美狄亞。又因妻子誣陷，他設計讓佩琉斯陷入險境，最終被佩琉斯推翻。",
+"parents": [
+"pelias"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"laodamia"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "妻子名各版本不同（希波呂忒或阿斯提達彌亞）。",
+"roman_symbols_note": null,
+"id": "acastus"
+},
+"telegonus": {
+"zh": "特勒戈諾斯",
+"en": "Telegonus",
+"gr": "Tēlégonos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "喀耳刻與奧德修斯之子，無意弒父者",
+"symbols": [
+"魟魚毒刺矛"
+],
+"bio": "喀耳刻與奧德修斯所生，成年後尋父，卻誤與守家的奧德修斯相鬥，用母親所給的魟魚毒刺矛殺死了父親。他帶著屍體與潘妮洛碧返回艾艾亞島，與潘妮洛碧成婚。",
+"parents": [
+"odysseus",
+"circe"
+],
+"spouses": [
+"penelope"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"telemachus"
+],
+"killed": [
+"odysseus"
+],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "出自失傳的史詩《特勒戈尼亞》，非荷馬本人所作。",
+"roman_symbols_note": null,
+"id": "telegonus"
+},
+"creusa": {
+"zh": "克瑞烏薩",
+"en": "Creusa",
+"gr": "Kréousa",
+"roman": null,
+"cat": "凡人",
+"domain": "埃涅阿斯的第一任妻子",
+"symbols": [
+"火焰"
+],
+"bio": "普里阿摩斯與赫庫芭之女，嫁給埃涅阿斯並生下阿斯卡尼烏斯。特洛伊城陷時，她在逃亡途中走失；埃涅阿斯回頭尋找，只見她的幽魂預言他將在西方建立新國。",
+"parents": [
+"priam",
+"hecuba"
+],
+"spouses": [
+"aeneas"
+],
+"lovers": [],
+"children": [
+"ascanius"
+],
+"siblings": [
+"hector",
+"paris",
+"cassandra",
+"helenus",
+"polyxena",
+"polydorus",
+"aesacus"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "維吉爾《艾尼亞斯紀》第二卷情節，荷馬史詩未提。",
+"roman_symbols_note": null,
+"id": "creusa"
+},
+"ascanius": {
+"zh": "阿斯卡尼烏斯",
+"en": "Ascanius",
+"gr": "Askánios",
+"roman": "Iulus",
+"cat": "凡人",
+"domain": "埃涅阿斯之子，阿爾巴隆加的創建者",
+"symbols": [
+"弓"
+],
+"bio": "埃涅阿斯與克瑞烏薩之子，從特洛伊陷落中被父親牽手帶出。他隨父抵達義大利，後來建立阿爾巴隆加，又名尤魯斯，凱撒所屬的尤利烏斯家族即聲稱自己是他的後裔。",
+"parents": [
+"aeneas",
+"creusa"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "李維及部分傳統認為他是拉維妮亞之子，存在分歧。",
+"roman_symbols_note": null,
+"id": "ascanius"
+},
+"polydorus": {
+"zh": "波呂多羅斯",
+"en": "Polydorus",
+"gr": "Polýdōros",
+"roman": null,
+"cat": "凡人",
+"domain": "普里阿摩斯的幼子",
+"symbols": [
+"樹叢"
+],
+"bio": "普里阿摩斯最小的兒子，特洛伊危急時被送往色雷斯，託付給國王波呂墨斯托爾，卻為奪財而被殺。維吉爾筆下，埃涅阿斯折斷樹枝時，樹中滲出鮮血並傳出他的呼喊。",
+"parents": [
+"priam",
+"hecuba"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"hector",
+"paris",
+"cassandra",
+"helenus",
+"polyxena",
+"creusa",
+"aesacus"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《伊利亞特》說他死於阿基里斯之手，歐里庇得斯與維吉爾則作被波呂墨斯托爾所殺。",
+"roman_symbols_note": null,
+"id": "polydorus"
+},
+"helenus": {
+"zh": "赫勒諾斯",
+"en": "Helenus",
+"gr": "Hélenos",
+"roman": null,
+"cat": "凡人",
+"domain": "普里阿摩斯之子，特洛伊的預言者",
+"symbols": [
+"月桂",
+"預言"
+],
+"bio": "赫庫芭所生，與雙胞胎妹妹卡珊德拉同樣擁有預言能力。他在戰後成為涅奧普托列摩斯的俘虜，後來娶了安德洛瑪刻，在伊庇魯斯建立小特洛伊，並向路過的埃涅阿斯預言旅程。",
+"parents": [
+"priam",
+"hecuba"
+],
+"spouses": [
+"andromache"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"hector",
+"paris",
+"cassandra",
+"polyxena",
+"creusa",
+"polydorus",
+"aesacus"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "他曾向希臘人透露特洛伊陷落的條件，說法不一。",
+"roman_symbols_note": null,
+"id": "helenus"
+},
+"achaemenides": {
+"zh": "阿卡伊梅尼德斯",
+"en": "Achaemenides",
+"gr": "Achaimenídēs",
+"roman": null,
+"cat": "凡人",
+"domain": "被遺落在獨眼巨人島的希臘水手",
+"symbols": [
+"破衣"
+],
+"bio": "奧德修斯的同伴，在逃離波呂斐摩斯的山洞時被遺落島上，獨自躲藏數月。埃涅阿斯一行經過時，他衣衫襤褸地乞求救援，並警告眾人快逃，免得獨眼巨人再度追來。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "維吉爾《艾尼亞斯紀》第三卷創造的人物。",
+"roman_symbols_note": null,
+"id": "achaemenides"
+},
+"palinurus": {
+"zh": "帕利努魯斯",
+"en": "Palinurus",
+"gr": "Palínuros",
+"roman": null,
+"cat": "凡人",
+"domain": "埃涅阿斯的舵手",
+"symbols": [
+"船舵"
+],
+"bio": "特洛伊人，埃涅阿斯艦隊的舵手。他在夜裡被睡神許普諾斯迷惑，連同舵柄一起摔入海中，漂流上岸後被當地人殺害；他在冥界請求埃涅阿斯為他安葬，今日義大利一處海角即以他命名。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "睡神與死因細節見《艾尼亞斯紀》第五、六卷。",
+"roman_symbols_note": null,
+"id": "palinurus"
+},
+"iris": {
+"zh": "伊麗絲",
+"en": "Iris",
+"gr": "Îris",
+"roman": "Iris",
+"cat": "其他神祇",
+"domain": "彩虹女神，眾神的信使",
+"symbols": [
+"彩虹",
+"雙翼",
+"水壺"
+],
+"bio": "陶瑪斯與厄勒克特拉之女，化身彩虹連結天與地，主要為赫拉傳遞神諭。她與哈耳庇亞是姊妹，身披金翼，亦負責從冥河取水供眾神發誓，被視為迅捷與忠誠的象徵。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"zephyrus"
+],
+"children": [],
+"siblings": [
+"harpies"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與西風神的婚姻出自阿爾卡埃烏斯殘篇。",
+"roman_symbols_note": null,
+"id": "iris"
+},
+"sibyl": {
+"zh": "庫邁的西碧拉",
+"en": "The Cumaean Sibyl",
+"gr": "Sibylla",
+"roman": "Sibylla Cumana",
+"cat": "凡人",
+"domain": "庫邁的阿波羅女先知",
+"symbols": [
+"沙粒",
+"洞穴",
+"樹葉預言"
+],
+"bio": "義大利庫邁的女先知，因向阿波羅索取等同手中沙粒數的壽命，卻忘了要求青春，漸漸衰老而縮成蟬般大小。她在維吉爾筆下引導埃涅阿斯進入冥界，是羅馬傳說的重要角色。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"apollo"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [
+"aeneas"
+],
+"transformed": null,
+"note": "「西碧拉」本為泛稱，庫邁的西碧拉最為著名。",
+"roman_symbols_note": null,
+"id": "sibyl"
+},
+"latinus": {
+"zh": "拉丁努斯",
+"en": "Latinus",
+"gr": "Latînos",
+"roman": "Latinus",
+"cat": "凡人",
+"domain": "拉丁姆的國王",
+"symbols": [
+"權杖"
+],
+"bio": "拉丁姆國王，傳說是法烏努斯之子，與阿瑪塔生下拉維妮亞。他依神諭將女兒許配給外來者埃涅阿斯，卻因王后與圖爾努斯的反對而爆發戰爭，最終在和談中立約，兩族融合為拉丁人。",
+"parents": [
+"faunus"
+],
+"spouses": [
+"amata"
+],
+"lovers": [],
+"children": [
+"lavinia"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "赫西俄德《神譜》則說他是奧德修斯與喀耳刻之子。",
+"roman_symbols_note": null,
+"id": "latinus"
+},
+"lavinia": {
+"zh": "拉維妮亞",
+"en": "Lavinia",
+"gr": "Laurinia",
+"roman": "Lavinia",
+"cat": "凡人",
+"domain": "拉丁努斯之女，埃涅阿斯之妻",
+"symbols": [
+"火焰環繞的頭髮"
+],
+"bio": "拉丁姆王之女，原本與魯圖利亞人的首領圖爾努斯有婚約，但神諭指示她應嫁外來者。戰爭中她是各方爭奪的焦點，最終嫁給埃涅阿斯，兩族結合，埃涅阿斯為她建立拉維尼烏姆城。",
+"parents": [
+"latinus",
+"amata"
+],
+"spouses": [
+"aeneas"
+],
+"lovers": [
+"turnus"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "拉維尼烏姆城以她命名。",
+"roman_symbols_note": null,
+"id": "lavinia"
+},
+"amata": {
+"zh": "阿瑪塔",
+"en": "Amata",
+"gr": "Amata",
+"roman": "Amata",
+"cat": "凡人",
+"domain": "拉丁姆王后，反對女兒嫁給埃涅阿斯",
+"symbols": [
+"繩索"
+],
+"bio": "拉丁努斯之妻、拉維妮亞之母，受復仇女神阿勒克托的煽動，激烈反對把女兒嫁給外來者，堅持嫁給圖爾努斯。後來誤信圖爾努斯已死，悲痛之下自縊而亡。",
+"parents": [],
+"spouses": [
+"latinus"
+],
+"lovers": [],
+"children": [
+"lavinia"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "amata"
+},
+"allecto": {
+"zh": "阿勒克托",
+"en": "Allecto",
+"gr": "Alēktṓ",
+"roman": "Allecto",
+"cat": "其他神祇",
+"domain": "復仇女神之一，挑起戰爭的怒火",
+"symbols": [
+"火把",
+"蛇髮"
+],
+"bio": "三位復仇女神之一，名字意為「不止息者」。朱諾命她挑起拉丁姆與特洛伊人的紛爭，她先使王后阿瑪塔瘋狂，又激怒圖爾努斯，讓原本和平的聯盟走向戰爭。",
+"parents": [
+"nyx"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "維吉爾筆下為夜神之女；赫西俄德則說復仇女神自烏拉諾斯血滴所生。",
+"roman_symbols_note": null,
+"id": "allecto"
+},
+"camilla": {
+"zh": "卡米拉",
+"en": "Camilla",
+"gr": "Camilla",
+"roman": "Camilla",
+"cat": "凡人",
+"domain": "拉丁聯軍的女戰士",
+"symbols": [
+"長矛",
+"弓"
+],
+"bio": "沃爾斯基人的公主，自幼獻給阿蒂蜜絲，是迅捷如風的女戰士，在麥田上奔跑而不折穗。她統領騎兵助圖爾努斯抵抗埃涅阿斯，最後被敵人偷襲陣亡。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "維吉爾《艾尼亞斯紀》第七、十一卷。",
+"roman_symbols_note": null,
+"id": "camilla"
+},
+"nisus_trojan": {
+"zh": "特洛伊的尼蘇斯",
+"en": "Nisus (Trojan)",
+"gr": "Nîsos",
+"roman": null,
+"cat": "凡人",
+"domain": "歐律阿羅斯的至交，特洛伊戰士",
+"symbols": [
+"長矛"
+],
+"bio": "特洛伊戰士，與少年歐律阿羅斯情誼深厚。兩人夜裡潛入魯圖利亞人營地，殺死許多敵人，卻在撤退時被發現，尼蘇斯回頭救友而雙雙陣亡，成為忠誠友誼的象徵。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"euryalus"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與墨伽拉國王尼索斯（nisus）同名，須區分。",
+"roman_symbols_note": null,
+"id": "nisus_trojan"
+},
+"euryalus": {
+"zh": "歐律阿羅斯",
+"en": "Euryalus",
+"gr": "Eurýalos",
+"roman": null,
+"cat": "凡人",
+"domain": "美少年戰士，尼蘇斯的摯友",
+"symbols": [
+"頭盔"
+],
+"bio": "特洛伊少年戰士，容貌俊美，與尼蘇斯形影不離。夜襲營地時，他因戴上戰利品頭盔反光而被敵人發現，尼蘇斯為救他而衝回，最終兩人一同殞命。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"nisus_trojan"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "維吉爾《艾尼亞斯紀》第九卷，兩人關係為後世常論的主題。",
+"roman_symbols_note": null,
+"id": "euryalus"
+},
+"evander": {
+"zh": "埃萬德",
+"en": "Evander",
+"gr": "Euandros",
+"roman": "Evander",
+"cat": "凡人",
+"domain": "帕拉丁山的阿卡迪亞國王",
+"symbols": [
+"長矛",
+"聖壇"
+],
+"bio": "赫密士之子，從阿卡迪亞遷到台伯河畔，在後來羅馬的帕拉丁山建立小城。他殷勤接待埃涅阿斯，結盟共抗圖爾努斯，並把兒子帕拉斯託付給埃涅阿斯，兒子卻戰死沙場。",
+"parents": [
+"hermes"
+],
+"spouses": [],
+"lovers": [],
+"children": [
+"pallas_evander"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與海克力斯殺卡庫斯的傳說相連，細節為羅馬本地版本。",
+"roman_symbols_note": null,
+"id": "evander"
+},
+"cacus": {
+"zh": "卡庫斯",
+"en": "Cacus",
+"gr": "Kâkos",
+"roman": "Cacus",
+"cat": "怪物與異獸",
+"domain": "偷牛的噴火巨人",
+"symbols": [
+"火焰",
+"巨石"
+],
+"bio": "住在阿芬提諾山洞中的噴火巨人，傳說是赫菲斯托斯之子。海克力斯趕著革律翁的牛群經過時，他倒拖牛尾進洞掩藏足跡，仍被牛的叫聲暴露，被海克力斯擊斃。",
+"parents": [
+"hephaestus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "傳說版本以維吉爾與李維為主，希臘本土並無對應。",
+"roman_symbols_note": null,
+"id": "cacus"
+},
+"pallas_evander": {
+"zh": "埃萬德之子帕拉斯",
+"en": "Pallas son of Evander",
+"gr": "Pallas",
+"roman": null,
+"cat": "凡人",
+"domain": "埃萬德之子，年輕的阿卡迪亞戰士",
+"symbols": [
+"腰帶",
+"長矛"
+],
+"bio": "埃萬德之子，被父親託付給埃涅阿斯，初上戰場便表現英勇，卻在與圖爾努斯的對決中戰死。圖爾努斯奪走他刻有暴行場景的腰帶，日後正因為這條腰帶，埃涅阿斯怒而殺了他。",
+"parents": [
+"evander"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"turnus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "與雅典娜的玩伴帕拉斯（pallas）同名，須區分。",
+"roman_symbols_note": null,
+"id": "pallas_evander"
+},
+"laomedon": {
+"zh": "拉俄墨冬",
+"en": "Laomedon",
+"gr": "Laomedōn",
+"roman": null,
+"cat": "凡人",
+"domain": "特洛伊國王，普里阿摩斯之父",
+"symbols": [
+"城牆",
+"神馬"
+],
+"bio": "特洛伊國王，請波塞頓與阿波羅築城後卻賴帳，神明因而降下海怪與瘟疫。他又背棄對海克力斯的承諾，不肯交出神馬，結果海克力斯攻陷特洛伊，將他與幾個兒子殺死。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"priam",
+"hesione",
+"tithonus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "laomedon"
+},
+"hesione": {
+"zh": "赫西俄涅",
+"en": "Hesione",
+"gr": "Hēsiónē",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "被海克力斯救出的特洛伊公主",
+"symbols": [
+"鎖鏈"
+],
+"bio": "拉俄墨冬之女，因父親背信，被鎖在海邊岩石上獻給海怪。海克力斯殺怪救下她，後來因國王食言攻陷特洛伊，將她賜給盟友特拉蒙為妻，生下透克洛斯。",
+"parents": [
+"laomedon"
+],
+"spouses": [
+"telamon"
+],
+"lovers": [],
+"children": [],
+"siblings": [
+"priam",
+"tithonus"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "hesione"
+},
+"telamon": {
+"zh": "特拉蒙",
+"en": "Telamon",
+"gr": "Telamṓn",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "埃阿科斯之子，大埃阿斯之父",
+"symbols": [
+"盾",
+"長矛"
+],
+"bio": "埃阿科斯之子，佩琉斯的兄弟，阿爾戈英雄之一。他陪海克力斯攻陷特洛伊，贏得公主赫西俄涅，並生下大埃阿斯與透克洛斯，是薩拉米斯的國王。",
+"parents": [
+"aeacus"
+],
+"spouses": [
+"hesione"
+],
+"lovers": [],
+"children": [
+"ajax_greater"
+],
+"siblings": [
+"peleus"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "大埃阿斯之母一般作佩里波亞，透克洛斯之母作赫西俄涅。",
+"roman_symbols_note": null,
+"id": "telamon"
+},
+"deidamia": {
+"zh": "得伊達彌亞",
+"en": "Deidamia",
+"gr": "Deidámeia",
+"roman": null,
+"cat": "凡人",
+"domain": "斯基羅斯公主，阿基里斯之妻",
+"symbols": [
+"織布機"
+],
+"bio": "斯基羅斯國王呂科墨得斯之女。阿基里斯被母親偽裝成少女藏在宮中時與她相戀，生下涅奧普托列摩斯。奧德修斯識破阿基里斯的偽裝後，他隨軍出征，她留在島上養育兒子。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"achilles"
+],
+"children": [
+"neoptolemus"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "deidamia"
+},
+"palamedes": {
+"zh": "帕拉墨得斯",
+"en": "Palamedes",
+"gr": "Palamḗdēs",
+"roman": null,
+"cat": "凡人",
+"domain": "聰明的希臘英雄，字母發明者",
+"symbols": [
+"字母",
+"骰子"
+],
+"bio": "納普利烏斯之子，聰慧過人，傳說發明了字母、骰子與計數。他識破奧德修斯的裝瘋，因而遭奧德修斯記恨，被誣陷通敵，最後被石頭活活砸死。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"odysseus",
+"diomedes"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "死因為後世悲劇與《庫普利亞》傳統，荷馬本人未提。",
+"roman_symbols_note": null,
+"id": "palamedes"
+},
+"telephus": {
+"zh": "特勒福斯",
+"en": "Telephus",
+"gr": "Tḗlephos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "邁西亞國王，被阿基里斯所傷又由其治癒",
+"symbols": [
+"長矛",
+"鐵鏽"
+],
+"bio": "海克力斯與奧革之子，出生後被棄於山林，由母鹿哺乳。他成為邁西亞國王，與誤入其國的希臘軍交戰，被阿基里斯的矛所傷，神諭指示只有造成傷口的矛才能治癒。",
+"parents": [
+"heracles"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "傷口以矛鏽治癒，為史詩《庫普利亞》故事。",
+"roman_symbols_note": null,
+"id": "telephus"
+},
+"protesilaus": {
+"zh": "普羅特西勞斯",
+"en": "Protesilaus",
+"gr": "Prōtesílaos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "第一個戰死特洛伊的希臘人",
+"symbols": [
+"長矛"
+],
+"bio": "色薩利的英雄，神諭預言第一個登陸特洛伊的希臘人會死，他毅然率先跳下船，被赫克托耳所殺。他的新婚妻子拉俄達彌亞悲痛不已，諸神讓他回人間三小時見妻。",
+"parents": [],
+"spouses": [
+"laodamia"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"hector"
+],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "protesilaus"
+},
+"laodamia": {
+"zh": "拉俄達彌亞",
+"en": "Laodamia",
+"gr": "Laodámeia",
+"roman": null,
+"cat": "凡人",
+"domain": "普羅特西勞斯的妻子，殉情的忠貞妻子",
+"symbols": [
+"蠟像"
+],
+"bio": "阿卡斯托斯之女，婚後不久丈夫戰死特洛伊。她思念成疾，偷偷雕了丈夫的像日夜陪伴；諸神讓亡夫回家三小時，他再度離去時，她隨之自盡，成為忠貞愛情的典範。",
+"parents": [
+"acastus"
+],
+"spouses": [
+"protesilaus"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與宙斯之妻、薩爾佩冬之母（貝勒羅豐之女）同名，須區分。",
+"roman_symbols_note": null,
+"id": "laodamia"
+},
+"philoctetes": {
+"zh": "菲洛克忒特斯",
+"en": "Philoctetes",
+"gr": "Philoktḗtēs",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "擁有海克力斯神弓的英雄",
+"symbols": [
+"神弓",
+"毒箭"
+],
+"bio": "波亞斯之子，因替海克力斯點燃火葬柴堆而獲得他的神弓與毒箭。他在赴特洛伊途中被蛇咬傷，傷口潰爛惡臭，被希臘人遺棄在利姆諾斯島十年，後被請回，以神箭射死帕里斯。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [
+"paris"
+],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "索福克勒斯有同名悲劇，細節與荷馬略異。",
+"roman_symbols_note": null,
+"id": "philoctetes"
+},
+"chryses": {
+"zh": "克律塞斯",
+"en": "Chryses",
+"gr": "Chrysēs",
+"roman": null,
+"cat": "凡人",
+"domain": "阿波羅的祭司，引發《伊利亞特》瘟疫的老人",
+"symbols": [
+"月桂冠",
+"祭司權杖"
+],
+"bio": "特洛伊附近克律塞城的阿波羅祭司，女兒克律塞伊斯被阿伽門農擄走。他帶著贖金求取，卻被粗暴趕走，於是向阿波羅祈禱，神明降下瘟疫使希臘軍死傷慘重，種下阿基里斯與阿伽門農爭執的導火線。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《伊利亞特》第一卷開篇情節。",
+"roman_symbols_note": null,
+"id": "chryses"
+},
+"calchas": {
+"zh": "卡爾卡斯",
+"en": "Calchas",
+"gr": "Kálchas",
+"roman": null,
+"cat": "凡人",
+"domain": "希臘軍中的先知",
+"symbols": [
+"鳥卜",
+"祭祀"
+],
+"bio": "特斯托爾之子，最傑出的鳥卜者，被稱為希臘軍的眼睛。他指出瘟疫源於阿伽門農得罪阿波羅，並在奧利斯宣布須以伊菲革涅亞獻祭才能起風，戰後預言木馬計策的時機。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "死亡傳說有與莫普索斯比賽預言落敗，憂傷而死一說。",
+"roman_symbols_note": null,
+"id": "calchas"
+},
+"thersites": {
+"zh": "特爾西特斯",
+"en": "Thersites",
+"gr": "Thersítēs",
+"roman": null,
+"cat": "凡人",
+"domain": "愛抱怨、相貌醜陋的希臘士兵",
+"symbols": [
+"駝背",
+"尖頭"
+],
+"bio": "《伊利亞特》中唯一出身平凡的士兵，駝背跛足，出言無忌，當眾辱罵阿伽門農，被奧德修斯用權杖打了一頓。後世史詩說他嘲笑阿基里斯為彭特西勒亞哀悼，被阿基里斯一拳打死。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"achilles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "死於阿基里斯之手出自《埃塞俄比亞人》，荷馬本人未提。",
+"roman_symbols_note": null,
+"id": "thersites"
+},
+"nestor": {
+"zh": "涅斯托爾",
+"en": "Nestor",
+"gr": "Néstōr",
+"roman": null,
+"cat": "凡人",
+"domain": "皮洛斯的老國王，以智慧與口才聞名",
+"symbols": [
+"戰車",
+"長者之杖"
+],
+"bio": "涅琉斯之子，皮洛斯國王，已逾兩個世代，在特洛伊戰場上以經驗與勸說調解阿基里斯與阿伽門農的紛爭。他是希臘諸王中最具智慧的長者，戰後平安返回皮洛斯，並接待來訪的特勒馬科斯。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "其兄弟都被海克力斯所殺，唯他倖存。",
+"roman_symbols_note": null,
+"id": "nestor"
+},
+"ajax_greater": {
+"zh": "大埃阿斯",
+"en": "Ajax the Greater",
+"gr": "Aías",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "特拉蒙之子，僅次於阿基里斯的希臘勇士",
+"symbols": [
+"七層牛皮大盾",
+"長矛"
+],
+"bio": "薩拉米斯的英雄，身材高大，持巨盾保護友軍。阿基里斯死後，他未能贏得其武裝，在羞憤與瘋狂中屠殺羊群，清醒後伏劍自盡，所用劍正是赫克托耳贈予的。",
+"parents": [
+"telamon"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與奧伊琉斯之子小埃阿斯（ajax_lesser）同名，須區分。",
+"roman_symbols_note": null,
+"id": "ajax_greater"
+},
+"pandarus": {
+"zh": "潘達羅斯",
+"en": "Pandarus",
+"gr": "Pándaros",
+"roman": null,
+"cat": "凡人",
+"domain": "特洛伊盟友中的弓箭手",
+"symbols": [
+"弓",
+"箭"
+],
+"bio": "利西亞人，在雅典娜慫恿下違背休戰協定，射傷梅涅勞斯，導致戰爭重啟。後來他又射傷狄奧墨得斯，卻被狄奧墨得斯與雅典娜聯手擊殺。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"diomedes"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "莎士比亞等後世作品將他寫成牽線的掮客。",
+"roman_symbols_note": null,
+"id": "pandarus"
+},
+"glaucus_lycian": {
+"zh": "利西亞的格勞科斯",
+"en": "Glaucus of Lycia",
+"gr": "Glaûkos",
+"roman": null,
+"cat": "凡人",
+"domain": "利西亞的特洛伊盟友，貝勒羅豐之孫",
+"symbols": [
+"金甲"
+],
+"bio": "利西亞貴族，貝勒羅豐的孫輩，與薩爾佩冬並肩作戰。他在戰場上與狄奧墨得斯相認為世交，兩人互換盔甲，他以金甲換青銅甲，被宙斯奪去心智，成為荷馬筆下慷慨與愚拙的典型。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與海神格勞科斯（glaucus_sea）、米諾斯之子格勞科斯同名。",
+"roman_symbols_note": null,
+"id": "glaucus_lycian"
+},
+"phoenix_tutor": {
+"zh": "菲尼克斯",
+"en": "Phoenix (tutor of Achilles)",
+"gr": "Phoínix",
+"roman": null,
+"cat": "凡人",
+"domain": "阿基里斯的老師與養育者",
+"symbols": [
+"拐杖"
+],
+"bio": "道利歐人的老國王，因家庭糾紛被父親詛咒而流亡，被佩琉斯收留並託以撫育阿基里斯。在《伊利亞特》第九卷，他親自去勸說阿基里斯回到戰場，用梅勒阿革洛斯的前例勸誡。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [
+"achilles"
+],
+"transformed": null,
+"note": "與埃及的鳳凰（phoenix_bird）或腓尼基祖先同名。",
+"roman_symbols_note": null,
+"id": "phoenix_tutor"
+},
+"sarpedon": {
+"zh": "薩爾佩冬",
+"en": "Sarpedon",
+"gr": "Sarpēdṓn",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "宙斯之子，利西亞的領袖",
+"symbols": [
+"戰車",
+"長矛"
+],
+"bio": "宙斯與貝勒羅豐之女拉俄達彌亞之子，利西亞人的領袖，被視為特洛伊人最勇敢的盟友。他被帕特羅克洛斯殺死，宙斯悲痛，令死神與睡神將其遺體運回故鄉安葬。",
+"parents": [
+"zeus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"rhadamanthys"
+],
+"killed": [],
+"killed_by": [
+"patroclus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "克里特傳說另有同名的米諾斯兄弟薩爾佩冬，生活在更早世代。",
+"roman_symbols_note": null,
+"id": "sarpedon"
+},
+"xanthus_horse": {
+"zh": "神馬克珊托斯",
+"en": "Xanthus (the horse)",
+"gr": "Xánthos",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "阿基里斯的不死神馬",
+"symbols": [
+"神馬",
+"預言之聲"
+],
+"bio": "西風神與哈耳庇亞波達爾格所生的不死神馬，與同伴巴利俄斯一起拉阿基里斯的戰車。帕特羅克洛斯死後，赫拉賜予牠說話的能力，預言了阿基里斯即將到來的死亡。",
+"parents": [
+"zephyrus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與特洛伊河神斯卡曼德羅斯的別名同為「克珊托斯」。",
+"roman_symbols_note": null,
+"id": "xanthus_horse"
+},
+"scamander": {
+"zh": "斯卡曼德羅斯",
+"en": "Scamander",
+"gr": "Skámandros",
+"roman": null,
+"cat": "其他神祇",
+"domain": "特洛伊平原的河神",
+"symbols": [
+"河水",
+"蘆葦"
+],
+"bio": "特洛伊平原的河神，也稱克珊托斯，《伊利亞特》中說他是宙斯所降生。他因阿基里斯把屍體填塞河道而震怒，掀起洪水追趕阿基里斯，後被赫菲斯托斯的烈火逼退。",
+"parents": [
+"oceanus",
+"tethys"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《伊利亞特》稱為「宙斯所降生」，赫西俄德則列為奧克亞諾斯之子。",
+"roman_symbols_note": null,
+"id": "scamander"
+},
+"penthesilea": {
+"zh": "彭特西勒亞",
+"en": "Penthesilea",
+"gr": "Penthesíleia",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "亞馬遜女王，特洛伊的盟友",
+"symbols": [
+"雙刃斧",
+"弓"
+],
+"bio": "亞馬遜女王，阿瑞斯之女，希波呂塔的姊妹。她在赫克托耳死後來援特洛伊，被阿基里斯殺死；阿基里斯摘下她的頭盔時被她的美貌所震，據說為此悲傷。",
+"parents": [
+"ares"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"hippolyta"
+],
+"killed": [],
+"killed_by": [
+"achilles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "出自《埃塞俄比亞人》與後期敘事，荷馬未提。",
+"roman_symbols_note": null,
+"id": "penthesilea"
+},
+"memnon": {
+"zh": "門農",
+"en": "Memnon",
+"gr": "Mémnōn",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "黎明女神之子，衣索比亞國王",
+"symbols": [
+"黑色鎧甲",
+"露水"
+],
+"bio": "提托諾斯與厄俄斯之子，衣索比亞國王，帶軍來援特洛伊。他殺死安提羅科斯，後與阿基里斯單挑戰死。厄俄斯悲痛，每天的露水就是她為兒子流的眼淚，宙斯使他不朽。",
+"parents": [
+"tithonus",
+"eos"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"achilles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "memnon"
+},
+"polyxena": {
+"zh": "波呂克塞娜",
+"en": "Polyxena",
+"gr": "Polyxénē",
+"roman": null,
+"cat": "凡人",
+"domain": "普里阿摩斯之女，被獻祭於阿基里斯墓前",
+"symbols": [
+"祭壇"
+],
+"bio": "普里阿摩斯與赫庫芭之女。後世傳說阿基里斯因愛上她而被帕里斯在神廟中設計射殺；特洛伊陷落後，阿基里斯的幽靈要求她作祭，她從容走向墳前，被涅奧普托列摩斯殺死。",
+"parents": [
+"priam",
+"hecuba"
+],
+"spouses": [],
+"lovers": [
+"achilles"
+],
+"children": [],
+"siblings": [
+"hector",
+"paris",
+"cassandra",
+"helenus",
+"creusa",
+"polydorus",
+"aesacus"
+],
+"killed": [],
+"killed_by": [
+"neoptolemus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "與阿基里斯戀愛一說屬後世傳說。",
+"roman_symbols_note": null,
+"id": "polyxena"
+},
+"ajax_lesser": {
+"zh": "小埃阿斯",
+"en": "Ajax the Lesser",
+"gr": "Aías",
+"roman": null,
+"cat": "凡人",
+"domain": "奧伊琉斯之子，侵犯卡珊德拉者",
+"symbols": [
+"亞麻甲",
+"長矛"
+],
+"bio": "洛克里斯的英雄，擅長奔跑。特洛伊陷落時，他在雅典娜神殿強行拖走卡珊德拉，觸怒雅典娜。歸航時，雅典娜與波塞頓掀起風暴，他的船擱淺，他狂妄地誇口，被波塞頓一擊淹死。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"athena",
+"poseidon"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "與大埃阿斯（ajax_greater）同名，須區分。",
+"roman_symbols_note": null,
+"id": "ajax_lesser"
+},
+"oenone": {
+"zh": "奧伊諾涅",
+"en": "Oenone",
+"gr": "Oinṓnē",
+"roman": null,
+"cat": "其他神祇",
+"domain": "伊達山水仙，帕里斯的第一任妻子",
+"symbols": [
+"草藥",
+"伊達山"
+],
+"bio": "伊達山的水仙，擅長醫術，是年輕牧人帕里斯的第一任妻子。帕里斯拋棄她去追海倫；後來中箭垂死的帕里斯回山求救，她賭氣不肯，待軟化趕來時，他已死，她悲痛投身火葬堆。",
+"parents": [],
+"spouses": [
+"paris"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "河神刻布倫之女，此一細節不見荷馬，主要見於阿波羅多洛斯。",
+"roman_symbols_note": null,
+"id": "oenone"
+},
+"lotus_eaters": {
+"zh": "食蓮人",
+"en": "The Lotus-Eaters",
+"gr": "Lōtophágoi",
+"roman": null,
+"cat": "凡人",
+"domain": "吃蓮花而忘卻歸鄉的族群",
+"symbols": [
+"蓮花"
+],
+"bio": "住在利比亞海岸的溫和族群，以蓮花為食。奧德修斯派去探路的同伴吃下蓮花後，竟忘了故鄉與返航，只想留在島上。奧德修斯強行把他們拖回船上，才繼續航行。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《奧德賽》第九卷；蓮花的原型說法不一。",
+"roman_symbols_note": null,
+"id": "lotus_eaters"
+},
+"laestrygonians": {
+"zh": "拉斯忒律戈涅斯人",
+"en": "The Laestrygonians",
+"gr": "Laistrygónes",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "吃人的巨人族",
+"symbols": [
+"巨石",
+"長矛"
+],
+"bio": "住在特勒皮洛斯的食人巨人族，由國王安提法特斯統治。奧德修斯的船隊在此停泊，巨人從山上投擲巨石擊沉船隻，十二艘中只有他自己的一艘逃出，損失了大部分夥伴。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《奧德賽》第十卷。",
+"roman_symbols_note": null,
+"id": "laestrygonians"
+},
+"eumaeus": {
+"zh": "歐邁奧斯",
+"en": "Eumaeus",
+"gr": "Eumaîos",
+"roman": null,
+"cat": "凡人",
+"domain": "奧德修斯的忠心豬倌",
+"symbols": [
+"豬群",
+"茅屋"
+],
+"bio": "敘利亞島國王之子，幼時被拐賣到伊薩卡，成為奧德修斯家的僕人。二十年來他忠心看守主人的豬群，奧德修斯化裝成乞丐歸來時，他殷勤款待，後來協助主人奪回宮殿。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《奧德賽》第十四至二十二卷。",
+"roman_symbols_note": null,
+"id": "eumaeus"
+},
+"argos_dog": {
+"zh": "老狗阿爾戈斯",
+"en": "Argos (the dog)",
+"gr": "Árgos",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "奧德修斯的忠犬",
+"symbols": [
+"項圈"
+],
+"bio": "奧德修斯年輕時養大的獵犬，二十年後主人化裝歸來，滿身蟲蝨躺在糞堆上的牠一眼認出，搖尾致意，隨即死去，成為忠誠的象徵。牠是整個伊薩卡唯一在變裝下認出主人的生物。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "與百眼巨人阿爾戈斯（argus）、造船匠阿爾戈斯（argus_builder）同名。",
+"roman_symbols_note": null,
+"id": "argos_dog"
+},
+"irus": {
+"zh": "伊魯斯",
+"en": "Irus",
+"gr": "Îros",
+"roman": null,
+"cat": "凡人",
+"domain": "伊薩卡宮中的乞丐",
+"symbols": [
+"破袋"
+],
+"bio": "本名阿爾奈奧斯，因替求婚者跑腿傳話而被叫作伊魯斯。奧德修斯化裝成乞丐進宮時，他想趕走對方，在求婚者的鼓動下與之摔角，一拳被打倒在地，成為笑柄。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《奧德賽》第十八卷。",
+"roman_symbols_note": null,
+"id": "irus"
+},
+"antinous": {
+"zh": "安提諾奧斯",
+"en": "Antinous",
+"gr": "Antínoos",
+"roman": null,
+"cat": "凡人",
+"domain": "伊薩卡求婚者之首",
+"symbols": [
+"椅子",
+"弓"
+],
+"bio": "歐佩特斯之子，是向潘妮洛碧求婚者中最傲慢的一位，策劃謀殺特勒馬科斯，又向化裝的奧德修斯擲椅凳。奧德修斯顯露身分後，第一箭就射穿他的喉嚨，他在宴席中倒地。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"odysseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": null,
+"roman_symbols_note": null,
+"id": "antinous"
+},
+"demodocus": {
+"zh": "德摩多科斯",
+"en": "Demodocus",
+"gr": "Dēmódokos",
+"roman": null,
+"cat": "凡人",
+"domain": "費阿克人的盲詩人",
+"symbols": [
+"里拉琴"
+],
+"bio": "阿爾喀諾俄斯宮廷的盲眼歌者，被繆思奪去視力，卻賜予他美妙的歌喉。他唱出特洛伊戰爭與木馬計，使陌生的奧德修斯當眾落淚，促使國王詢問客人的身分。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "《奧德賽》第八卷，常被視為荷馬的自我投影。",
+"roman_symbols_note": null,
+"id": "demodocus"
+},
+"iolaus": {
+"zh": "伊俄拉俄斯",
+"en": "Iolaus",
+"gr": "Iólaos",
+"roman": null,
+"cat": "半神與英雄",
+"domain": "海克力斯的外甥與戰車手",
+"symbols": [
+"戰車",
+"火把"
+],
+"bio": "伊菲克勒斯之子，海克力斯同母異父兄弟之子，伴隨叔叔完成許多功績。在殺九頭蛇時，他用火把燒灼傷口以阻止新頭生出，也被視為英雄忠實的助手與伴侶。",
+"parents": [],
+"spouses": [],
+"lovers": [
+"heracles"
+],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "伴侶關係見普魯塔克與底比斯傳統，並非所有作者認同。",
+"roman_symbols_note": null,
+"id": "iolaus"
+},
+"pholus": {
+"zh": "福羅斯",
+"en": "Pholus",
+"gr": "Phólos",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "善良好客的半人馬",
+"symbols": [
+"酒罈",
+"毒箭"
+],
+"bio": "半人馬族少見的善良者，傳說是西勒諾斯之子，居住在福羅厄山。海克力斯拜訪時，他取出酒神寄存的酒招待，酒香引來其他半人馬發狂，他自己卻因拾起毒箭而不慎被刺，死去。",
+"parents": [
+"silenus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "死因為意外，由海克力斯造成。",
+"roman_symbols_note": null,
+"id": "pholus"
+},
+"augeas": {
+"zh": "奧革阿斯",
+"en": "Augeas",
+"gr": "Augeías",
+"roman": null,
+"cat": "凡人",
+"domain": "伊利斯國王，牛圈的主人",
+"symbols": [
+"牛群"
+],
+"bio": "擁有大批牛群的伊利斯國王，傳說是太陽神赫利俄斯之子。海克力斯一天內清理完牛圈，他卻以是受歐律斯透斯指派為由拒付酬勞。海克力斯後來攻入伊利斯，殺了他。",
+"parents": [
+"helios"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "父親另有波塞頓與福爾巴斯等說。",
+"roman_symbols_note": null,
+"id": "augeas"
+},
+"stymphalian_birds": {
+"zh": "斯廷法羅斯怪鳥",
+"en": "Stymphalian Birds",
+"gr": "Stymphalídes ornithes",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "有銅羽毛的食人鳥群",
+"symbols": [
+"銅羽毛",
+"銅嘴"
+],
+"bio": "棲息在阿卡迪亞斯廷法羅斯沼澤的怪鳥，嘴爪與羽毛皆銅鑄，羽毛能如箭射出。海克力斯用雅典娜給的銅鈸驚起牠們，再一一射殺，是十二項功績的第六項。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "是否為阿瑞斯所養，各家說法不一。",
+"roman_symbols_note": null,
+"id": "stymphalian_birds"
+},
+"cretan_bull": {
+"zh": "克里特公牛",
+"en": "The Cretan Bull",
+"gr": "Krḗs tauros",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "波塞頓送給米諾斯的神牛",
+"symbols": [
+"白色公牛",
+"火焰鼻息"
+],
+"bio": "波塞頓為米諾斯從海中送出的白公牛，米諾斯不願獻祭而留牠，神使牛瘋狂，帕西法厄也因而愛上牠，生下米諾陶。海克力斯活捉牠完成第七項功績，後來被翟修斯在馬拉松殺死。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [
+"minotaur"
+],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"theseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "與馬拉松公牛是否為同一頭，各家看法略有分歧。",
+"roman_symbols_note": null,
+"id": "cretan_bull"
+},
+"diomedes_thrace": {
+"zh": "色雷斯王狄奧墨得斯",
+"en": "Diomedes of Thrace",
+"gr": "Diomḗdēs",
+"roman": null,
+"cat": "凡人",
+"domain": "擁有食人馬的色雷斯國王",
+"symbols": [
+"食人馬群"
+],
+"bio": "阿瑞斯之子，色雷斯比斯托涅斯人的國王，以人肉餵養四匹母馬。海克力斯奉命牽走這群馬，將國王丟給牠們吃掉，馬群才變得溫順，是十二項功績的第八項。",
+"parents": [
+"ares"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "與阿爾戈斯國王狄奧墨得斯（diomedes）不同。",
+"roman_symbols_note": null,
+"id": "diomedes_thrace"
+},
+"geryon": {
+"zh": "革律翁",
+"en": "Geryon",
+"gr": "Gēryṓn",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "三身紅牛群的主人",
+"symbols": [
+"紅牛群",
+"三個身體"
+],
+"bio": "住在遙遠西方埃里提亞島的巨人，有三個軀體，牲畜由雙頭犬俄爾托斯與牧人歐律提翁看守。海克力斯跋涉前往，以箭射殺他取走牛群，是第十項功績。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "父母作克律薩俄耳與卡利若厄，二者皆不在人物名單內。",
+"roman_symbols_note": null,
+"id": "geryon"
+},
+"hesperides": {
+"zh": "赫斯珀里得斯",
+"en": "The Hesperides",
+"gr": "Hesperídes",
+"roman": null,
+"cat": "其他神祇",
+"domain": "看守金蘋果的黃昏仙女",
+"symbols": [
+"金蘋果",
+"歌聲"
+],
+"bio": "西方世界邊緣花園的仙女，負責看守赫拉的金蘋果樹，以歌聲聞名。赫西俄德說她們是夜神所生，另有說法是阿特拉斯之女；海克力斯為了第十一項功績來取蘋果。",
+"parents": [
+"nyx"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"moirai",
+"nemesis",
+"eris"
+],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "人數與父母各家說法不同，通常作三位至七位。",
+"roman_symbols_note": null,
+"id": "hesperides"
+},
+"ladon": {
+"zh": "拉冬",
+"en": "Ladon",
+"gr": "Ládōn",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "看守金蘋果的百頭龍",
+"symbols": [
+"百首",
+"不眠"
+],
+"bio": "纏繞在赫斯珀里得斯花園蘋果樹上的巨蛇龍，擁有一百個頭，能發出多種聲音，不眠不休。傳說是提豐與艾奇德娜之子，被海克力斯殺死，赫拉將牠升為天龍座。",
+"parents": [
+"typhon",
+"echidna"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"cerberus",
+"hydra",
+"chimera",
+"sphinx",
+"nemean_lion",
+"crommyonian_sow"
+],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "赫西俄德另說為刻托與福耳庫斯之子。",
+"roman_symbols_note": null,
+"id": "ladon"
+},
+"periphetes": {
+"zh": "佩里斐忒斯",
+"en": "Periphetes",
+"gr": "Periphḗtēs",
+"roman": null,
+"cat": "凡人",
+"domain": "拿鐵棒的強盜",
+"symbols": [
+"青銅棍"
+],
+"bio": "住在埃披道洛斯的強盜，赫菲斯托斯之子，雙腿不便，手持銅棍打死過路人。翟修斯前往雅典途中殺死他，並奪下銅棍帶在身邊，作為第一件戰利品。",
+"parents": [
+"hephaestus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"theseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "別名「棍棒手」（Corynetes）。",
+"roman_symbols_note": null,
+"id": "periphetes"
+},
+"sinis": {
+"zh": "西尼斯",
+"en": "Sinis",
+"gr": "Sínis",
+"roman": null,
+"cat": "凡人",
+"domain": "彎松樹的強盜",
+"symbols": [
+"松樹"
+],
+"bio": "科林斯地峽的強盜，力大無窮，他把兩棵松樹拉彎，把旅客綁在樹梢再放手撕裂身體。翟修斯制服他，以其人之道還治其人之身，將他處死。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"theseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "父親說法不一，有波塞頓、波呂佩蒙等。",
+"roman_symbols_note": null,
+"id": "sinis"
+},
+"crommyonian_sow": {
+"zh": "克羅米翁母豬",
+"en": "Crommyonian Sow",
+"gr": "Krommyōnía hŷs",
+"roman": null,
+"cat": "怪物與異獸",
+"domain": "肆虐克羅米翁的巨母豬",
+"symbols": [
+"巨大的母豬"
+],
+"bio": "傳說是提豐與艾奇德娜所生的巨母豬，名叫費亞，在克羅米翁村附近吞食農人與牲畜。翟修斯在前往雅典的路上將她殺死，是他除害的功績之一。",
+"parents": [
+"typhon",
+"echidna"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"cerberus",
+"hydra",
+"chimera",
+"sphinx",
+"nemean_lion",
+"ladon"
+],
+"killed": [],
+"killed_by": [
+"theseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "有人認為費亞是女強盜，被後人描述成母豬。",
+"roman_symbols_note": null,
+"id": "crommyonian_sow"
+},
+"sciron": {
+"zh": "斯基倫",
+"en": "Sciron",
+"gr": "Skeírōn",
+"roman": null,
+"cat": "凡人",
+"domain": "把旅客踢下懸崖的強盜",
+"symbols": [
+"懸崖",
+"巨龜"
+],
+"bio": "麥加拉附近海岸懸崖上的強盜，強迫旅客替他洗腳，然後一腳將人踢下，下面有巨龜等著吞食。翟修斯反過來把他拋下海，成為除惡的一例。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"theseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "家世說法不一，被視為海盜或波塞頓之子。",
+"roman_symbols_note": null,
+"id": "sciron"
+},
+"cercyon": {
+"zh": "刻耳庫翁",
+"en": "Cercyon",
+"gr": "Kerkyṓn",
+"roman": null,
+"cat": "凡人",
+"domain": "厄琉西斯的摔角國王",
+"symbols": [
+"摔角場"
+],
+"bio": "厄琉西斯之王，強迫過路人與他摔角並殺死對手。翟修斯憑借技巧而非蠻力將他舉起摔死，雅典人據傳因此得到摔角的技術，傳為體育訓練的起源之一。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"theseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "父親說法不一，有波塞頓或布蘭科斯等。",
+"roman_symbols_note": null,
+"id": "cercyon"
+},
+"procrustes": {
+"zh": "普羅克魯斯特斯",
+"en": "Procrustes",
+"gr": "Prokroústēs",
+"roman": "Procrustes",
+"cat": "凡人",
+"domain": "有鐵床的強盜",
+"symbols": [
+"鐵床",
+"鐵錘"
+],
+"bio": "又名達瑪斯特斯，住在雅典附近山上，邀請旅客住宿，並強迫把人的身體拉長或截短以適配鐵床。翟修斯讓他自己躺上鐵床，反過來砍去其雙腳而殺死。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"theseus"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "別名為達瑪斯特斯或波呂佩蒙。",
+"roman_symbols_note": null,
+"id": "procrustes"
+},
+"polydectes": {
+"zh": "波呂得克忒斯",
+"en": "Polydectes",
+"gr": "Polydéktēs",
+"roman": null,
+"cat": "凡人",
+"domain": "塞里福斯國王，企圖奪取達娜厄",
+"symbols": [
+"王座"
+],
+"bio": "塞里福斯島國王，愛上收留在島上的達娜厄，卻被她的兒子柏修斯阻撓，故意派柏修斯去取美杜莎的頭。柏修斯凱旋後在宴會上展示頭顱，將他與賓客石化。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"perseus"
+],
+"mentor_of": [],
+"transformed": {
+"into": "石像",
+"by": "perseus"
+},
+"note": "死亡情節見阿波羅多洛斯。",
+"roman_symbols_note": null,
+"id": "polydectes"
+},
+"phineus_uncle": {
+"zh": "安朵美達的叔叔菲紐斯",
+"en": "Phineus (Andromeda's uncle)",
+"gr": "Phineús",
+"roman": null,
+"cat": "凡人",
+"domain": "安朵美達的叔叔，鬧婚宴的未婚夫",
+"symbols": [
+"長矛"
+],
+"bio": "塞菲烏斯的弟弟，原與安朵美達訂婚。柏修斯殺海怪救出公主並與她成婚，他帶人闖入婚宴搶人，被柏修斯舉起美杜莎的頭顱，所有人瞬間變成石像。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [
+"cepheus"
+],
+"killed": [],
+"killed_by": [
+"perseus"
+],
+"mentor_of": [],
+"transformed": {
+"into": "石像",
+"by": "perseus"
+},
+"note": "與色雷斯的盲先知菲紐斯（phineus）同名，須區分。",
+"roman_symbols_note": null,
+"id": "phineus_uncle"
+},
+"iphitus": {
+"zh": "伊菲托斯",
+"en": "Iphitus",
+"gr": "Íphitos",
+"roman": null,
+"cat": "凡人",
+"domain": "歐律托斯之子，被海克力斯所殺",
+"symbols": [
+"馬群"
+],
+"bio": "歐律托斯之子，是少數對海克力斯友善的人。他尋找失蹤的馬群時遇見海克力斯，兩人同行；海克力斯在瘋狂發作時把他從城牆推下摔死，海克力斯因此為贖罪淪為奴隸。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [
+"heracles"
+],
+"mentor_of": [],
+"transformed": null,
+"note": "荷馬作他獲贈奧德修斯之弓，兩人是友人。",
+"roman_symbols_note": null,
+"id": "iphitus"
+},
+"hecale": {
+"zh": "赫卡勒",
+"en": "Hecale",
+"gr": "Hekálē",
+"roman": null,
+"cat": "凡人",
+"domain": "招待翟修斯的老婦",
+"symbols": [
+"小屋",
+"爐火"
+],
+"bio": "馬拉松附近的貧窮老婦，翟修斯去捕捉馬拉松公牛前遇雨，在她簡陋的小屋受到殷勤款待。她許願若英雄平安歸來，要獻祭宙斯；等翟修斯返回時，她已去世，翟修斯為她設立祭典。",
+"parents": [],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "卡利馬科斯有詩作《赫卡勒》，細節主要依此。",
+"roman_symbols_note": null,
+"id": "hecale"
+},
+"megara": {
+"zh": "墨伽拉",
+"en": "Megara",
+"gr": "Megára",
+"roman": null,
+"cat": "凡人",
+"domain": "海克力斯的第一任妻子",
+"symbols": [
+"孩子們"
+],
+"bio": "底比斯國王克瑞翁之女，嫁給海克力斯並生下數子。海克力斯被赫拉降下的瘋狂控制，誤殺自己的孩子；清醒後悔恨，才為贖罪替歐律斯透斯服役，開啟十二項功績。",
+"parents": [
+"creon"
+],
+"spouses": [
+"heracles"
+],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "阿波羅多洛斯說她後來被改嫁給伊俄拉俄斯；歐里庇得斯則說她也被殺。",
+"roman_symbols_note": null,
+"id": "megara"
+},
+"lyssa": {
+"zh": "瘋狂女神",
+"en": "Lyssa",
+"gr": "Lýssa",
+"roman": null,
+"cat": "其他神祇",
+"domain": "瘋狂與狂怒的化身",
+"symbols": [
+"獵犬",
+"火把"
+],
+"bio": "夜神與烏拉諾斯之血所生的瘋狂女神，奉赫拉之命迫使海克力斯陷入狂怒，誤殺妻兒。歐里庇得斯的劇中，她雖自知此事不義，仍身不由己，像獵犬般撲向英雄。",
+"parents": [
+"nyx",
+"uranus"
+],
+"spouses": [],
+"lovers": [],
+"children": [],
+"siblings": [],
+"killed": [],
+"killed_by": [],
+"mentor_of": [],
+"transformed": null,
+"note": "見歐里庇得斯《赫拉克勒斯》。",
+"roman_symbols_note": null,
+"id": "lyssa"
 }
 }
