@@ -28,7 +28,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"厄瑞玻斯不在人物表"
+]
 }
 },
 "gaia": {
@@ -76,7 +80,8 @@
 "giants",
 "hundred_handers",
 "python",
-"erichthonius"
+"erichthonius",
+"cecrops"
 ],
 "siblings": [],
 "killed": [],
@@ -84,7 +89,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": "赫西俄德以蓋亞為自混沌之後自然生成，故不列父母。",
-"id": "gaia"
+"id": "gaia",
+"audit": {
+"applied": [
+"新增 蓋亞.children+刻克洛普斯（因刻克洛普斯稽核補正）"
+],
+"pending": []
+}
 },
 "tartarus": {
 "zh": "塔爾塔羅斯",
@@ -158,7 +169,6 @@
 "hypnos",
 "thanatos",
 "moirai",
-"furies",
 "charon",
 "allecto",
 "hesperides",
@@ -177,7 +187,13 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"移除 尼克斯.children−復仇女神（並同步復仇女神.parents）"
+],
+"pending": [
+"厄瑞玻斯、埃忒耳、赫墨拉不在人物表；復仇女神的父母（烏拉諾斯之血）與其手足欄、阿勒克托子女關係未動"
+]
 }
 },
 "uranus": {
@@ -214,7 +230,8 @@
 "cyclopes",
 "giants",
 "hundred_handers",
-"lyssa"
+"lyssa",
+"aphrodite"
 ],
 "siblings": [],
 "killed": [],
@@ -229,7 +246,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 烏拉諾斯.children+阿芙蘿黛蒂（並同步阿芙蘿黛蒂.parents）"
+],
+"pending": []
 }
 },
 "pontus": {
@@ -270,7 +291,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"陶瑪斯、歐律比亞不在人物表"
+]
 }
 },
 "cronus": {
@@ -330,7 +355,11 @@
 "source": "阿波羅尼奧斯《阿爾戈英雄紀》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"菲呂拉不在人物表"
+]
 }
 },
 "rhea": {
@@ -414,7 +443,8 @@
 "alpheus",
 "achelous",
 "eurynome",
-"scamander"
+"scamander",
+"dione"
 ],
 "siblings": [
 "cronus",
@@ -436,7 +466,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": null,
-"id": "oceanus"
+"id": "oceanus",
+"audit": {
+"applied": [
+"新增 奧克亞諾斯.children+狄奧涅（因狄奧涅稽核補正）"
+],
+"pending": []
+}
 },
 "tethys": {
 "zh": "特堤斯",
@@ -465,7 +501,8 @@
 "alpheus",
 "achelous",
 "eurynome",
-"scamander"
+"scamander",
+"dione"
 ],
 "siblings": [
 "cronus",
@@ -487,7 +524,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": null,
-"id": "tethys"
+"id": "tethys",
+"audit": {
+"applied": [
+"新增 特堤斯.children+狄奧涅（因狄奧涅稽核補正）"
+],
+"pending": []
+}
 },
 "hyperion": {
 "zh": "許珀里翁",
@@ -628,7 +671,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿斯忒里亞不在人物表"
+]
 }
 },
 "phoebe": {
@@ -680,7 +727,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿斯忒里亞不在人物表"
+]
 }
 },
 "iapetus": {
@@ -731,7 +782,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"克呂墨涅、墨諾提俄斯不在人物表（墨諾叩斯為底比斯人物，非同一人）"
+]
 }
 },
 "themis": {
@@ -755,7 +810,8 @@
 ],
 "lovers": [],
 "children": [
-"horae"
+"horae",
+"moirai"
 ],
 "siblings": [
 "cronus",
@@ -784,7 +840,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 忒彌斯.children+摩伊賴（並同步摩伊賴.parents）"
+],
+"pending": []
 }
 },
 "mnemosyne": {
@@ -876,7 +936,11 @@
 "source": "赫西俄德《神譜》、阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"克呂墨涅不在人物表"
+]
 }
 },
 "prometheus": {
@@ -917,7 +981,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"克呂墨涅不在人物表"
+]
 }
 },
 "epimetheus": {
@@ -956,7 +1024,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"克呂墨涅不在人物表"
+]
 }
 },
 "zeus": {
@@ -998,7 +1070,6 @@
 "callisto",
 "demeter",
 "ganymede",
-"thetis",
 "antiope"
 ],
 "children": [
@@ -1055,7 +1126,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"移除 宙斯.lovers−忒提斯（並同步忒提斯.lovers）"
+],
+"pending": []
 }
 },
 "hera": {
@@ -1106,7 +1181,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"埃勒提亞不在人物表"
+]
 }
 },
 "poseidon": {
@@ -1260,7 +1339,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"伊阿西翁、普路托斯不在人物表"
+]
 }
 },
 "hestia": {
@@ -1366,7 +1449,8 @@
 "dryope",
 "admetus",
 "cyrene",
-"sibyl"
+"sibyl",
+"daphne"
 ],
 "children": [
 "orpheus",
@@ -1400,7 +1484,11 @@
 "source": "奧維德《變形記》、阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 阿波羅.lovers+達芙妮（並同步達芙妮.lovers）"
+],
+"pending": []
 }
 },
 "artemis": {
@@ -1431,7 +1519,8 @@
 "killed": [
 "chione",
 "aloadae",
-"tityus"
+"tityus",
+"actaeon"
 ],
 "killed_by": [],
 "transformed": null,
@@ -1444,7 +1533,13 @@
 "source": "奧維德《變形記》、阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 阿蒂蜜絲.killed+阿克泰翁（並同步阿克泰翁.killed_by）"
+],
+"pending": [
+"尼俄柏之子未個別列入人物表"
+]
 }
 },
 "ares": {
@@ -1497,7 +1592,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"福波斯、狄摩斯不在人物表"
+]
 }
 },
 "aphrodite": {
@@ -1518,7 +1617,8 @@
 "bio": "據荷馬為宙斯與狄奧涅之女，赫西俄德則說她由烏拉諾斯被割下的生殖器落海泡沫中誕生。她掌管愛欲與美，卻嫁給跛足的赫菲斯托斯。常以裸身自貝殼出生的美女呈現，如波提且利之畫。",
 "parents": [
 "zeus",
-"dione"
+"dione",
+"uranus"
 ],
 "spouses": [
 "hephaestus"
@@ -1542,7 +1642,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": "赫西俄德版本為自海中泡沫誕生，與烏拉諾斯相關；此處依荷馬版本列宙斯與狄奧涅為父母。",
-"id": "aphrodite"
+"id": "aphrodite",
+"audit": {
+"applied": [
+"新增 阿芙蘿黛蒂.parents+烏拉諾斯（因烏拉諾斯稽核補正）"
+],
+"pending": []
+}
 },
 "hephaestus": {
 "zh": "赫菲斯托斯",
@@ -1587,7 +1693,11 @@
 "source": "赫西俄德《神譜》、阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿格萊亞不在人物表"
+]
 }
 },
 "hermes": {
@@ -1695,7 +1805,9 @@
 "spouses": [
 "hades"
 ],
-"lovers": [],
+"lovers": [
+"adonis"
+],
 "children": [],
 "siblings": [],
 "killed": [],
@@ -1703,7 +1815,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": null,
-"id": "persephone"
+"id": "persephone",
+"audit": {
+"applied": [
+"新增 波瑟芬妮.lovers+阿多尼斯（因阿多尼斯稽核補正）"
+],
+"pending": []
+}
 },
 "dione": {
 "zh": "狄奧涅",
@@ -1715,7 +1833,10 @@
 "symbols": [],
 "roman_symbols_note": null,
 "bio": "在荷馬史詩中是阿芙蘿黛蒂的母親，在多多納神諭中被視為宙斯的配偶。她的名字是宙斯之名的陰性形式，可能是古老的天空女神。神話與藝術中形象很少，多隻在愛神受傷時出現安慰。",
-"parents": [],
+"parents": [
+"oceanus",
+"tethys"
+],
 "spouses": [],
 "lovers": [
 "zeus"
@@ -1736,7 +1857,12 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 狄奧涅.parents+奧克亞諾斯（並同步奧克亞諾斯.children）",
+"新增 狄奧涅.parents+特堤斯（並同步特堤斯.children）"
+],
+"pending": []
 }
 },
 "metis": {
@@ -1838,7 +1964,9 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "semele": {
@@ -1915,7 +2043,11 @@
 "source": "阿普列尤斯《金驢記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"赫多涅不在人物表"
+]
 }
 },
 "psyche": {
@@ -1950,7 +2082,11 @@
 "source": "阿普列尤斯《金驢記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"赫多涅不在人物表"
+]
 }
 },
 "hebe": {
@@ -1991,7 +2127,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿勒克西阿瑞斯、阿尼刻托斯不在人物表"
+]
 }
 },
 "hecate": {
@@ -2028,7 +2168,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"珀耳塞斯、阿斯忒里亞不在人物表"
+]
 }
 },
 "helios": {
@@ -2112,7 +2256,11 @@
 "source": "帕薩尼亞斯《希臘志》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"門奈（五十女）不在人物表"
+]
 }
 },
 "eos": {
@@ -2161,7 +2309,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿斯特賴俄斯、南風不在人物表（阿斯特賴亞為另一人物）"
+]
 }
 },
 "nemesis": {
@@ -2204,7 +2356,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"與宙斯生海倫屬部分版本，未改"
+]
 }
 },
 "eris": {
@@ -2247,7 +2403,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"勞役、遺忘等其餘子女不在人物表"
+]
 }
 },
 "hypnos": {
@@ -2292,7 +2452,11 @@
 "source": "《伊里亞德》、《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"帕西忒亞不在人物表；其他夢神不在人物表"
+]
 }
 },
 "thanatos": {
@@ -2344,7 +2508,8 @@
 "roman_symbols_note": null,
 "bio": "掌管人類命運的三姊妹：克洛托紡出生命之線，拉克西斯量其長度，阿特洛波斯剪斷之。連宙斯也難以違抗她們。常為三位年長女子，手持線軸、量尺與剪刀。",
 "parents": [
-"nyx"
+"nyx",
+"themis"
 ],
 "spouses": [],
 "lovers": [],
@@ -2363,7 +2528,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": "赫西俄德有兩說：黑夜之女，或宙斯與忒彌斯之女；此處為三位女神的合稱。",
-"id": "moirai"
+"id": "moirai",
+"audit": {
+"applied": [
+"新增 摩伊賴.parents+忒彌斯（因忒彌斯稽核補正）"
+],
+"pending": []
+}
 },
 "furies": {
 "zh": "復仇女神",
@@ -2379,9 +2550,7 @@
 ],
 "roman_symbols_note": null,
 "bio": "通常為三位：阿勒克托、墨該拉、提西豐妮。據赫西俄德，她們由烏拉諾斯的血滴落大地而生。她們追捕殺母的奧瑞斯提斯，後被雅典娜說服成為「慈愛女神」。常為蛇髮、持火把的女子。",
-"parents": [
-"nyx"
-],
+"parents": [],
 "spouses": [],
 "lovers": [],
 "children": [],
@@ -2397,7 +2566,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": "赫西俄德載為烏拉諾斯被去勢時的血滴所生；此處依後世悲劇列黑夜為母。",
-"id": "furies"
+"id": "furies",
+"audit": {
+"applied": [
+"移除 復仇女神.parents−尼克斯（因尼克斯稽核補正）"
+],
+"pending": []
+}
 },
 "hermaphroditus": {
 "zh": "赫瑪芙羅狄托斯",
@@ -2529,7 +2704,11 @@
 "source": "《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"河神拉冬與人物表中的巨蛇拉冬非同一人，未連結"
+]
 }
 },
 "echo": {
@@ -2544,7 +2723,9 @@
 "bio": "奧維德記載，回聲因以喋喋不休拖住赫拉而受懲，只能重複別人話尾。她愛上納西瑟斯卻遭拒絕，憔悴至只剩聲音。她常被繪為倚在岩邊的少女，身旁是凝視水影的納西瑟斯。",
 "parents": [],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"narcissus"
+],
 "children": [],
 "siblings": [],
 "killed": [],
@@ -2555,7 +2736,13 @@
 },
 "mentor_of": [],
 "note": null,
-"id": "echo"
+"id": "echo",
+"audit": {
+"applied": [
+"新增 回聲.lovers+納西瑟斯（因納西瑟斯稽核補正）"
+],
+"pending": []
+}
 },
 "silenus": {
 "zh": "西勒諾斯",
@@ -2683,7 +2870,11 @@
 "source": "《奧德賽》、《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"克雷透斯、涅琉斯不在人物表"
+]
 }
 },
 "amphitrite": {
@@ -2788,7 +2979,11 @@
 "source": "《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"多里斯、涅瑞伊得斯不在人物表"
+]
 }
 },
 "phorcys": {
@@ -3190,7 +3385,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"克律薩俄耳不在人物表"
+]
 }
 },
 "charybdis": {
@@ -3294,7 +3493,9 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "argus": {
@@ -3328,7 +3529,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"含「或」之版本分歧，未改"
+]
 }
 },
 "cyclopes": {
@@ -3514,7 +3719,11 @@
 "source": "奧維德《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"克呂墨涅不在人物表"
+]
 }
 },
 "circe": {
@@ -3561,7 +3770,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"珀耳塞不在人物表"
+]
 }
 },
 "aeetes": {
@@ -3604,7 +3817,11 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"珀耳塞、伊底伊阿不在人物表"
+]
 }
 },
 "pasiphae": {
@@ -3625,7 +3842,9 @@
 "spouses": [
 "minos"
 ],
-"lovers": [],
+"lovers": [
+"cretan_bull"
+],
 "children": [
 "minotaur",
 "ariadne",
@@ -3650,7 +3869,13 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 帕西法厄.lovers+克里特公牛（並同步克里特公牛.lovers）"
+],
+"pending": [
+"珀耳塞不在人物表"
+]
 }
 },
 "minos": {
@@ -3765,7 +3990,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿卡瑪斯不在人物表；人物表中的德摩豐為厄琉西斯王子，非菲德拉之子，未連結"
+]
 }
 },
 "europa": {
@@ -3803,7 +4032,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿革諾耳、阿斯忒里翁不在人物表"
+]
 }
 },
 "io": {
@@ -3840,7 +4073,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"伊那科斯、厄帕福斯不在人物表"
+]
 }
 },
 "callisto": {
@@ -3882,7 +4119,9 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "arcas": {
@@ -3961,7 +4200,8 @@
 "iphitus"
 ],
 "killed_by": [
-"nessus"
+"nessus",
+"deianira"
 ],
 "transformed": null,
 "mentor_of": [
@@ -3975,7 +4215,13 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 海克力斯.killed_by+得伊阿妮拉（因得伊阿妮拉稽核補正）"
+],
+"pending": [
+"許羅斯不在人物表"
+]
 }
 },
 "alcmene": {
@@ -4012,7 +4258,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"厄勒克特律翁、伊菲克勒斯不在人物表"
+]
 }
 },
 "amphitryon": {
@@ -4044,7 +4294,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿爾開俄斯、伊菲克勒斯、厄勒克特律翁不在人物表"
+]
 }
 },
 "eurystheus": {
@@ -4076,7 +4330,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"塞涅羅斯不在人物表"
+]
 }
 },
 "hippolyta": {
@@ -4128,7 +4386,10 @@
 ],
 "roman_symbols_note": null,
 "bio": "他在渡河時對得伊阿妮拉無禮，被海克力斯射以浸過九頭蛇毒的箭。臨死前，他騙得伊阿妮拉收集血液作為愛情藥，實為劇毒，最終令海克力斯因毒衣而死。",
-"parents": [],
+"parents": [
+"ixion",
+"nephele"
+],
 "spouses": [],
 "lovers": [],
 "children": [],
@@ -4149,7 +4410,12 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 涅索斯.parents+伊克西翁（並同步伊克西翁.children）",
+"新增 涅索斯.parents+涅斐勒（並同步涅斐勒.children）"
+],
+"pending": []
 }
 },
 "deianira": {
@@ -4171,7 +4437,9 @@
 "lovers": [],
 "children": [],
 "siblings": [],
-"killed": [],
+"killed": [
+"heracles"
+],
 "killed_by": [],
 "transformed": null,
 "mentor_of": [],
@@ -4183,7 +4451,13 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 得伊阿妮拉.killed+海克力斯（並同步海克力斯.killed_by）"
+],
+"pending": [
+"俄紐斯不在人物表"
+]
 }
 },
 "perseus": {
@@ -4228,7 +4502,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"波耳塞斯不在人物表"
+]
 }
 },
 "danae": {
@@ -4292,7 +4570,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿巴斯、阿格萊亞（非赫菲斯托斯之配偶）、歐律狄刻不在人物表"
+]
 }
 },
 "andromeda": {
@@ -4329,7 +4611,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"子女波耳塞斯等不在人物表"
+]
 }
 },
 "cassiopeia": {
@@ -4394,7 +4680,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"柏羅斯、安基諾厄不在人物表"
+]
 }
 },
 "jason": {
@@ -4437,7 +4727,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿爾克墨得、梅爾墨羅斯、費瑞斯不在人物表"
+]
 }
 },
 "medea": {
@@ -4482,7 +4776,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"梅爾墨羅斯、費瑞斯、梅多斯不在人物表"
+]
 }
 },
 "pelias": {
@@ -4522,7 +4820,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"死於美狄亞之計：已記美狄亞殺害佩利亞斯，被其女誤殺的細節未入欄位"
+]
 }
 },
 "argonauts": {
@@ -4588,7 +4890,9 @@
 "source": "奧維德《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "eurydice": {
@@ -4649,7 +4953,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"含「或」之版本分歧；帕耳忒諾派俄斯不在人物表"
+]
 }
 },
 "hippomenes": {
@@ -4686,7 +4994,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"帕耳忒諾派俄斯不在人物表"
+]
 }
 },
 "meleager": {
@@ -4721,7 +5033,11 @@
 "source": "荷馬《伊利亞德》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"俄紐斯、阿爾泰亞、克勒俄帕特拉不在人物表"
+]
 }
 },
 "theseus": {
@@ -4798,7 +5114,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"潘狄翁二世不在人物表"
+]
 }
 },
 "hippolytus": {
@@ -4864,7 +5184,11 @@
 "source": "奧維德《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"殺死侄子含「或」（佩爾迪克斯／塔羅斯）之版本分歧，未改"
+]
 }
 },
 "icarus": {
@@ -4932,7 +5256,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿革諾耳、忒勒法莎、奧托諾厄、波呂多洛斯（人物表中的波呂多羅斯為普里阿摩斯之子）未連結"
+]
 }
 },
 "harmonia": {
@@ -4981,7 +5309,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"奧托諾厄、波呂多洛斯未連結"
+]
 }
 },
 "achilles": {
@@ -5061,7 +5393,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"恩得伊斯不在人物表"
+]
 }
 },
 "thetis": {
@@ -5082,9 +5418,7 @@
 "spouses": [
 "peleus"
 ],
-"lovers": [
-"zeus"
-],
+"lovers": [],
 "children": [
 "achilles"
 ],
@@ -5097,7 +5431,13 @@
 "transformed": null,
 "mentor_of": [],
 "note": "宙斯一度追求她，因預言而放棄（見品達與埃斯庫羅斯）。",
-"id": "thetis"
+"id": "thetis",
+"audit": {
+"applied": [
+"移除 忒提斯.lovers−宙斯（因宙斯稽核補正）"
+],
+"pending": []
+}
 },
 "patroclus": {
 "zh": "帕特羅克洛斯",
@@ -5134,7 +5474,11 @@
 "source": "荷馬《伊利亞德》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"墨諾提俄斯（人物表無此人，墨諾叩斯為另一人）不在人物表"
+]
 }
 },
 "hector": {
@@ -5195,7 +5539,8 @@
 "parents": [],
 "spouses": [
 "hector",
-"helenus"
+"helenus",
+"neoptolemus"
 ],
 "lovers": [],
 "children": [
@@ -5214,7 +5559,13 @@
 "source": "荷馬《伊利亞德》、歐里庇得斯《安德洛瑪刻》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 安德洛瑪刻.spouses+涅奧普托列摩斯（並同步涅奧普托列摩斯.spouses）"
+],
+"pending": [
+"埃提翁、摩羅索斯不在人物表"
+]
 }
 },
 "astyanax": {
@@ -5289,7 +5640,11 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"斯特律摩、得伊福玻斯等不在人物表"
+]
 }
 },
 "hecuba": {
@@ -5329,7 +5684,11 @@
 "source": "Iliad",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"狄馬斯（或齊修斯）含「或」，且不在人物表"
+]
 }
 },
 "paris": {
@@ -5381,7 +5740,9 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "helen": {
@@ -5471,7 +5832,9 @@
 "spouses": [
 "clytemnestra"
 ],
-"lovers": [],
+"lovers": [
+"cassandra"
+],
 "children": [
 "iphigenia",
 "orestes",
@@ -5497,7 +5860,13 @@
 "source": "Aeschylus, Agamemnon",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 阿伽門農.lovers+卡珊德拉（並同步卡珊德拉.lovers）"
+],
+"pending": [
+"「殺死伊菲革涅亞應註明為祭祀」屬註記說明，非關係欄位，未改"
+]
 }
 },
 "clytemnestra": {
@@ -5579,7 +5948,11 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"佩羅庇亞不在人物表"
+]
 }
 },
 "iphigenia": {
@@ -5650,7 +6023,11 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"提薩墨諾斯不在人物表"
+]
 }
 },
 "electra": {
@@ -5688,7 +6065,9 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "hermione": {
@@ -5724,7 +6103,11 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"提薩墨諾斯不在人物表"
+]
 }
 },
 "neoptolemus": {
@@ -5742,7 +6125,8 @@
 "deidamia"
 ],
 "spouses": [
-"hermione"
+"hermione",
+"andromache"
 ],
 "lovers": [],
 "children": [],
@@ -5763,7 +6147,13 @@
 "source": "Apollodorus / Euripides, Andromache",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 涅奧普托列摩斯.spouses+安德洛瑪刻（因安德洛瑪刻稽核補正）"
+],
+"pending": [
+"安德洛瑪刻已以配偶記錄（未另列情人）；摩羅索斯不在人物表"
+]
 }
 },
 "atreus": {
@@ -5805,7 +6195,11 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"殺死堤厄斯忒斯之子：子嗣不在人物表"
+]
 }
 },
 "thyestes": {
@@ -5844,7 +6238,9 @@
 "source": "Apollodorus",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "pelops": {
@@ -5888,7 +6284,9 @@
 "source": "Apollodorus / Pindar",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "tantalus": {
@@ -5926,7 +6324,11 @@
 "source": "Ovid, Metamorphoses",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"殺子（烹子獻神）但珀羅普斯被復活，語意不宜記為 killed，未改"
+]
 }
 },
 "niobe": {
@@ -5968,7 +6370,11 @@
 "source": "Ovid, Metamorphoses",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"尼奧比諸子女不在人物表"
+]
 }
 },
 "odysseus": {
@@ -6018,7 +6424,11 @@
 "source": "Odyssey / Telegony",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"其餘求婚者不在人物表（僅記安提諾奧斯）"
+]
 }
 },
 "laertes": {
@@ -6052,7 +6462,11 @@
 "source": "Odyssey",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿耳克西俄斯不在人物表"
+]
 }
 },
 "anticlea": {
@@ -6088,7 +6502,9 @@
 "source": "Odyssey",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "penelope": {
@@ -6126,7 +6542,11 @@
 "source": "Odyssey",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"伊卡里奧斯（人物表中為雅典的伊卡里奧斯）與培里波亞不在人物表，未連結"
+]
 }
 },
 "telemachus": {
@@ -6161,7 +6581,11 @@
 "source": "Odyssey",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"安菲諾摩斯不在人物表"
+]
 }
 },
 "eurycleia": {
@@ -6193,7 +6617,11 @@
 "source": "Odyssey",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"俄普斯不在人物表"
+]
 }
 },
 "calypso": {
@@ -6229,7 +6657,11 @@
 "source": "Hesiod, Theogony",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"瑙西托俄斯不在人物表"
+]
 }
 },
 "polyphemus": {
@@ -6249,7 +6681,9 @@
 "poseidon"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"galatea_nereid"
+],
 "children": [],
 "siblings": [],
 "killed": [
@@ -6266,7 +6700,11 @@
 "source": "Ovid, Metamorphoses",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 波呂斐摩斯.lovers+海中仙女加拉蒂亞（並同步海中仙女加拉蒂亞.lovers）"
+],
+"pending": []
 }
 },
 "oedipus": {
@@ -6350,7 +6788,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"墨諾伊刻俄斯不在人物表（墨諾叩斯為克瑞翁之子）"
+]
 }
 },
 "laius": {
@@ -6386,7 +6828,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"拉布達科斯不在人物表"
+]
 }
 },
 "creon": {
@@ -6422,7 +6868,11 @@
 "source": "Sophocles, Antigone",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"墨諾伊刻俄斯、歐律狄刻不在人物表"
+]
 }
 },
 "antigone": {
@@ -6526,7 +6976,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿爾蓋亞、忒耳桑德羅斯不在人物表"
+]
 }
 },
 "eteocles": {
@@ -6597,7 +7051,11 @@
 "source": "Homer, Iliad",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"斐羅諾厄、希波羅科斯不在人物表"
+]
 }
 },
 "aeneas": {
@@ -6645,7 +7103,9 @@
 "source": "Virgil, Aeneid",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": []
 }
 },
 "anchises": {
@@ -6679,7 +7139,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"卡皮斯不在人物表"
+]
 }
 },
 "dido": {
@@ -6711,7 +7175,11 @@
 "source": "Virgil, Aeneid",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"貝盧斯、敘凱俄斯不在人物表"
+]
 }
 },
 "cassandra": {
@@ -6731,7 +7199,9 @@
 "hecuba"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"agamemnon"
+],
 "children": [],
 "siblings": [
 "hector",
@@ -6756,7 +7226,11 @@
 "source": "Aeschylus, Agamemnon",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 卡珊德拉.lovers+阿伽門農（因阿伽門農稽核補正）"
+],
+"pending": []
 }
 },
 "castor": {
@@ -6871,7 +7345,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"忒斯提俄斯不在人物表"
+]
 }
 },
 "tyndareus": {
@@ -6906,7 +7384,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"厄巴羅斯不在人物表"
+]
 }
 },
 "cecrops": {
@@ -6921,7 +7403,9 @@
 ],
 "roman_symbols_note": null,
 "bio": "從大地生出的雅典首位國王，上半身為人，下半身為蛇。他在波塞頓與雅典娜爭奪城邦時，擔任見證人，判定雅典娜獲勝。他也被視為制定婚姻與祭禮制度者。",
-"parents": [],
+"parents": [
+"gaia"
+],
 "spouses": [],
 "lovers": [],
 "children": [
@@ -6941,7 +7425,13 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 刻克洛普斯.parents+蓋亞（並同步蓋亞.children）"
+],
+"pending": [
+"阿格勞洛斯在人物表中為其女，非配偶，未改"
+]
 }
 },
 "chiron": {
@@ -6991,7 +7481,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"菲呂拉、卡里克洛不在人物表"
+]
 }
 },
 "asclepius": {
@@ -7028,7 +7522,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"厄庇俄涅、許癸厄亞不在人物表"
+]
 }
 },
 "pandora": {
@@ -7092,7 +7590,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"赫楞不在人物表"
+]
 }
 },
 "pyrrha": {
@@ -7129,7 +7631,11 @@
 "source": "Apollodorus, Bibliotheca",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"赫楞不在人物表"
+]
 }
 },
 "endymion": {
@@ -7163,7 +7669,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"埃特里俄斯、卡呂刻不在人物表；人物表中的埃佩奧斯為特洛伊木馬建造者，非恩底彌翁之子"
+]
 }
 },
 "epeius": {
@@ -7195,7 +7705,11 @@
 "source": "荷馬《奧德賽》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"帕諾佩俄斯不在人物表"
+]
 }
 },
 "sinon": {
@@ -7225,7 +7739,11 @@
 "source": "偽許癸努斯《神話集》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"埃西姆斯不在人物表"
+]
 }
 },
 "laocoon": {
@@ -7257,7 +7775,11 @@
 "source": "維吉爾《埃涅阿斯紀》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"安忒諾爾（或卡皮斯）含「或」，子女亦不在人物表"
+]
 }
 },
 "ganymede": {
@@ -7292,7 +7814,11 @@
 "source": "荷馬《伊利亞德》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"特羅斯、卡利羅厄不在人物表"
+]
 }
 },
 "galatea": {
@@ -7329,7 +7855,11 @@
 "source": "奧維德《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"帕福斯不在人物表"
+]
 }
 },
 "pygmalion": {
@@ -7363,7 +7893,11 @@
 "source": "奧維德《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"帕福斯不在人物表"
+]
 }
 },
 "hero": {
@@ -7453,7 +7987,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿密克拉斯、狄俄墨得不在人物表"
+]
 }
 },
 "zephyrus": {
@@ -7496,7 +8034,11 @@
 "source": "赫西俄德《神譜》、奧維德《歲時記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿斯特賴俄斯不在人物表"
+]
 }
 },
 "marsyas": {
@@ -7530,7 +8072,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"許阿格尼斯不在人物表"
+]
 }
 },
 "midas": {
@@ -7546,7 +8092,9 @@
 ],
 "roman_symbols_note": null,
 "bio": "因款待酒神的老師西勒諾斯，獲得「點物成金」的願望，結果連食物都成金，向酒神求救後在帕克托羅斯河洗淨。後來在音樂比賽中偏袒潘，被阿波羅變出驢耳。",
-"parents": [],
+"parents": [
+"cybele"
+],
 "spouses": [],
 "lovers": [],
 "children": [],
@@ -7566,7 +8114,13 @@
 "source": "希羅多德《歷史》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 邁達斯.parents+西芭莉（並同步西芭莉.children）"
+],
+"pending": [
+"戈耳狄俄斯不在人物表"
+]
 }
 },
 "narcissus": {
@@ -7584,7 +8138,9 @@
 "bio": "奧維德述他拒絕眾人愛慕，包括回聲，被涅墨西斯詛咒愛上水中倒影，最後枯萎憔悴而死，化成水仙花。英文「narcissism」（自戀）一詞源於他。",
 "parents": [],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"echo"
+],
 "children": [],
 "siblings": [],
 "killed": [],
@@ -7602,7 +8158,13 @@
 "source": "奧維德《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 納西瑟斯.lovers+回聲（並同步回聲.lovers）"
+],
+"pending": [
+"刻菲索斯、利里俄佩不在人物表"
+]
 }
 },
 "nausicaa": {
@@ -7636,7 +8198,11 @@
 "source": "荷馬《奧德賽》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"阿瑞忒不在人物表"
+]
 }
 },
 "alcinous": {
@@ -7668,7 +8234,11 @@
 "source": "荷馬《奧德賽》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"瑙西托俄斯、阿瑞忒不在人物表"
+]
 }
 },
 "pyramus": {
@@ -7819,7 +8389,11 @@
 "source": "奧維德《變形記》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"人物表中的伊德蒙為阿爾戈英雄（阿波羅之子），非阿拉克妮之父，未連結"
+]
 }
 },
 "daphne": {
@@ -7838,7 +8412,9 @@
 "peneus"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"apollo"
+],
 "children": [],
 "siblings": [],
 "killed": [],
@@ -7849,7 +8425,13 @@
 },
 "mentor_of": [],
 "note": "亦有蓋亞變形的說法。",
-"id": "daphne"
+"id": "daphne",
+"audit": {
+"applied": [
+"新增 達芙妮.lovers+阿波羅（因阿波羅稽核補正）"
+],
+"pending": []
+}
 },
 "adonis": {
 "zh": "阿多尼斯",
@@ -7867,7 +8449,8 @@
 "parents": [],
 "spouses": [],
 "lovers": [
-"aphrodite"
+"aphrodite",
+"persephone"
 ],
 "children": [],
 "siblings": [],
@@ -7886,7 +8469,13 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 阿多尼斯.lovers+波瑟芬妮（並同步波瑟芬妮.lovers）"
+],
+"pending": [
+"肯倪拉斯、米拉不在人物表"
+]
 }
 },
 "actaeon": {
@@ -7910,7 +8499,9 @@
 "children": [],
 "siblings": [],
 "killed": [],
-"killed_by": [],
+"killed_by": [
+"artemis"
+],
 "transformed": {
 "into": "變成雄鹿",
 "by": "artemis"
@@ -7924,7 +8515,13 @@
 "source": "赫西俄德《神譜》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [
+"新增 阿克泰翁.killed_by+阿蒂蜜絲（因阿蒂蜜絲稽核補正）"
+],
+"pending": [
+"奧托諾厄不在人物表"
+]
 }
 },
 "sisyphus": {
@@ -7959,7 +8556,11 @@
 "source": "阿波羅多洛斯《書庫》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"埃俄羅斯在人物表中為荷馬的風之王，非同一人；恩那瑞忒、美羅佩不在人物表"
+]
 }
 },
 "aeolus": {
@@ -7993,7 +8594,11 @@
 "source": "阿波羅多洛斯《書庫》、荷馬《奧德賽》",
 "model": "gemini-3-flash-preview",
 "grounded": false,
-"date": "2026-10-20"
+"date": "2026-10-20",
+"applied": [],
+"pending": [
+"含「或」之版本分歧，且與荷馬風之王身分不同，未改"
+]
 }
 },
 "hundred_handers": {
@@ -9667,7 +10272,9 @@
 "lovers": [
 "attis"
 ],
-"children": [],
+"children": [
+"midas"
+],
 "siblings": [],
 "killed": [],
 "killed_by": [],
@@ -9675,7 +10282,13 @@
 "mentor_of": [],
 "note": "希臘與羅馬時代常將她與瑞亞、狄蜜特混同。",
 "roman_symbols_note": null,
-"id": "cybele"
+"id": "cybele",
+"audit": {
+"applied": [
+"新增 西芭莉.children+邁達斯（因邁達斯稽核補正）"
+],
+"pending": []
+}
 },
 "turnus": {
 "zh": "圖爾努斯",
@@ -10720,7 +11333,8 @@
 "children": [
 "phrixus",
 "helle",
-"centaurs"
+"centaurs",
+"nessus"
 ],
 "siblings": [],
 "killed": [],
@@ -10729,7 +11343,13 @@
 "mentor_of": [],
 "note": "品達記伊克西翁與雲所生半人馬族；此雲仙與涅斐勒同名。",
 "roman_symbols_note": null,
-"id": "nephele"
+"id": "nephele",
+"audit": {
+"applied": [
+"新增 涅斐勒.children+涅索斯（因涅索斯稽核補正）"
+],
+"pending": []
+}
 },
 "argus_builder": {
 "zh": "造船匠阿爾戈斯",
@@ -11567,7 +12187,8 @@
 ],
 "children": [
 "centaurs",
-"pirithous"
+"pirithous",
+"nessus"
 ],
 "siblings": [],
 "killed": [],
@@ -11576,7 +12197,13 @@
 "mentor_of": [],
 "note": "荷馬說皮瑞蘇斯是宙斯之子；阿波羅多洛斯與奧維德以伊克西翁為父。",
 "roman_symbols_note": null,
-"id": "ixion"
+"id": "ixion",
+"audit": {
+"applied": [
+"新增 伊克西翁.children+涅索斯（因涅索斯稽核補正）"
+],
+"pending": []
+}
 },
 "tityus": {
 "zh": "提堤俄斯",
@@ -12855,7 +13482,8 @@
 ],
 "spouses": [],
 "lovers": [
-"acis"
+"acis",
+"polyphemus"
 ],
 "children": [],
 "siblings": [
@@ -12868,7 +13496,13 @@
 "transformed": null,
 "note": "與皮格馬利翁雕像（galatea）同名，須區分。",
 "roman_symbols_note": null,
-"id": "galatea_nereid"
+"id": "galatea_nereid",
+"audit": {
+"applied": [
+"新增 海中仙女加拉蒂亞.lovers+波呂斐摩斯（因波呂斐摩斯稽核補正）"
+],
+"pending": []
+}
 },
 "aesacus": {
 "zh": "埃薩科斯",
@@ -15080,7 +15714,9 @@
 "bio": "波塞頓為米諾斯從海中送出的白公牛，米諾斯不願獻祭而留牠，神使牛瘋狂，帕西法厄也因而愛上牠，生下米諾陶。海克力斯活捉牠完成第七項功績，後來被翟修斯在馬拉松殺死。",
 "parents": [],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"pasiphae"
+],
 "children": [
 "minotaur"
 ],
@@ -15093,7 +15729,13 @@
 "transformed": null,
 "note": "與馬拉松公牛是否為同一頭，各家看法略有分歧。",
 "roman_symbols_note": null,
-"id": "cretan_bull"
+"id": "cretan_bull",
+"audit": {
+"applied": [
+"新增 克里特公牛.lovers+帕西法厄（因帕西法厄稽核補正）"
+],
+"pending": []
+}
 },
 "diomedes_thrace": {
 "zh": "色雷斯王狄奧墨得斯",
