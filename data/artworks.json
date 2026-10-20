@@ -55325,30 +55325,6 @@
 "local": true
 },
 {
-"id": "m:m1323",
-"site": "m",
-"wid": "m1323",
-"a": "",
-"a_zh": "佚名",
-"t": "",
-"z": "法國法郎紙鈔（波摩那圖像）",
-"zn": "法國法郎紙鈔（波摩那圖像）",
-"y": "",
-"mu": "",
-"img": "img/800/m1323.webp",
-"thumb": "img/thumb/m1323.webp",
-"chars": [
-"pomona"
-],
-"myth_theme": true,
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:France_5000_francs_terre_et_mer_01.jpg",
-"wd": "Q2817118",
-"kind": "p",
-"wd_flag": false,
-"local": true
-},
-{
 "id": "m:m1324",
 "site": "m",
 "wid": "m1324",
@@ -61378,30 +61354,6 @@
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Marcello_Bacciarelli_-_Allegory_of_Justice_–Themis_-_MP_5511_-_National_Museum_in_Warsaw.jpg",
 "wd": "Q22829754",
-"kind": "p",
-"wd_flag": false,
-"local": true
-},
-{
-"id": "m:m1575",
-"site": "m",
-"wid": "m1575",
-"a": "",
-"a_zh": "佚名",
-"t": "first coat of arms of Beek",
-"z": "貝克市最初的市徽",
-"zn": "貝克市最初的市徽",
-"y": "",
-"mu": "",
-"img": "img/800/m1575.webp",
-"thumb": "img/thumb/m1575.webp",
-"chars": [
-"themis"
-],
-"myth_theme": true,
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Beek_(Limburg)_wapen_1853.svg",
-"wd": "Q26945143",
 "kind": "p",
 "wd_flag": false,
 "local": true
