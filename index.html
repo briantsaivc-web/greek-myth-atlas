@@ -176,9 +176,10 @@ function storyCard(s){const c=CYC.find(x=>x.id===s.cycle);const cv=cover(s);retu
 function storyList(cid){
   const list=cid?ST.filter(s=>s.cycle===cid):ST; const c=CYC.find(x=>x.id===cid);
   return `<button class="back" onclick="go('#home')">← 首頁</button><div class="sec"><h2>${esc(c?c.zh:'全部故事')}</h2><span class="lead" style="margin:0">${list.length} 則</span></div>${c?`<p class="lead">${esc(c.desc||'')}</p>`:''}
-  <div class="chips"><span class="chip ${!cid?'on':''}" onclick="go('#stories')">全部</span>${CYC.map(x=>`<span class="chip ${x.id===cid?'on':''}" onclick="go('#stories/${x.id}')">${esc(x.zh)}</span>`).join('')}</div>
-  <div class="grid">${list.map(storyCard).join('')}</div>`;
+  <div class="chips"><span class="chip ${!cid?'on':''}" onclick="go('#stories')">全部</span>${CYC.map(x=>`<span class="chip ${x.id===cid?'on':''}" onclick="go('#stories/${x.id}')">${esc(x.zh)}</span>`).join('')}<input id="sq" placeholder="搜尋故事或人物…" style="margin-left:auto;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:999px;padding:3px 12px;font:inherit;font-size:.85rem" oninput="filterStories(this.value)"></div>
+  <div class="grid" id="sgrid">${list.map(storyCard).join('')}</div>`;
 }
+function filterStories(q){q=(q||'').trim();const h=location.hash.match(/^#stories\/(.+)$/);const cid=h?h[1]:null;let list=cid?ST.filter(s=>s.cycle===cid):ST;if(q)list=list.filter(s=>(s.title+s.en+s.summary+s.chars.map(c=>CH[c]?CH[c].zh+CH[c].en:'').join('')).toLowerCase().includes(q.toLowerCase()));document.getElementById('sgrid').innerHTML=list.map(storyCard).join('')||'<p class="lead">沒有符合的故事。</p>'}
 function figHtml(a){return `<figure onclick="openLb('${a.id}')"><img src="${esc(a.img)}" alt="${esc(a.z||a.t)}" loading="lazy"><figcaption>${esc(a.a_zh||a.a)}《${esc(a.z||a.t)}》${a.y?' · '+esc(a.y):''}${a.mu?' · '+esc(a.mu):''} · ${a.site==='s'?'雕刻':'繪畫'}</figcaption></figure>`}
 function storyPage(id){
   const s=stOf(id); if(!s) return '<p>找不到這則故事。</p>';
@@ -190,6 +191,7 @@ function storyPage(id){
   <div class="chips">${s.chars.map(cid=>CH[cid]?`<span class="chip" onclick="go('#char/${cid}')">${esc(CH[cid].zh)}</span>`:'').join('')}</div></div>
   <p class="hook">${esc(s.hook)}</p>${nextFig()}${secs}
   <div class="ending">${esc(s.ending)}</div>${ai<arts.length?nextFig():''}
+  ${s.audit&&s.audit.issues?`<div class="note" style="border-color:var(--danger)"><b>稽核備註</b>　${esc(s.audit.issues)}</div>`:''}
   <div class="note"><b>給家長的話</b><br>${esc(s.parents_note)}${s.moral?`<br><br><b>主題</b>　${esc(s.moral)}`:''}</div>
   ${arts.length?`<div class="sec"><h2 style="font-size:1.1rem">相關藝術作品（${arts.length}）</h2></div><div class="strip">${arts.map(a=>`<img src="${esc(a.thumb)}" alt="${esc(a.z||a.t)}" loading="lazy" onclick="openLb('${a.id}')">`).join('')}</div>`:''}
   <div class="nav2">${prev?`<button onclick="go('#story/${prev.id}')">← ${esc(prev.title)}</button>`:'<span></span>'}${next?`<button onclick="go('#story/${next.id}')">${esc(next.title)} →</button>`:''}</div></article>`;
