@@ -64389,5 +64389,79 @@
 "wd_flag": false,
 "lic": "CC0（Art Institute of Chicago Open Access）",
 "kind": "lithograph"
+},
+{
+"id": "m:m1690",
+"site": "m",
+"wid": "m1690",
+"a": "Jean-Baptiste Peytavin",
+"a_zh": "",
+"t": "Metabus and Camilla",
+"z": "梅塔布斯與嬰兒卡米拉",
+"zn": "梅塔布斯與嬰兒卡米拉",
+"y": "1808",
+"mu": "Musée des Beaux-Arts de Chambéry",
+"img": "img/800/m1690.webp",
+"thumb": "img/thumb/m1690.webp",
+"src_url": "https://commons.wikimedia.org/wiki/File:Metabus.jpg",
+"chars": [
+"camilla",
+"artemis"
+],
+"myth_theme": true,
+"mat": null,
+"local": true,
+"wd": "Q124359202",
+"wd_flag": false,
+"kind": ""
+},
+{
+"id": "m:m1691",
+"site": "m",
+"wid": "m1691",
+"a": "Léon Cogniet",
+"a_zh": "",
+"t": "梅塔布斯抱著卡米拉渡過洪水",
+"z": "梅塔布斯抱著卡米拉渡過洪水",
+"zn": "梅塔布斯抱著卡米拉渡過洪水",
+"y": "1821",
+"mu": "Department of Paintings of the Louvre, Musée des Beaux-Arts de Chartres",
+"img": "img/800/m1691.webp",
+"thumb": "img/thumb/m1691.webp",
+"src_url": "https://commons.wikimedia.org/wiki/File:Chartres_%28Eure-et-Loir%29_-_Mus%C3%A9e_des_Beaux-Arts_-_%22M%C3%A9tabus%2C_roi_des_Volsques%22_%28L%C3%A9on_Cogniet%2C_1794-1880%29_%2848011778266%29.jpg",
+"chars": [
+"camilla",
+"artemis"
+],
+"myth_theme": true,
+"mat": null,
+"local": true,
+"wd": "Q124325312",
+"wd_flag": false,
+"kind": ""
+},
+{
+"id": "m:m1692",
+"site": "m",
+"wid": "m1692",
+"a": "John Bacon",
+"a_zh": "",
+"t": "Aesculapius",
+"z": "醫神阿斯克勒庇俄斯",
+"zn": "醫神阿斯克勒庇俄斯",
+"y": "1777",
+"mu": "",
+"img": "img/800/m1692.webp",
+"thumb": "img/thumb/m1692.webp",
+"src_url": "https://commons.wikimedia.org/wiki/File:Statue_at_Guy_Hospital_%2812375394855%29.jpg",
+"chars": [
+"asclepius"
+],
+"myth_theme": true,
+"mat": null,
+"local": true,
+"wd": "Q96801491",
+"wd_flag": false,
+"kind": ""
 }
 ]
