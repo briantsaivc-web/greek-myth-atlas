@@ -13,7 +13,8 @@
 "spouses": [],
 "lovers": [],
 "children": [
-"nyx"
+"nyx",
+"erebus"
 ],
 "siblings": [],
 "killed": [],
@@ -162,7 +163,9 @@
 "chaos"
 ],
 "spouses": [],
-"lovers": [],
+"lovers": [
+"erebus"
+],
 "children": [
 "nemesis",
 "eris",
@@ -174,7 +177,9 @@
 "hesperides",
 "lyssa"
 ],
-"siblings": [],
+"siblings": [
+"erebus"
+],
 "killed": [],
 "killed_by": [],
 "transformed": null,
@@ -16196,5 +16201,32 @@
 "note": "見歐里庇得斯《赫拉克勒斯》。",
 "roman_symbols_note": null,
 "id": "lyssa"
+},
+"erebus": {
+"zh": "厄瑞玻斯",
+"en": "Erebus",
+"gr": "Érebos",
+"roman": null,
+"cat": "原始神",
+"domain": "幽冥與黑暗",
+"symbols": [],
+"bio": "赫西俄德《神譜》記載，厄瑞玻斯與黑夜倪克斯同為卡俄斯所生；倪克斯與厄瑞玻斯結合，生下明亮的埃忒耳與白晝赫墨拉。他是人格化的幽暗，不等同於冥王黑帝斯。",
+"parents": [
+"chaos"
+],
+"spouses": [],
+"lovers": [
+"nyx"
+],
+"children": [],
+"siblings": [
+"nyx"
+],
+"killed": [],
+"killed_by": [],
+"transformed": [],
+"mentor_of": [],
+"note": "出處：赫西俄德《神譜》123–125。",
+"id": "erebus"
 }
 }

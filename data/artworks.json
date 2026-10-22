@@ -13,7 +13,7 @@
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/c0001.webp",
 "chars": [
 "achilles",
-"ajax"
+"ajax_greater"
 ],
 "myth_theme": true,
 "mat": null,
@@ -992,15 +992,16 @@
 "mu": "Clark Art Institute, Williamstown",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/c0368.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/c0368.webp",
-"chars": [
-"nymphs",
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20Nymphs%20and%20Satyr%20%281873%29.jpg",
 "wd_flag": false,
-"zn": "寧芙與薩堤爾"
+"zn": "寧芙與薩堤爾",
+"topics": [
+"寧芙",
+"薩堤爾"
+]
 },
 {
 "id": "p:c0369",
@@ -1094,14 +1095,15 @@
 "mu": "Manchester Art Gallery",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/c0386.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/c0386.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Waterhouse%20Hylas%20and%20the%20Nymphs%20Manchester%20Art%20Gallery%201896.15.jpg",
 "wd_flag": false,
-"zn": "海拉斯與水仙女"
+"zn": "海拉斯與水仙女",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:c0398",
@@ -1115,14 +1117,15 @@
 "mu": "Musée de l'Orangerie, Paris",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/c0398.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/c0398.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": false,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Nymph%C3%A9as%2C%20le%20Matin%20aux%20saules%20%281914-1926%29%20de%20Claude%20Monet%20-%20Mus%C3%A9e%20de%20l%27Orangerie.jpg",
 "wd_flag": false,
-"zn": "睡蓮"
+"zn": "睡蓮",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:c0461",
@@ -1554,7 +1557,7 @@
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/n46108.webp",
 "chars": [
 "aphrodite",
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": null,
@@ -2219,7 +2222,7 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/x0137.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/x0137.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": false,
 "mat": null,
@@ -2466,7 +2469,7 @@
 "chars": [
 "aphrodite",
 "ares",
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": null,
@@ -4019,7 +4022,7 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y0003.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y0003.webp",
 "chars": [
-"ajax"
+"ajax_greater"
 ],
 "myth_theme": true,
 "mat": null,
@@ -4530,14 +4533,16 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y0263.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y0263.webp",
 "chars": [
-"artemis",
-"nymphs"
+"artemis"
 ],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Domenichino_-_Diana_and_her_Nymphs_-_WGA06390.jpg",
 "wd_flag": false,
-"zn": "狄安娜（阿蒂蜜絲）與她的仙女"
+"zn": "狄安娜（阿蒂蜜絲）與她的仙女",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:y0270",
@@ -4591,14 +4596,15 @@
 "mu": "Alte Pinakothek, Munich",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y0275.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y0275.webp",
-"chars": [
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Jacob_Jordaens_-_Satyr_at_the_Peasant's_House_-_WGA12002.jpg",
 "wd_flag": true,
-"zn": "薩提爾與農夫"
+"zn": "薩提爾與農夫",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "p:y0277",
@@ -5062,7 +5068,7 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y0527.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y0527.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": null,
@@ -6342,7 +6348,7 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1106.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1106.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": false,
 "mat": null,
@@ -6650,7 +6656,7 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1467.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1467.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": null,
@@ -6930,7 +6936,7 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1599.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1599.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": null,
@@ -8406,14 +8412,15 @@
 "mu": "Johann Wilhelm von der Pfalz collection",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1915.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1915.webp",
-"chars": [
-"amazons"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Battle_of_the_Amazons.JPG",
 "wd_flag": false,
-"zn": "亞馬遜之戰"
+"zn": "亞馬遜之戰",
+"topics": [
+"亞馬遜女戰士"
+]
 },
 {
 "id": "p:y1916",
@@ -9593,15 +9600,16 @@
 "mu": "Department of Paintings of the Louvre",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2453.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2453.webp",
-"chars": [
-"nymphs",
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Nymphe_et_satyre_-_Jean-Antoine_Watteau_-_Musée_du_Louvre_Peintures_MI_1129.jpg",
 "wd_flag": false,
-"zn": "寧芙與薩堤爾"
+"zn": "寧芙與薩堤爾",
+"topics": [
+"寧芙",
+"薩堤爾"
+]
 },
 {
 "id": "p:y2458",
@@ -9744,14 +9752,16 @@
 "chars": [
 "zeus",
 "artemis",
-"callisto",
-"nymphs"
+"callisto"
 ],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:François_Boucher_-_La_Nymphe_Callisto,_séduite_par_Jupiter_sous_les_traits_de_Diane_(1759).jpg",
 "wd_flag": false,
-"zn": "化身黛安娜（阿蒂蜜絲）的朱庇特（宙斯）與寧芙卡利斯托"
+"zn": "化身黛安娜（阿蒂蜜絲）的朱庇特（宙斯）與寧芙卡利斯托",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:y2487",
@@ -10457,14 +10467,16 @@
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2691.webp",
 "chars": [
 "calypso",
-"telemachus",
-"nymphs"
+"telemachus"
 ],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Telemachus_and_the_Nymphs_of_Calypso_MET_DP169393.jpg",
 "wd_flag": false,
-"zn": "特勒馬科斯與卡呂普索的仙女們"
+"zn": "特勒馬科斯與卡呂普索的仙女們",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:y2692",
@@ -10585,7 +10597,7 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2714.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2714.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": null,
@@ -10648,7 +10660,7 @@
 "chars": [
 "aphrodite",
 "ares",
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": null,
@@ -10982,14 +10994,16 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2821.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2821.webp",
 "chars": [
-"andromeda",
-"nymphs"
+"andromeda"
 ],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:1840_Chasseriau_Theodore_-_Andromeda_Chained_to_the_Rock_by_the_Nereids.jpg",
 "wd_flag": false,
-"zn": "被海中仙女縛於岩石的安朵美達"
+"zn": "被海中仙女縛於岩石的安朵美達",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:y2867",
@@ -11358,15 +11372,16 @@
 "mu": "Fitzwilliam Museum",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3275.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3275.webp",
-"chars": [
-"nymphs",
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Narcisse_Virgile_Diaz_de_la_Peña_(1807-1876)_-_Nymphs_and_Satyrs_-_PD.134-1985_-_Fitzwilliam_Museum.jpg",
 "wd_flag": false,
-"zn": "寧芙與薩堤爾"
+"zn": "寧芙與薩堤爾",
+"topics": [
+"寧芙",
+"薩堤爾"
+]
 },
 {
 "id": "p:y3309",
@@ -11422,15 +11437,17 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3321.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3321.webp",
 "chars": [
-"pan",
-"nymphs",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Nymphe_et_Saty_(Alexandre_Cabanel)_1860.JPG",
 "wd_flag": false,
-"zn": "被牧神擄走的寧芙"
+"zn": "被牧神擄走的寧芙",
+"topics": [
+"寧芙",
+"薩堤爾"
+]
 },
 {
 "id": "p:y3322",
@@ -11642,14 +11659,15 @@
 "mu": "Pérez Simón Collection",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3362.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3362.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Ferederic_Leighton_-_Crenaia,_the_nymph_of_the_Dargle;_1880.jpg",
 "wd_flag": false,
-"zn": "克雷納亞，達格爾河的寧芙"
+"zn": "克雷納亞，達格爾河的寧芙",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:y3363",
@@ -11684,14 +11702,15 @@
 "mu": "National Gallery of Canada",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3365.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3365.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:1868_Frederic_Leighton_-_Actaea.jpg",
 "wd_flag": false,
-"zn": "阿克泰亞，岸邊的寧芙"
+"zn": "阿克泰亞，岸邊的寧芙",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:y3366",
@@ -12552,14 +12571,15 @@
 "mu": "National Museum of Fine Arts, Argentina",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3529.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3529.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_Die_ueberraschte_Nymphe.jpg",
 "wd_flag": false,
-"zn": "受驚的寧芙"
+"zn": "受驚的寧芙",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "p:y3780",
@@ -12592,14 +12612,15 @@
 "mu": "National Museum in Warsaw",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3787.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3787.webp",
-"chars": [
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Slevogt_Faun_and_a_Girl.jpg",
 "wd_flag": false,
-"zn": "法翁與少女"
+"zn": "法翁與少女",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "p:y3827",
@@ -13143,14 +13164,15 @@
 "mu": "Bavarian State Painting Collections",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4033.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4033.webp",
-"chars": [
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Arnold_Böcklin_Pan_che_fischia_a_un_merlo.jpg",
 "wd_flag": false,
-"zn": "對著黑鳥吹口哨的法翁"
+"zn": "對著黑鳥吹口哨的法翁",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "p:y4034",
@@ -13205,14 +13227,16 @@
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4036.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4036.webp",
 "chars": [
-"artemis",
-"satyrs"
+"artemis"
 ],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Arnold_Böcklin_-_Sleeping_Diana_Watched_by_Two_Fauns_-_Google_Art_Project.jpg",
 "wd_flag": false,
-"zn": "被兩個法翁注視的沉睡黛安娜（阿蒂蜜絲）"
+"zn": "被兩個法翁注視的沉睡黛安娜（阿蒂蜜絲）",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "p:y4038",
@@ -13346,14 +13370,15 @@
 "mu": "Harvard Art Museums",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4067.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4067.webp",
-"chars": [
-"amazons"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Franz_von_Stuck_-_Wounded_Amazon_-_2002.96_-_Busch–Reisinger_Museum.jpg",
 "wd_flag": false,
-"zn": "受傷的亞馬遜人"
+"zn": "受傷的亞馬遜人",
+"topics": [
+"亞馬遜女戰士"
+]
 },
 {
 "id": "p:y4068",
@@ -13388,14 +13413,15 @@
 "mu": "Alte Nationalgalerie",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4070.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4070.webp",
-"chars": [
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:1918_von_Stuck_Faun_und_Nixe_anagoria.JPG",
 "wd_flag": false,
-"zn": "法翁與人魚"
+"zn": "法翁與人魚",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "p:y4073",
@@ -14223,14 +14249,15 @@
 "mu": "",
 "img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4406.webp",
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4406.webp",
-"chars": [
-"amazons"
-],
+"chars": [],
 "myth_theme": false,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:L'Amazone.jpg",
 "wd_flag": false,
-"zn": "亞馬遜女（穿黃外套的女子）"
+"zn": "亞馬遜女（穿黃外套的女子）",
+"topics": [
+"亞馬遜女戰士"
+]
 },
 {
 "id": "p:y4409",
@@ -14711,14 +14738,16 @@
 "thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y5025.webp",
 "chars": [
 "aphrodite",
-"eros",
-"satyrs"
+"eros"
 ],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Correggio_-_Venus_and_Cupid_with_a_Satyr.jpg",
 "wd_flag": false,
-"zn": "維納斯（阿芙蘿黛蒂）與丘比特（厄洛斯）和薩提爾"
+"zn": "維納斯（阿芙蘿黛蒂）與丘比特（厄洛斯）和薩提爾",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "p:y5026",
@@ -15591,14 +15620,15 @@
 "mu": "Lost",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0050.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0050.webp",
-"chars": [
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Resting_Satyr_by_Praxiteles_in_the_Capitoline_Museums_Rome_Cast_by_P._P._Caproni_and_Brother_in_Boston’s_Symphony_Hall.jpg",
 "wd_flag": false,
-"zn": "倚柱的薩特"
+"zn": "倚柱的薩特",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s0051",
@@ -15696,14 +15726,15 @@
 "mu": "Lost",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0065.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0065.webp",
-"chars": [
-"amazons"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "青銅",
 "src_url": "https://commons.wikimedia.org/wiki/File:Wounded_amazon,_Rome.jpg",
 "wd_flag": false,
-"zn": "受傷的亞馬遜（克雷西拉斯型）"
+"zn": "受傷的亞馬遜（克雷西拉斯型）",
+"topics": [
+"亞馬遜女戰士"
+]
 },
 {
 "id": "s:s0068",
@@ -16301,14 +16332,15 @@
 "mu": "Louvre, Paris",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0402.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0402.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "青銅",
 "src_url": "https://commons.wikimedia.org/wiki/File:La_Nymphe_de_Fontainebleau_-_Benvenuto_Cellini_-_Musée_du_Louvre_Sculptures_MR_1706_;_N_15050.jpg",
 "wd_flag": false,
-"zn": "楓丹白露的仙女"
+"zn": "楓丹白露的仙女",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s0406",
@@ -16466,7 +16498,7 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0439.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0439.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": "大理石",
@@ -16756,14 +16788,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0521.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0521.webp",
 "chars": [
-"apollo",
-"nymphs"
+"apollo"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Apollon_et_5_nymphes,_Bosquet_des_bains_d'Apollon,_Versailles_(retouché).jpg",
 "wd_flag": false,
-"zn": "阿波羅與寧芙"
+"zn": "阿波羅與寧芙",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s0525",
@@ -16897,14 +16931,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0555.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0555.webp",
 "chars": [
-"apollo",
-"nymphs"
+"apollo"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Apollon_et_5_nymphes,_Bosquet_des_bains_d'Apollon,_Versailles_(retouché).jpg",
 "wd_flag": false,
-"zn": "阿波羅與寧芙（寧芙像）"
+"zn": "阿波羅與寧芙（寧芙像）",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s0561",
@@ -17190,7 +17226,7 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0612.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0612.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": "大理石",
@@ -17359,7 +17395,7 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0629.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0629.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": "大理石",
@@ -17417,14 +17453,15 @@
 "mu": "Musée du Louvre, Paris",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0657.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0657.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Bartolini,_La_Nymphe_au_scorpion,_1845_(3573048107).jpg",
 "wd_flag": false,
-"zn": "被蠍子螫的寧芙"
+"zn": "被蠍子螫的寧芙",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s0664",
@@ -18375,14 +18412,15 @@
 "mu": "",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s1720.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s1720.webp",
-"chars": [
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:DSC00214_-_Satiro_versante_-_Da_Prassitele_-370-60_aC-_-_Copia_romana.jpg",
 "wd_flag": false,
-"zn": "斟酒的薩堤爾"
+"zn": "斟酒的薩堤爾",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s1721",
@@ -18966,14 +19004,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s1887.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s1887.webp",
 "chars": [
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Calco_della_testa_di_satiro_attr._al_buonarroti_e_rubato_dal_bargello_nel_1944.JPG",
 "wd_flag": false,
-"zn": "農牧神頭像"
+"zn": "農牧神頭像",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s1896",
@@ -19068,14 +19108,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s1903.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s1903.webp",
 "chars": [
-"nymphs",
 "triton"
 ],
 "myth_theme": true,
 "mat": "青銅",
 "src_url": "https://commons.wikimedia.org/wiki/File:Jacopo_Sansovino,_Door_Knocker_with_Nereid,_Triton,_and_Putti,_c._1550,_NGA_56932.jpg",
 "wd_flag": false,
-"zn": "有海仙女、海神與小天使的門環"
+"zn": "有海仙女、海神與小天使的門環",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s1912",
@@ -19111,14 +19153,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s1914.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s1914.webp",
 "chars": [
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "青銅",
 "src_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Francesco_Rustici,_A_Dancing_Faun,_model_c._1515,_cast_possibly_mid-16th_century,_NGA_43735.jpg",
 "wd_flag": false,
-"zn": "跳舞的農牧神"
+"zn": "跳舞的農牧神",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s1915",
@@ -19939,14 +19983,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s1984.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s1984.webp",
 "chars": [
-"dionysus",
-"satyrs"
+"dionysus"
 ],
 "myth_theme": true,
 "mat": "青銅",
 "src_url": "https://commons.wikimedia.org/wiki/File:Adrian_de_Vries_Bacchus.jpg",
 "wd_flag": false,
-"zn": "華倫斯坦花園的酒神與薩堤爾像"
+"zn": "華倫斯坦花園的酒神與薩堤爾像",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s1985",
@@ -20103,14 +20149,16 @@
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2003.webp",
 "chars": [
 "dionysus",
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Bacchanal-_A_Faun_Teased_by_Children_MET_DP248148.jpg",
 "wd_flag": false,
-"zn": "酒神節狂歡：兒童戲弄農牧神"
+"zn": "酒神節狂歡：兒童戲弄農牧神",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2006",
@@ -20125,14 +20173,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2006.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2006.webp",
 "chars": [
-"zeus",
-"satyrs"
+"zeus"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Bernini-goat_with_infants.JPG",
 "wd_flag": false,
-"zn": "羊型阿瑪爾忒婭"
+"zn": "羊型阿瑪爾忒婭",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2007",
@@ -20209,14 +20259,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2023.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2023.webp",
 "chars": [
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Rondanini_Faun.jpg",
 "wd_flag": false,
-"zn": "隆達尼尼農牧神"
+"zn": "隆達尼尼農牧神",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2024",
@@ -20416,14 +20468,16 @@
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2038.webp",
 "chars": [
 "dionysus",
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Bacchanal-_A_Faun_Teased_by_Children_MET_DP248148.jpg",
 "wd_flag": false,
-"zn": "酒神節狂歡：兒童戲弄農牧神"
+"zn": "酒神節狂歡：兒童戲弄農牧神",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2041",
@@ -20457,14 +20511,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2043.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2043.webp",
 "chars": [
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Pietro_and_Giovanni_Lorenzo_Bernini_292.jpg",
 "wd_flag": false,
-"zn": "農牧神與豹"
+"zn": "農牧神與豹",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2044",
@@ -20744,14 +20800,15 @@
 "mu": "Department of Sculptures of the Louvre",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2070.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2070.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Nymph_shell_Coysevox_Louvre_MR1823.jpg",
 "wd_flag": false,
-"zn": "仙女與貝殼"
+"zn": "仙女與貝殼",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s2071",
@@ -21206,14 +21263,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2106.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2106.webp",
 "chars": [
-"dionysus",
-"satyrs"
+"dionysus"
 ],
 "myth_theme": true,
 "mat": "青銅",
 "src_url": "https://commons.wikimedia.org/wiki/File:Clodion_Drunken_Bacchus_with_satyrs.jpg",
 "wd_flag": false,
-"zn": "醉酒的酒神與薩堤爾"
+"zn": "醉酒的酒神與薩堤爾",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2107",
@@ -21228,14 +21287,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2107.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2107.webp",
 "chars": [
-"dionysus",
-"satyrs"
+"dionysus"
 ],
 "myth_theme": true,
 "mat": "青銅",
 "src_url": "https://commons.wikimedia.org/wiki/File:Clodion_Dancers.jpg",
 "wd_flag": false,
-"zn": "舞者：兩位酒神女信徒與小薩堤爾"
+"zn": "舞者：兩位酒神女信徒與小薩堤爾",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2111",
@@ -21250,14 +21311,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2111.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2111.webp",
 "chars": [
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "陶土／赤陶",
 "src_url": "https://commons.wikimedia.org/wiki/File:'Faun_Family',_terracotta_relief_by_Claude_Michel,_c._1785,_National_Gallery_of_Art,_Washington,_D._C.jpg",
 "wd_flag": false,
-"zn": "農牧神一家"
+"zn": "農牧神一家",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2112",
@@ -21520,14 +21583,15 @@
 "mu": "Department of Sculptures of the Louvre",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2126.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2126.webp",
-"chars": [
-"satyrs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Sleeping_satyr_Bouchardon_Louvre_MR1921.jpg",
 "wd_flag": false,
-"zn": "沉睡的薩堤爾"
+"zn": "沉睡的薩堤爾",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2127",
@@ -22162,14 +22226,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2198.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2198.webp",
 "chars": [
-"pan",
-"satyrs"
+"pan"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Johan_Tobias_Sergel_(1740–1814)-_Faun_-_Fauni_-_Faunen_(29433004086).jpg",
 "wd_flag": false,
-"zn": "農牧神"
+"zn": "農牧神",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2206",
@@ -22221,14 +22287,15 @@
 "mu": "",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2217.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2217.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Bartolini,_La_Ninfa_del_deserto,_Traversetolo_-_Fondazione_Magnani-Rocca_-_2024-09-17_17-03-25_001.JPG",
 "wd_flag": false,
-"zn": "沙漠中的仙女"
+"zn": "沙漠中的仙女",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s2218",
@@ -22242,14 +22309,15 @@
 "mu": "Palazzo Pretorio Museum",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2218.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2218.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "其他",
 "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_bartolini,_la_ninfa_arnina,_modello_in_gesso,_1816-17,_03.JPG",
 "wd_flag": false,
-"zn": "阿爾尼納仙女"
+"zn": "阿爾尼納仙女",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s2221",
@@ -22573,14 +22641,16 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2311.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2311.webp",
 "chars": [
-"dionysus",
-"satyrs"
+"dionysus"
 ],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Pradier_satyre_et_bacchante.jpg",
 "wd_flag": false,
-"zn": "薩堤爾與酒神女信徒"
+"zn": "薩堤爾與酒神女信徒",
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "s:s2312",
@@ -22595,7 +22665,7 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2312.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2312.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": "大理石",
@@ -22790,14 +22860,15 @@
 "mu": "",
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2332.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2332.webp",
-"chars": [
-"nymphs"
-],
+"chars": [],
 "myth_theme": true,
 "mat": "大理石",
 "src_url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Bartolini,_La_Ninfa_del_deserto,_Traversetolo_-_Fondazione_Magnani-Rocca_-_2024-09-17_17-03-25_001.JPG",
 "wd_flag": false,
-"zn": "沙漠中的仙女"
+"zn": "沙漠中的仙女",
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "s:s2336",
@@ -23495,7 +23566,7 @@
 "img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2485.webp",
 "thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2485.webp",
 "chars": [
-"graces"
+"charites"
 ],
 "myth_theme": true,
 "mat": "陶土／赤陶",
@@ -39405,8 +39476,7 @@
 "img": "img/800/m0662.webp",
 "thumb": "img/thumb/m0662.webp",
 "chars": [
-"meleager",
-"calydonian_boar"
+"meleager"
 ],
 "myth_theme": true,
 "mat": null,
@@ -39414,7 +39484,10 @@
 "wd": "Q111518157",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"卡呂冬野豬"
+]
 },
 {
 "id": "m:m0663",
@@ -39430,8 +39503,7 @@
 "img": "img/800/m0663.webp",
 "thumb": "img/thumb/m0663.webp",
 "chars": [
-"meleager",
-"calydonian_boar"
+"meleager"
 ],
 "myth_theme": true,
 "mat": null,
@@ -39439,7 +39511,10 @@
 "wd": "Q117307265",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"卡呂冬野豬"
+]
 },
 {
 "id": "m:m0664",
@@ -41629,8 +41704,7 @@
 "thumb": "img/thumb/m0754.webp",
 "chars": [
 "paris",
-"pandoras_box",
-"nymph"
+"pandora"
 ],
 "myth_theme": true,
 "mat": null,
@@ -41638,7 +41712,10 @@
 "wd": "Q3061277",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m0755",
@@ -43699,8 +43776,7 @@
 "img": "img/800/m0840.webp",
 "thumb": "img/thumb/m0840.webp",
 "chars": [
-"silenus",
-"nymph"
+"silenus"
 ],
 "myth_theme": true,
 "mat": null,
@@ -43708,7 +43784,10 @@
 "wd": "Q3632485",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m0841",
@@ -43748,8 +43827,7 @@
 "img": "img/800/m0842.webp",
 "thumb": "img/thumb/m0842.webp",
 "chars": [
-"silenus",
-"satyr"
+"silenus"
 ],
 "myth_theme": true,
 "mat": null,
@@ -43757,7 +43835,10 @@
 "wd": "Q9163851",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m0843",
@@ -44206,7 +44287,7 @@
 "thumb": "img/thumb/m0861.webp",
 "chars": [
 "sphinx",
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -45503,7 +45584,7 @@
 "thumb": "img/thumb/m0915.webp",
 "chars": [
 "thetis",
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -45528,7 +45609,7 @@
 "thumb": "img/thumb/m0916.webp",
 "chars": [
 "thetis",
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46440,8 +46521,7 @@
 "img": "img/800/m0954.webp",
 "thumb": "img/thumb/m0954.webp",
 "chars": [
-"zeus",
-"satyr"
+"zeus"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46449,7 +46529,10 @@
 "wd": "Q17491840",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m0955",
@@ -46489,7 +46572,7 @@
 "img": "img/800/m0956.webp",
 "thumb": "img/thumb/m0956.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46497,7 +46580,10 @@
 "wd": "Q104527078",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0957",
@@ -46513,7 +46599,7 @@
 "img": "img/800/m0957.webp",
 "thumb": "img/thumb/m0957.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46521,7 +46607,10 @@
 "wd": "Q112253109",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0958",
@@ -46537,7 +46626,7 @@
 "img": "img/800/m0958.webp",
 "thumb": "img/thumb/m0958.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46545,7 +46634,10 @@
 "wd": "Q126163654",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0959",
@@ -46561,7 +46653,7 @@
 "img": "img/800/m0959.webp",
 "thumb": "img/thumb/m0959.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46569,7 +46661,10 @@
 "wd": "Q18579032",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0960",
@@ -46585,7 +46680,7 @@
 "img": "img/800/m0960.webp",
 "thumb": "img/thumb/m0960.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46593,7 +46688,10 @@
 "wd": "Q23929381",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0961",
@@ -46609,7 +46707,7 @@
 "img": "img/800/m0961.webp",
 "thumb": "img/thumb/m0961.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46617,7 +46715,10 @@
 "wd": "Q27749025",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0962",
@@ -46633,7 +46734,7 @@
 "img": "img/800/m0962.webp",
 "thumb": "img/thumb/m0962.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46641,7 +46742,10 @@
 "wd": "Q27926145",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0963",
@@ -46657,7 +46761,7 @@
 "img": "img/800/m0963.webp",
 "thumb": "img/thumb/m0963.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46665,7 +46769,10 @@
 "wd": "Q29644937",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0964",
@@ -46681,7 +46788,7 @@
 "img": "img/800/m0964.webp",
 "thumb": "img/thumb/m0964.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46689,7 +46796,10 @@
 "wd": "Q46707861",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0965",
@@ -46705,7 +46815,7 @@
 "img": "img/800/m0965.webp",
 "thumb": "img/thumb/m0965.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46713,7 +46823,10 @@
 "wd": "Q46708035",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0966",
@@ -46729,7 +46842,7 @@
 "img": "img/800/m0966.webp",
 "thumb": "img/thumb/m0966.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46737,7 +46850,10 @@
 "wd": "Q50326304",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0967",
@@ -46753,7 +46869,7 @@
 "img": "img/800/m0967.webp",
 "thumb": "img/thumb/m0967.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46761,7 +46877,10 @@
 "wd": "Q52284934",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0968",
@@ -46777,7 +46896,7 @@
 "img": "img/800/m0968.webp",
 "thumb": "img/thumb/m0968.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46785,7 +46904,10 @@
 "wd": "Q55829352",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0969",
@@ -46801,7 +46923,7 @@
 "img": "img/800/m0969.webp",
 "thumb": "img/thumb/m0969.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46809,7 +46931,10 @@
 "wd": "Q63676105",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0970",
@@ -46825,7 +46950,7 @@
 "img": "img/800/m0970.webp",
 "thumb": "img/thumb/m0970.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46833,7 +46958,10 @@
 "wd": "Q115003457",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0971",
@@ -46849,7 +46977,7 @@
 "img": "img/800/m0971.webp",
 "thumb": "img/thumb/m0971.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46857,7 +46985,10 @@
 "wd": "Q119917950",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0972",
@@ -46873,7 +47004,7 @@
 "img": "img/800/m0972.webp",
 "thumb": "img/thumb/m0972.webp",
 "chars": [
-"judgement_of_paris"
+"paris"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46881,7 +47012,10 @@
 "wd": "Q130223313",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"帕里斯的評判"
+]
 },
 {
 "id": "m:m0973",
@@ -46897,7 +47031,7 @@
 "img": "img/800/m0973.webp",
 "thumb": "img/thumb/m0973.webp",
 "chars": [
-"gigantomachy"
+"giants"
 ],
 "myth_theme": true,
 "mat": null,
@@ -46920,16 +47054,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0974.webp",
 "thumb": "img/thumb/m0974.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_V_en_Mühlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg",
 "wd": "Q1123378",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0975",
@@ -46944,16 +47079,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0975.webp",
 "thumb": "img/thumb/m0975.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Tizian_081.jpg",
 "wd": "Q19798137",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0976",
@@ -46968,16 +47104,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0976.webp",
 "thumb": "img/thumb/m0976.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Philip_II.jpg",
 "wd": "Q973260",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0977",
@@ -46992,16 +47129,17 @@
 "mu": "J. Paul Getty Museum",
 "img": "img/800/m0977.webp",
 "thumb": "img/thumb/m0977.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Titian_(Tiziano_Vecellio)_(Italian)_-_Portrait_of_Alfonso_d'Avalos,_Marquis_of_Vasto,_in_Armor_with_a_Page_-_Google_Art_Project.jpg",
 "wd": "Q20088065",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0978",
@@ -47016,16 +47154,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0978.webp",
 "thumb": "img/thumb/m0978.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:La_reina_Isabel_de_Borbón_a_caballo.jpg",
 "wd": "Q288380",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0979",
@@ -47040,16 +47179,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0979.webp",
 "thumb": "img/thumb/m0979.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_de_Austria,_infante_de_España.jpg",
 "wd": "Q3399483",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0980",
@@ -47064,16 +47204,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0980.webp",
 "thumb": "img/thumb/m0980.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:La_pradera_de_San_Isidro_de_Goya.jpg",
 "wd": "Q3788057",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0981",
@@ -47088,16 +47229,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0981.webp",
 "thumb": "img/thumb/m0981.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_IV_de_rojo.jpg",
 "wd": "Q600033",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0982",
@@ -47112,16 +47254,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0982.webp",
 "thumb": "img/thumb/m0982.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Felipe_IV_de_negro.jpg",
 "wd": "Q3380049",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0983",
@@ -47136,16 +47279,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0983.webp",
 "thumb": "img/thumb/m0983.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:El_infante_Carlos_María_Isidro.jpg",
 "wd": "Q3702514",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0984",
@@ -47160,16 +47304,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0984.webp",
 "thumb": "img/thumb/m0984.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_IV_a_caballo.jpg",
 "wd": "Q27766480",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0985",
@@ -47184,16 +47329,17 @@
 "mu": "Royal Collection",
 "img": "img/800/m0985.webp",
 "thumb": "img/thumb/m0985.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Franz_Xaver_Winterhalter_(1805-73)_-_The_Royal_Family_in_1846_-_RCIN_405413_-_Royal_Collection.jpg",
 "wd": "Q28028392",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0986",
@@ -47208,16 +47354,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0986.webp",
 "thumb": "img/thumb/m0986.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Luis_de_Etruria.jpg",
 "wd": "Q3702506",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0987",
@@ -47232,16 +47379,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0987.webp",
 "thumb": "img/thumb/m0987.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Velazquez-CondeBenavente.jpg",
 "wd": "Q3937588",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0988",
@@ -47256,16 +47404,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0988.webp",
 "thumb": "img/thumb/m0988.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_II_de_España,_por_Juan_Carreño_de_Miranda_(Museo_del_Prado).jpg",
 "wd": "Q27753116",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0989",
@@ -47280,16 +47429,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0989.webp",
 "thumb": "img/thumb/m0989.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_III_cazador.jpg",
 "wd": "Q27766092",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0990",
@@ -47304,16 +47454,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0990.webp",
 "thumb": "img/thumb/m0990.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Fernando_VII_en_un_campamento,_por_Goya.jpg",
 "wd": "Q27766899",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0991",
@@ -47328,16 +47479,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0991.webp",
 "thumb": "img/thumb/m0991.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Francisco_Goya_-_Portrait_of_Ferdinand_VII_of_Spain_in_his_robes_of_state_(1815)_-_Prado.jpg",
 "wd": "Q27766907",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0992",
@@ -47352,16 +47504,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0992.webp",
 "thumb": "img/thumb/m0992.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Fernando6.jpg",
 "wd": "Q16567200",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0993",
@@ -47376,16 +47529,17 @@
 "mu": "Groeningemuseum",
 "img": "img/800/m0993.webp",
 "thumb": "img/thumb/m0993.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Philipp_the_Good_-_Van_der_Weyden.jpg",
 "wd": "Q11824911",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0994",
@@ -47400,16 +47554,17 @@
 "mu": "Groeningemuseum",
 "img": "img/800/m0994.webp",
 "thumb": "img/thumb/m0994.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Portret_van_de_aartshertog_Albrecht,_circa_1601_-_circa_1620,_Groeningemuseum,_0040230000.jpg",
 "wd": "Q21676072",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0995",
@@ -47424,16 +47579,17 @@
 "mu": "Vlaamse Kunstcollectie",
 "img": "img/800/m0995.webp",
 "thumb": "img/thumb/m0995.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Louis_de_Gruuthuse.jpg",
 "wd": "Q22234949",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0996",
@@ -47448,16 +47604,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0996.webp",
 "thumb": "img/thumb/m0996.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_-_Hofjagd_in_Torgau_zu_Ehren_Karls_V._(1544,_Museo_del_Prado).jpg",
 "wd": "Q27697934",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0997",
@@ -47472,16 +47629,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0997.webp",
 "thumb": "img/thumb/m0997.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:The_Holy_Roman_Emperor_Charles_V_(1500–1558),_by_Juan_Pantoja_de_la_Cruz_(Museo_del_Prado,_Madrid).jpg",
 "wd": "Q27699366",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0998",
@@ -47496,16 +47654,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0998.webp",
 "thumb": "img/thumb/m0998.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Erasmus_Quellinus_(II)-_Jason_with_the_Golden_Fleece,_1630.jpg",
 "wd": "Q27701401",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m0999",
@@ -47520,16 +47679,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m0999.webp",
 "thumb": "img/thumb/m0999.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Teniers-fiesta_campestre-prado.jpg",
 "wd": "Q27701856",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m1000",
@@ -47544,16 +47704,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m1000.webp",
 "thumb": "img/thumb/m1000.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_II_de_España,_por_Sebastián_Herrera_Barnuevo_(Museo_del_Prado).jpg",
 "wd": "Q27752057",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m1001",
@@ -47568,16 +47729,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m1001.webp",
 "thumb": "img/thumb/m1001.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Carlos_II_por_Juan_Carreño_de_Miranda.jpg",
 "wd": "Q27752349",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m1002",
@@ -47592,16 +47754,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m1002.webp",
 "thumb": "img/thumb/m1002.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Charles_II,_King_of_Spain,_on_horseback_(by_Luca_Giordano)_-_Museo_del_Prado,_Madrid.jpg",
 "wd": "Q27752753",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m1003",
@@ -47616,16 +47779,17 @@
 "mu": "National Portrait Gallery",
 "img": "img/800/m1003.webp",
 "thumb": "img/thumb/m1003.webp",
-"chars": [
-"golden_fleece"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:King_Henry_VII.jpg",
 "wd": "Q28041989",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"金羊毛"
+]
 },
 {
 "id": "m:m1004",
@@ -47641,7 +47805,7 @@
 "img": "img/800/m1004.webp",
 "thumb": "img/thumb/m1004.webp",
 "chars": [
-"pandoras_box"
+"pandora"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47665,7 +47829,7 @@
 "img": "img/800/m1005.webp",
 "thumb": "img/thumb/m1005.webp",
 "chars": [
-"pandoras_box"
+"pandora"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47689,7 +47853,7 @@
 "img": "img/800/m1006.webp",
 "thumb": "img/thumb/m1006.webp",
 "chars": [
-"pandoras_box"
+"pandora"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47713,7 +47877,7 @@
 "img": "img/800/m1007.webp",
 "thumb": "img/thumb/m1007.webp",
 "chars": [
-"pandoras_box"
+"pandora"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47737,7 +47901,7 @@
 "img": "img/800/m1008.webp",
 "thumb": "img/thumb/m1008.webp",
 "chars": [
-"pandoras_box"
+"pandora"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47760,16 +47924,17 @@
 "mu": "J. Paul Getty Museum",
 "img": "img/800/m1009.webp",
 "thumb": "img/thumb/m1009.webp",
-"chars": [
-"calydonian_boar"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Calydonian_Boar_Hunt_-_Google_Art_Project.jpg",
 "wd": "Q20183144",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"卡呂冬野豬"
+]
 },
 {
 "id": "m:m1010",
@@ -47784,16 +47949,17 @@
 "mu": "Sculptures in the National Gallery of Art",
 "img": "img/800/m1010.webp",
 "thumb": "img/thumb/m1010.webp",
-"chars": [
-"calydonian_boar"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Guglielmo_della_Porta,_Hunt_of_the_Calydonian_Boar,_c._1553-1555,_NGA_69646.jpg",
 "wd": "Q63860873",
 "kind": "s",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"卡呂冬野豬"
+]
 },
 {
 "id": "m:m1011",
@@ -47808,16 +47974,17 @@
 "mu": "El Paso Museum of Art",
 "img": "img/800/m1011.webp",
 "thumb": "img/thumb/m1011.webp",
-"chars": [
-"calydonian_boar"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Battista_Dossi_-_'The_Hunt_of_the_Calydonian_Boar',_oil_on_wood,_after_1520,_El_Paso_Museum_of_Art.jpg",
 "wd": "Q65935729",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"卡呂冬野豬"
+]
 },
 {
 "id": "m:m1012",
@@ -47833,7 +48000,7 @@
 "img": "img/800/m1012.webp",
 "thumb": "img/thumb/m1012.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47857,7 +48024,7 @@
 "img": "img/800/m1013.webp",
 "thumb": "img/thumb/m1013.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47881,7 +48048,7 @@
 "img": "img/800/m1014.webp",
 "thumb": "img/thumb/m1014.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47905,7 +48072,7 @@
 "img": "img/800/m1015.webp",
 "thumb": "img/thumb/m1015.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47929,7 +48096,7 @@
 "img": "img/800/m1016.webp",
 "thumb": "img/thumb/m1016.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47953,7 +48120,7 @@
 "img": "img/800/m1017.webp",
 "thumb": "img/thumb/m1017.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -47977,7 +48144,7 @@
 "img": "img/800/m1018.webp",
 "thumb": "img/thumb/m1018.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -48001,7 +48168,7 @@
 "img": "img/800/m1019.webp",
 "thumb": "img/thumb/m1019.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -48025,7 +48192,7 @@
 "img": "img/800/m1020.webp",
 "thumb": "img/thumb/m1020.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -48049,7 +48216,7 @@
 "img": "img/800/m1021.webp",
 "thumb": "img/thumb/m1021.webp",
 "chars": [
-"lernaean_hydra"
+"hydra"
 ],
 "myth_theme": true,
 "mat": null,
@@ -49345,16 +49512,17 @@
 "mu": "Manchester Art Gallery",
 "img": "img/800/m1075.webp",
 "thumb": "img/thumb/m1075.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg",
 "wd": "Q9295442",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1076",
@@ -49369,16 +49537,17 @@
 "mu": "Mauritshuis",
 "img": "img/800/m1076.webp",
 "thumb": "img/thumb/m1076.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
 "wd": "Q32234",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1077",
@@ -49393,16 +49562,17 @@
 "mu": "National Gallery",
 "img": "img/800/m1077.webp",
 "thumb": "img/thumb/m1077.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:A_Nymph_by_a_Stream_(Pierre-Auguste_Renoir)-WUS07452_(cropped).jpg",
 "wd": "Q26706597",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1078",
@@ -49417,16 +49587,17 @@
 "mu": "James Hamilton, 1st Duke of Hamilton collection",
 "img": "img/800/m1078.webp",
 "thumb": "img/thumb/m1078.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio,_called_Titian_-_Nymph_and_Shepherd_-_Google_Art_Project.jpg",
 "wd": "Q20068831",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1079",
@@ -49441,16 +49612,17 @@
 "mu": "Staatliche Kunstsammlungen Dresden",
 "img": "img/800/m1079.webp",
 "thumb": "img/thumb/m1079.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Palma_Il_Vecchio_-_Ruhende_Venus,_Um_1518-20,_Gal.-Nr._190.jpg",
 "wd": "Q3877083",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1080",
@@ -49465,16 +49637,17 @@
 "mu": "",
 "img": "img/800/m1080.webp",
 "thumb": "img/thumb/m1080.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Brueghel_and_Rubens,_Diana_and_her_Nymphs_on_the_Point_of_Leaving_-_Musee_de_la_Chasse_et_Nature.jpg",
 "wd": "Q13572334",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1081",
@@ -49489,16 +49662,17 @@
 "mu": "Condé Museum",
 "img": "img/800/m1081.webp",
 "thumb": "img/thumb/m1081.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_-_Paysage_avec_deux_nymphes_et_un_serpent_-_Google_Art_Project.jpg",
 "wd": "Q3373686",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1082",
@@ -49513,16 +49687,17 @@
 "mu": "Kunstmuseum Solothurn",
 "img": "img/800/m1082.webp",
 "thumb": "img/thumb/m1082.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Klimt_-_Goldfische_-_1901-02.jpeg",
 "wd": "Q104120179",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1083",
@@ -49537,16 +49712,17 @@
 "mu": "Galleria Borghese",
 "img": "img/800/m1083.webp",
 "thumb": "img/thumb/m1083.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Domenichino_-_La_caccia_di_Diana_(Galleria_Borghese).jpg",
 "wd": "Q26038063",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1084",
@@ -49561,16 +49737,17 @@
 "mu": "Haggin Museum",
 "img": "img/800/m1084.webp",
 "thumb": "img/thumb/m1084.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Nymphaeum_(1878).jpg",
 "wd": "Q12843310",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1085",
@@ -49585,16 +49762,17 @@
 "mu": "Department of Paintings of the Louvre",
 "img": "img/800/m1085.webp",
 "thumb": "img/thumb/m1085.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Le_Triomphe_de_Flore_-_Nicolas_Poussin_-_Louvre_-_INV_7298.jpg",
 "wd": "Q18761428",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1086",
@@ -49609,16 +49787,17 @@
 "mu": "Thyssen-Bornemisza Museum",
 "img": "img/800/m1086.webp",
 "thumb": "img/thumb/m1086.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d._Ä._-_Quellnymphe_(Museo_Thyssen-Bornemisza).jpg",
 "wd": "Q21036112",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1087",
@@ -49633,16 +49812,17 @@
 "mu": "Barnes Foundation",
 "img": "img/800/m1087.webp",
 "thumb": "img/thumb/m1087.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Matisse_-_Carra,_467.jpg",
 "wd": "Q28128236",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1088",
@@ -49657,16 +49837,17 @@
 "mu": "Department of Sculptures of the Louvre",
 "img": "img/800/m1088.webp",
 "thumb": "img/thumb/m1088.webp",
-"chars": [
-"nymph"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Bartolini-ninfa2.jpg",
 "wd": "Q17451496",
 "kind": "s",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙"
+]
 },
 {
 "id": "m:m1089",
@@ -49681,17 +49862,18 @@
 "mu": "",
 "img": "img/800/m1089.webp",
 "thumb": "img/thumb/m1089.webp",
-"chars": [
-"nymph",
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Corisca_and_the_Satyr_by_Artemisia_Gentileschi.jpg",
 "wd": "Q29016906",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"寧芙",
+"薩堤爾"
+]
 },
 {
 "id": "m:m1090",
@@ -49706,16 +49888,17 @@
 "mu": "National Gallery",
 "img": "img/800/m1090.webp",
 "thumb": "img/thumb/m1090.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Botticelli_-_Venus_and_Mars2.jpeg",
 "wd": "Q2293953",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1091",
@@ -49730,16 +49913,17 @@
 "mu": "Glyptothek",
 "img": "img/800/m1091.webp",
 "thumb": "img/thumb/m1091.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Barberini_Faun_(GL_218)_-_Glyptothek_-_Munich_-_Germany_2017_(2).jpg",
 "wd": "Q681431",
 "kind": "s",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1092",
@@ -49754,16 +49938,17 @@
 "mu": "National Gallery",
 "img": "img/800/m1092.webp",
 "thumb": "img/thumb/m1092.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Titian_Bacchus_and_Ariadne.jpg",
 "wd": "Q1206860",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1093",
@@ -49778,16 +49963,17 @@
 "mu": "National Gallery",
 "img": "img/800/m1093.webp",
 "thumb": "img/thumb/m1093.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_013.jpg",
 "wd": "Q2457026",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1094",
@@ -49802,16 +49988,17 @@
 "mu": "Uffizi Gallery",
 "img": "img/800/m1094.webp",
 "thumb": "img/thumb/m1094.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_(or_copy_after),_Venus,_Satyr_and_Cupids,_Chrysler_Collection.png",
 "wd": "Q18420689",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1095",
@@ -49826,16 +50013,17 @@
 "mu": "",
 "img": "img/800/m1095.webp",
 "thumb": "img/thumb/m1095.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Satiro_danzante.jpg",
 "wd": "Q2543426",
 "kind": "s",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1096",
@@ -49850,16 +50038,17 @@
 "mu": "Bavarian State Painting Collections",
 "img": "img/800/m1096.webp",
 "thumb": "img/thumb/m1096.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Two_Satyrs_-_WGA20303.jpg",
 "wd": "Q3716035",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1097",
@@ -49874,16 +50063,17 @@
 "mu": "Samuel H. Kress Collection",
 "img": "img/800/m1097.webp",
 "thumb": "img/thumb/m1097.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Lotto,_allegoria_della_castità.jpg",
 "wd": "Q3612414",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1098",
@@ -49898,16 +50088,17 @@
 "mu": "Museo del Prado",
 "img": "img/800/m1098.webp",
 "thumb": "img/thumb/m1098.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_(Circle_of)-_Diana_y_una_ninfa_sorprendidas_por_un_sátiro,_1622-1627.jpg",
 "wd": "Q18419520",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1099",
@@ -49922,16 +50113,17 @@
 "mu": "",
 "img": "img/800/m1099.webp",
 "thumb": "img/thumb/m1099.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Satiro_con_capro_1.JPG",
 "wd": "Q3950774",
 "kind": "s",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1100",
@@ -49946,16 +50138,17 @@
 "mu": "Musée des Beaux-Arts de Rouen",
 "img": "img/800/m1100.webp",
 "thumb": "img/thumb/m1100.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:LeBaindeDianeClouet.jpg",
 "wd": "Q18688237",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1101",
@@ -49970,16 +50163,17 @@
 "mu": "Royal Museums of Fine Arts of Belgium",
 "img": "img/800/m1101.webp",
 "thumb": "img/thumb/m1101.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Jakob_Jordaens_012.jpg",
 "wd": "Q66317800",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1102",
@@ -49994,16 +50188,17 @@
 "mu": "",
 "img": "img/800/m1102.webp",
 "thumb": "img/thumb/m1102.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Parc_de_Versailles,_Bassin_de_Bacchus,_Balthazar_et_Gaspard_Marsy,_(1672–75)_05.jpg",
 "wd": "Q2887459",
 "kind": "s",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1103",
@@ -50018,16 +50213,17 @@
 "mu": "São Paulo Museum of Art",
 "img": "img/800/m1103.webp",
 "thumb": "img/thumb/m1103.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Clouet_-_banhodiana02.jpg",
 "wd": "Q10338749",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1104",
@@ -50042,16 +50238,17 @@
 "mu": "National Museum in Warsaw",
 "img": "img/800/m1104.webp",
 "thumb": "img/thumb/m1104.webp",
-"chars": [
-"satyr"
-],
+"chars": [],
 "myth_theme": true,
 "mat": null,
 "src_url": "https://commons.wikimedia.org/wiki/File:Caliari_Apollo_flaying_Marsyas.JPG",
 "wd": "Q21997447",
 "kind": "p",
 "wd_flag": false,
-"local": true
+"local": true,
+"topics": [
+"薩堤爾"
+]
 },
 {
 "id": "m:m1105",
@@ -50067,7 +50264,7 @@
 "img": "img/800/m1105.webp",
 "thumb": "img/thumb/m1105.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50091,7 +50288,7 @@
 "img": "img/800/m1106.webp",
 "thumb": "img/thumb/m1106.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50115,7 +50312,7 @@
 "img": "img/800/m1107.webp",
 "thumb": "img/thumb/m1107.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50139,7 +50336,7 @@
 "img": "img/800/m1108.webp",
 "thumb": "img/thumb/m1108.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50163,7 +50360,7 @@
 "img": "img/800/m1109.webp",
 "thumb": "img/thumb/m1109.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50187,7 +50384,7 @@
 "img": "img/800/m1110.webp",
 "thumb": "img/thumb/m1110.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50211,7 +50408,7 @@
 "img": "img/800/m1111.webp",
 "thumb": "img/thumb/m1111.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50235,7 +50432,7 @@
 "img": "img/800/m1112.webp",
 "thumb": "img/thumb/m1112.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50259,7 +50456,7 @@
 "img": "img/800/m1113.webp",
 "thumb": "img/thumb/m1113.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50283,7 +50480,7 @@
 "img": "img/800/m1114.webp",
 "thumb": "img/thumb/m1114.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50307,7 +50504,7 @@
 "img": "img/800/m1115.webp",
 "thumb": "img/thumb/m1115.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50331,7 +50528,7 @@
 "img": "img/800/m1116.webp",
 "thumb": "img/thumb/m1116.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50355,7 +50552,7 @@
 "img": "img/800/m1117.webp",
 "thumb": "img/thumb/m1117.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50379,7 +50576,7 @@
 "img": "img/800/m1118.webp",
 "thumb": "img/thumb/m1118.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50403,7 +50600,7 @@
 "img": "img/800/m1119.webp",
 "thumb": "img/thumb/m1119.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50427,7 +50624,7 @@
 "img": "img/800/m1120.webp",
 "thumb": "img/thumb/m1120.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50451,7 +50648,7 @@
 "img": "img/800/m1121.webp",
 "thumb": "img/thumb/m1121.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -50475,7 +50672,7 @@
 "img": "img/800/m1122.webp",
 "thumb": "img/thumb/m1122.webp",
 "chars": [
-"centaur"
+"centaurs"
 ],
 "myth_theme": true,
 "mat": null,
@@ -62867,6 +63064,111 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Sophie_Rude_-_The_death_of_Cenchirias,_son_of_Neptune_and_the_nymph_Peirene.jpg",
 "wd": "Q110713998",
 "kind": "p",
+"wd_flag": false,
+"local": true
+},
+{
+"id": "m:m1639",
+"site": "m",
+"wid": "m1639",
+"a": "Rijksmuseum",
+"a_zh": "克里斯平·范德帕斯一世",
+"t": "Scylla en Minos Metamorfosen van Ovidius (serietitel), RP-P-OB-15.944",
+"z": "斯庫拉在城牆上望見米諾斯（《變形記》插圖）",
+"zn": "斯庫拉在城牆上望見米諾斯（《變形記》插圖）",
+"y": "1602–1607",
+"mu": "Rijksmuseum, Amsterdam",
+"img": "img/800/m1639.webp",
+"thumb": "img/thumb/m1639.webp",
+"chars": [
+"nisus",
+"scylla_megara",
+"minos"
+],
+"myth_theme": true,
+"mat": null,
+"src_url": "https://commons.wikimedia.org/wiki/File:Scylla_en_Minos_Metamorfosen_van_Ovidius_(serietitel),_RP-P-OB-15.944.jpg",
+"wd": "",
+"kind": "p",
+"wd_flag": false,
+"local": true
+},
+{
+"id": "m:m1640",
+"site": "m",
+"wid": "m1640",
+"a": "Rijksmuseum",
+"a_zh": "佚名（荷蘭版畫）",
+"t": "Telethusa en Iphis bidden tot Isis Metamorfosen van Ovidius (serietitel), RP-P-2014-34-55",
+"z": "忒勒圖薩與伊菲斯向伊西斯祈禱（《變形記》插圖）",
+"zn": "忒勒圖薩與伊菲斯向伊西斯祈禱（《變形記》插圖）",
+"y": "約 1636",
+"mu": "Rijksmuseum, Amsterdam",
+"img": "img/800/m1640.webp",
+"thumb": "img/thumb/m1640.webp",
+"chars": [
+"iphis",
+"ianthe",
+"isis"
+],
+"myth_theme": true,
+"mat": null,
+"src_url": "https://commons.wikimedia.org/wiki/File:Telethusa_en_Iphis_bidden_tot_Isis_Metamorfosen_van_Ovidius_(serietitel),_RP-P-2014-34-55.jpg",
+"wd": "",
+"kind": "p",
+"wd_flag": false,
+"local": true
+},
+{
+"id": "m:m1641",
+"site": "m",
+"wid": "m1641",
+"a": "Didier Descouens",
+"a_zh": "J. M. W. 透納",
+"t": "(Barcelona) Aesacus and Hesperie - 1817-18 - William Turner - Tate Britain",
+"z": "埃薩科斯與赫斯珀里亞",
+"zn": "埃薩科斯與赫斯珀里亞",
+"y": "1819",
+"mu": "",
+"img": "img/800/m1641.webp",
+"thumb": "img/thumb/m1641.webp",
+"chars": [
+"aesacus",
+"priam",
+"thetis"
+],
+"myth_theme": true,
+"mat": null,
+"src_url": "https://commons.wikimedia.org/wiki/File:(Barcelona)_Aesacus_and_Hesperie_-_1817-18_-_William_Turner_-_Tate_Britain.jpg",
+"wd": "",
+"kind": "p",
+"wd_flag": false,
+"local": true
+},
+{
+"id": "m:m1642",
+"site": "m",
+"wid": "m1642",
+"a": "Zde",
+"a_zh": "佚名（古風希臘）",
+"t": "Kleobis_and_Biton,_590_BC,_AM_DelphiDlfm452a",
+"z": "克勒俄比斯與比同（傳）",
+"zn": "克勒俄比斯與比同（傳）",
+"y": "約前 590–580",
+"mu": "Delphi Archaeological Museum",
+"img": "img/800/m1642.webp",
+"thumb": "img/thumb/m1642.webp",
+"chars": [
+"cleobis",
+"biton",
+"hera",
+"croesus"
+],
+"myth_theme": true,
+"mat": null,
+"src_url": "https://commons.wikimedia.org/wiki/File:Kleobis_and_Biton,_590_BC,_AM_DelphiDlfm452a.jpg",
+"wd": "",
+"kind": "s",
 "wd_flag": false,
 "local": true
 }
